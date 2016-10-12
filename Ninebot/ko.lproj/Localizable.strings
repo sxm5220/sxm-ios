@@ -1,0 +1,1363 @@
+/* 
+  Localizable.strings
+  Ninebot
+
+  Created by 宋晓明 on 16/8/16.
+  Copyright © 2016年 sxm. All rights reserved.
+*/
+
+//levy-2016-8-8
+"nb_online_pay_result_go_order"="查看订单";
+"nb_online_pay_result_go_home"="返回首页";
+"nb_online_pay_mode"="支付方式：";
+"nb_online_order_fee"="付款总额：";
+"nb_online_order_num"="订单编号：";
+"nb_online_pay_result_title"="支付结果";
+"nb_online_confirm_pay"="确认支付";
+"nb_online_order_pay"="订单支付";
+"nb_online_pay_install_wechat"="对不起，请先安装微信app，再进行微信支付";
+//sxm-20160805
+"s_assistance_mode"="발판 누르면 견인 모드로 변환합니다.";
+//ln-2016-8-3
+"nb_nfans_language_apply"="N밴드 전체에 적용됩니다.";
+//sxm-2016-8-1
+"s_vehicleSetting"="车辆设置";
+"s_cruise"="自动定速巡航";
+"s_cruise_info"="启用自动定速巡航功能后，骑行中保持油门位置不变5秒以上，听到滴声长响后，可松开油门，车辆会保持当前速度继续行驶。捏下刹把或再次按下油门，定速巡航取消。";
+"s_controlMode"="油门模式";
+"s_speedControl"="速度模式";
+"s_torqueControl"="转矩模式";
+"s_energyRecovery"="能量回收强度设置";
+"s_energyRecovery1"="强";
+"s_energyRecovery2"="中";
+"s_energyRecovery3"="弱";
+//ln 2016-7-28
+"nb_nfans_send_edit"="편집을 취소하시겠습니까？";
+"nb_nfans_rule_title"="N밴드 관리 규정 설명";
+"nb_search_tip_forbit"=" %@ 에 대해 게시금지 하시겠습니까?";
+"nb_search_tip_noforbit"=" %@ 에 대해 게시금지를 해제하시겠습니까?";
+
+//sxm-20160728
+"s_not_filled"="未绑定";
+"s_complete_email"="메일주소 수정";
+"s_input_newEmail"="메일 주소 입력하세요";
+"s_newEmail_information"="Ninebot등록된 메일 주소로 인증 메세지 발송이 됩니다.확인 바랍니다.";
+"s_emailCode_fail"="인증코드 입력이 잘못 되였거나 입력 시간 초과 되였습니다.";
+"s_emailCode_sendFail"="인증코드 발송 실패되였습니다.";
+
+//mgl-20160727
+"backgroundRunSwitch"="백그라운드 실행 알림 허용";
+"backgroundRunSwitchTip"="알림 허용을 끄면 경고 및 알림 기능이 작동되지 않습니다.";
+
+//levy-20160727
+"nb_robot_active_statement_title"="Statement";
+"nb_robot_active_statement_content"="Please enter your email address so you can retrieve your password if you forget it.  Ninebot by Segway will also send you service updates or notifications via email.  Ninebot by Segway will not share your email address with other companies.";
+
+//sxm-20160707
+"settings_other_bt_name_restart"="블루투스 이름 변경시 전원 재부팅 후 적용됩니다.\n재연결 하십시오!";
+"s_upgradeUserNameTip"="사용자 로그인 것은 주의하십시오 데 사용할 수 있도록 수정, 단지 한 번 조심해서 쓰세요";
+"s_transMode"="전원버튼 설정";
+"s_transModeTip"="해당 기능을 활성화하면 전원버튼을 길게 눌러야 시동이 켜집니다. 이러한 설정은 운반 또는 보관중의 실수로 전원이 켜지는 것을 방지할 수 있습니다.";
+//mgl-20160614
+"m_TeachTip_speed"="해당 제품은 초보자 가이드를 완성하지 않아 속도제한을 해제할 수 없습니다. 지금 초보자 가이드를 진행할까요?";
+//sxm-20160603
+"s_backfast_alarm"="후진속도가 빠릅니다.";
+"s_parameter_nil"="파라미터 값！";
+"s_openLocal"="위치사용 허용을 해야 해당 기능을 사용할 수 있습니다. 위치사용 허용을 할까요?（설정->개인 정보 보호->위치 서비스->Ninebot）";
+"m_draw_success"="领取成功";
+"m_Goods_not_Enough"="暂时缺货";
+"m_winning_Record"="中奖记录";
+"s_driverTemp"="드라이버기판 온도";
+//mgl-2016-6-1
+"m_lottery_rule"="抽奖规则";
+"m_had_get"="已领取";
+"m_everytime_Need"="每次仅需";
+"m_interjection"="呢~";
+//mgl-2016-5-23
+"m_integralShop"="积分商城";
+"m_N_MoneyShop"="N币商城";
+"m_exchangeArea"="兑换专区";
+"m_NMoney"="N币";
+"m_ConvertReord"="兑换记录";
+"m_GoodsDetailed"="商品详情";
+"m_surplus"="剩余";
+"m_Piece"="件";
+"m_marketPrice"="市场价";
+"m_unitary"="元";
+"m_immediateExchange"="立即兑换";
+"m_N_Notenough"="N币不足";
+"m_goodsNmae"="商品名称";
+"m_goodsAbout"="商品简介";
+"m_exchangeProcess"="兑换流程";
+"m_attentionMatter"="注意事项";
+"m_defaultSwitch"="设为默认";
+"m_pleaseInputStreetOrHouseNumber"="路或街道地址，门牌号";
+"m_addressList"="地址列表";
+"m_hadSet_defaul"="设为默认";
+
+//2016-5-19
+"l_no_search_result"="안 데이터";
+
+//sxm-20160527
+"s_local_rank"="현지역 랭킹";
+"s_currentlocal"="현재위치:";
+//sxm-20160518
+//"s_bleConn_fail"="连接密码不正确，请重新输入连接密码！";
+
+//sxm-20160516
+"s_orig_pwdFail"="기존 비밀번호가 맞지 않습니다.";
+//sxm-20160513
+"s_limitSpeed_Intro_tip"="제품은 배터리 잔량, 온도, 하중과 운전 스타일 등에 의해 자동으로 제한 속도를 조절합니다. 속도 게이지 지침 표시가 빨간색 점선까지 도달하면 과속되었음을 표시입니다.이때 제품은 서서히 뒤로 젖히면서(발판 헤드업) 속도를 줄입니다. 운전 시 주의바랍니다.";
+"s_remainderRange_tip"="해당 주행잔여거리는 정격 수치입니다. 이 수치는 온도, 타이어 공기압, 사용자 몸무게 등에 의한 오차가 있습니다. 주행잔여거리는 실제 상황에 따라 판단하시기 바랍니다.";
+//2016-5-11
+"l_nfans_forbit_title"="게시제한";
+"s_limitSpeedMode_Tips"="속도제한모드로 변경하시겠습니까?";
+"l_fans_forbit_cancle"="사용자 리스트";
+"l_fans_no_forbit"="금지 해제";
+"l_search_user_list"="사용자 리스트";
+"l_search_dynamic_list"="게시글 리스트";
+"l_search_forbit_list"="게시제한 리스트";
+"l_search_more"="더 보기";
+"l_search_totle"="총";
+"l_search_page"="장";
+"l_search"="검색";
+"m_goto_Activation"="활성화로 가기";
+"s_medalList"="메달 리스트";
+"m_my_Npoints"="나의 N머니";
+"m_Npoints_Details"="N머니 내역";
+"m_integral_Rule"="포인트 규정";
+"m_Npoints_Rule"="N머니 규정";
+"m_MyGrade"="나의 등급";
+"m_Grade_Detaile"="등급 상세보기";
+"m_Grade_Name"="등급 명칭";
+"m_points"="포인트";
+"m_Update_NeedPoints"="레벨업 포인트";
+"m_All_Points"="총 포인트";
+"m_Attendance"="출석체크";
+"s_userLevel"="등급";
+"Input1_15"="1-15자리의 영문자 또는 숫자를 입력하세요.";
+"s_rideTip"="안전 운전 하십시오.";
+//mini warning
+"s_mini_warning_1"="배터리 잔량이 부족합니다. 충전하세요！";
+"s_mini_warning_2"="차체의 온도가 높습니다！";
+"s_mini_warning_3"="차체의 온도가 낮습니다！";
+"s_mini_warning_4"="배터리의 온도가 높습니다！";
+"s_mini_warning_5"="배터리의 온도가 낮습니다！";
+"s_mini_warning_6"="후진 속도가 너무 빠릅니다. 안전 운전 하세요.";
+"s_mini_warning_7"="모터의 부하현상이 있습니다. 전류 오류, 안전 운전 하세요!";
+"s_mini_warning_8"="제품이 넘어졌습니다. 안전 운전 하세요！";
+"s_mini_warning_9"="제품이 잠금 모드에 있습니다！";
+"s_mini_warning_10"="과속하였습니다. 안전 운전 하세요！";
+"s_mini_warning_11"="과속 경고입니다. 바로 감속하세요！";
+"s_mini_warning_12"="배터리 전압이 높습니다. 내리막길을 주행하거나 급브레이크를 하지마세요!";
+"s_mini_warning_13"="모터 과부하 현상이 있습니다. 가속하지 마세요！";
+"s_mini_warning_14"="제품 출력이 높습니다. 가속하지 마세요！";
+"s_mini_warning_15"="모터의 토크가 높습니다. 가속하지 마세요！";
+"s_mini_warning_16"="급가속 경고입니다. 안전 운전 하세요！";
+"s_mini_warning_17"="배터리 전압이 낮습니다. 조심하여 운전하세요！";
+"s_mini_warning_18"="고속주행중 발판센서에서 발이 분리되었음을 감지하였습니다. 발판이 서서히 들리면서 감속될 것입니다!";
+"s_average_power_consumption"="배터리 평균 사용량";
+//markII error
+"s_limit_speed"="속도제한";
+"s_markII_error_1"="모터 홀센서 오류 또는 모터 미연결";
+"s_markII_error_2"="드라이버 A상전류 오류";
+"s_markII_error_3"="드라이버 B상전류 오류";
+"s_markII_error_4"="드라이버 C상전류 오류";
+"s_markII_error_6"="본체 시리얼번호가 초기 시리얼번호입니다.";
+"s_markII_error_10"="배터리1 통신 오류";
+"s_markII_error_11"="배터리2 통신 오류";
+"s_markII_error_12"="자이로스코프 초기화 오류";
+"s_markII_error_13"="자이로스코프 교정 오류";
+"s_markII_error_14"="배터리1 출력 오류";
+"s_markII_error_15"="배터리2 출력 오류";
+"s_markII_error_16"="배터리1 온도 오류";
+"s_markII_error_17"="배터리2 온도 오류";
+"s_markII_error_24"="메인 전압 오류";
+"s_markII_error_25"="승압 전압 오류";
+"s_markII_error_26"="시스템 시간에 오류가 있습니다.";
+"s_markII_error_27"="전류 교정 오류";
+"s_markII_error_28"="배터리1 전원 공급 선로 오류";
+"s_markII_error_29"="배터리2 전원 공급 선로 오류";
+"s_markII_error_30"="온도 감응 센서 개회로";
+"s_markII_error_31"="온도 감응 센서 폐회로";
+"s_error_code_desc_default"="알 수 없는 에러코드";
+"s_ikonw"="확인";
+"s_dashboard_tip"="계기판 알림";
+"s_hightSpeed_tip"="빨간색 점선은 과속 표시입니다. 빨간 눈금선을 넘을 경우 안전에 주의하여 주행하시기 바랍니다.";
+
+"s_batterChangeTip"="배터리 교체 알림";
+"s_oneBatterTip"="현재 귀하의 제품에 배터리가 한 개만 장착했습니다. 이로 인해 다음과 같이 성능이 하향니다：\n1）배터리 만충 시 최대 주행거리 ";
+"s_oneBatterySpeedValue"="\n2）최고속도 ";
+"s_batterUpgradeTip"="배터리 업그레이드 알림";
+"s_doubleBatterTip"="축하합니다. 배터리가 업그레이드 되었습니다. 업그레이드 후 성능이 다음과 같이 상향됩니다：\n1）배터리 만충 시 최대 주행거리 ";
+
+//l-3-30
+"PhoneLogin"="가입";
+"TargetSNInputError"="두번 입력한 시리얼번호가 다릅니다. 다시 입력해 주세요.";
+"Target_identification_sn"="변경할 시리얼번호 확인란:";
+"setting_other_sn_warnning_invalid_location"="위치를 확인하지 못했습니다！";
+"s_carrySwitch"="휴대모드 설정";
+"s_battery1"="배터리1";
+"s_battery2"="배터리2";
+"speed_limit_active"="해당 제품은 활성화한 제품이 아닙니다. 주행속도를 설정할 수 없습니다.";
+//l-2-18
+"l-active-Congratulations"="축하합니다";
+"s_nplace_title"="N밴드";
+"nb_nfans_message_unread"="새로운 메세지";
+"nb_nfans_language_title"="언어 선택";
+//ln-2-1
+"l-map-clear_location_fail"="나의 위치정보를 삭제하는데 실패하였습니다.";
+"l_map_location_error"="위치정보에 접근할 수 없습니다. 먼저 위치정보 사용을 허용하세요.";
+"l_calculator_remian_mil"="주행가능 거리는 일정한 사용환경의 조건에 추정된 수치입니다. 실제 주행거리는 온도, 지형, 속도, 몸무게, 주행스타일, 시동횟수 등 여러가지 요소의 영향을 받습니다.";
+//ln-1-30
+"activate_title"="활성화";
+"activate_ing"="활성화...";
+"nfans-chat-new"="내용을 입력하십시오.";
+//ln-1-29
+"map_nearby_change_google"="구글맵 열기";
+"map_nearby_change_baidu" = "바이두맵 열기";
+//ln-1-8
+"t_not_login"="현재 로그아웃 상태입니다. 먼저 로그인 하세요.";
+"s_noMoreMessage"="더 이상 뉴스가 없습니다";
+"ySystemMsg"="공지사항";
+"l_nfans_photo_fail"="저장 실패";
+"l_nfans_photo_success"="저장할 앨범 성공";
+"t_sure_togo"="보기";
+"l_nfans_picture_fail"="그림 불러오기 실패";
+"s_haslogin"="로그인이 기한이 만료되었습니다. 다시 로그인 하세요";
+//sxm-1-8
+"s_mileage_check"="본 차량은 클라우드 서버에 기록된 마일리지 보다 높습니다, 마일리지를 동기화 하겠습니다？";
+"s_no_permissions"="사용 권한이 없습니다!";
+"s_sysmile_fail"="마일리지 데이터 가져오기 실패, 동기화 실패！";
+"s_sysfail"="마일리지 동기화 실패, 다시 시도하십시오！";
+//sxm-1-4
+"s_sysnmileage"="마일리지 동기화";
+"s_sysSuccess"="마일리지 동기화 완료！";
+"s_tip"="자체점검 팁";
+"s_snError"="컨트롤s/n 이상입니다. A/S센터에 연락하시기 바랍니다.！";
+//ln-1-7
+"l_user_herderImgView_success"="프로필 사진이 업데이트 되었습니다";
+"l_user_headerImgView_fail"="프로필 사진이 업데이트 실패했습니다";
+"l_nfans_copy"="복사";
+
+//ln-12-30
+"l_nfans_stick_success"="수정되었습니다";
+"l_nfans_stick_fail"="변경 실패";
+"l_nfans_manger"="관리자";
+//sxm-12-28
+"s_ninebotInstruction"="MINI설명서";
+//ln-12-28
+"l_map_friend_preBtn"="이전 페이지";
+"l_map_friend_nextBtn"="다음 페이지";
+"l_map_getUp_Success"="단번 위치 업로드 완료";
+"l_map_getUp_fail"="단번 위치 업로드 실패";
+"l_nfans_stick"="맨위로 고정하기";
+"l_nfans_no_stick"="맨위로 고정하기 취소";
+//1225
+"l_map_friend_justnow"="지금";
+"l_map_friend_minute"="분 전";
+"l_map_friend_hour"="시간 전";
+//1224
+"t_sixin_message"="쪽지";
+"t_sixin_emptyall"="채팅 기록을 모두 지우겠습니까?";
+//1222
+"l_map_no_result"="주변 50KM내 사용자가 없습니다.";
+"l_map_clear_mylocation"="나의 위치정보를 삭제하였습니다.";
+"l_map_friend_fail"="주변 사용자 검색하는데 실패하였습니다. 다시 검색하세요!";
+//1214
+"t_push_notification"="푸시 알림";
+"NB_connect_Exception"="웹 요청 이상";
+"find_map_friends"="내 주변 사용자";
+"find_nine_club"="나인봇 밴드";
+"find_friend_tip"="고객님 위치정보를 공유 하시면  본 기능으로 주변사용자 검색 할 수 있습니다. 위치정보를 공유 하시겠습니다까? (공유한 위치정보는 삭제가능합니다.) ";
+"find_friend_quit"="클리어 위치";
+//1209
+"s_restore_factory"="제품 초기화";
+"s_restore_factory_tip"="초기화를 하시겠습니까？";
+//1207
+"s_softAndHard"="탑승감도 자동모드";
+"m_sorfthard_tip"="주행시 차량 진동의 현상이 발생하면, 탑승감도를 낮춰서 해결할 수 있습니다.";
+"s_blance"="견인모드 균형 포인트 조절";
+"s_blance_point"="균형 포인트";
+"s_blance_intr"="하차후 차량이 자동으로 전진 또는 후진시 수평 센서 보정을 통해 해결할 수 있습니다.";
+
+"n_fans_manage"="관리";
+"n_fans_essence"="추천  글 설정";
+"n_fans_noessence"="추천글 취";
+"s_open_camera"="카메라 사용을 허용하세요.：설정->개인보호설정->카메라->Ninebot（허용）";
+"s_sorfthard_value"="주행 감도";
+
+"n_fans_essence_success"="추천글 설정 성공";
+"n_fans_essence_fail"="추천글 설정 실패";
+"n_fans_noessence_success"="추천글 취소";
+"n_fans_noessence_fail"="추천글 취소 실패";
+"n_fans_dynamic_delete"="내용이 삭제 되였습니다!";
+
+//1204
+"s_allow_shutdown"="잠금 후 전원 끄기 허용";
+"s_no_alarm"="잠금 후 경보 금지";
+"s_please_upfirm"="먼저 펌웨어를 업데이트 하세요！";
+//1203
+"n_personal"="개인 페이지";
+//1120
+"n_message_comment_clear"="모든 댓글 알림 리스트를 지우시겠습니까？";
+"n_message_praise_clear"="추천 알림 리스트를 지우시겠습니까？";
+"n_userInfor_fail"="계정 정보를 읽는데 실패하였습니다.";
+
+//1126
+"s_black_upload_success"="등록 되였습니다.A/S담당자께서 연락드리도록 하겠습니다.";
+"s_blackbox"="블랙박스 데이터 설정(관리자외 사용불가)";
+"s_quest"="문제 피드백:500자 내의 의견을 작성하십시오.";
+"s_blackbox_lock"="블랙박스 데이터 추출하려면 본체를 잠가야 합니다. 본체를 잠글까요？";
+"s_blackbox_unlock"="블랙박스 데어터 추출 완료했습니다. 본체 잠금을 해제할까요？";
+"s_blackBox_item"="에러원인,시간,블랙박스코드,부가정보\n";
+"error_code_control"="메인 컨트롤러";
+
+"error_code_ahrs"="AHRS";
+"error_code_tip"="문제 서술을 입력하세요!";
+"error_code_file"="데이터 파일";
+"error_code_driver"="드라이버";
+"s_fail_profile_upload"="파일 업로드 실패!";
+"s_blackbox_fail"="블랙박스 데이터 추출 실패, 다시 시도하세요！";
+"s_q_error"="문제 설명 500자를 초과하였습니다！";
+"s_firm_instro"="펌웨어버전 설명";
+"s_read_outtime"="읽기의 규정 시간을 초과하였습니다!";
+"s_b1"="오류 없음!";
+"s_b2"="확장 어드레스 지정이 제한값을 초과하였습니다.";
+"s_b3"="본체 잠금 비활성화";
+
+//1117
+"s_qq_copy"="채팅방 번호를 복사하며 QQ프로그램을 실행할까요?";
+"s_qq"="QQ채팅그룹";
+"s_q_a"="자주 찾는 질문";
+"s_app_intro"="모바일에 설치되있지 않는 프로그램입니다. 로그인 할 수 없습니다！";
+
+//Mini Error
+"s_error_5"="12V전압 오류, 메인보드를 검사하세요.";
+"s_error_6"="5V전압 오류，메인보드를 검사하세요.";
+"s_error_7"="3.3V전압 오류,메인보드를 검사하세요.";
+"s_error_9_28_29"="CPU초기화 오류, 메인보드를 검사하세요.";
+"s_error_11_13"="좌측 모터 전류 감응장치 오류, 메인보드를 검사하세요.";
+"s_error_14_16"="우측 모터 전류 감응장치 오류, 메인보드를 검사하세요.";
+"s_error_17"="배터리 펌웨어버전 낮음,배터리 펌웨어버전을 업그레이드 하세요.";
+"s_error_18"="좌측 발판 스위치 오류, 발판의 스위치 고무패드 또는 발판 스위치 배선을 검사하세요.";
+"s_error_19"="우측 발판 스위치 오류, 발판의 스위치 고무패드 또는 발판 스위치 배선을 검사하세요.";
+"s_error_21"="무릎바 방향 회전 감응장치 오류, 무릎바 감응장치가 풀어졌거나(느슨한 현상)연결 배선을 검사하세요.";
+"s_error_22"="중력(무게) 감지장치 오류";
+"s_error_23"="배터리 통신 이상, 배터리 연결 상태를 확인하세요.";
+"s_error_24"="배터리 암호가 맞지 않습니다. 정규적인 배터리를 장착하세요.";
+"s_error_26"="구동 전압 오류, 메인보드와 배터리의 전압을 검사하세요.";
+"s_error_27"="정상적인 부팅을 할 수 없습니다.";
+"s_error_31"="좌측 모터 구동기 오류, 메인보드를 검사하세요.";
+"s_error_32"="우측 모터 구동기 오류, 메인보드를 검사하세요.";
+"s_error_33"="기울림(각도) 초과 보호기능 작동";
+"s_error_34"="펌웨어 다운로드 오류, 다시 시도해 주세요.";
+"s_error_35"="자이로스코프 초기화 오류, 메인보드를 검사하세요.";
+"s_error_36_38"="좌측 홀센서 오류, 모터 연결 배선을 검사하세요. 또는 배터리를 교체해 보세요.";
+"s_error_39_41"="우측 홀센서 오류, 모터 연결 배선을 검사하세요. 또는 배터리를 교체해 보세요.";
+"s_error_51"="배터리 온도 오류, 사용 환경의 온도가 -10℃~50℃범위 내인지 확인하세요. 또는 배터리를 교체해 보세요.";
+"s_error_52"="배터리 셀 전압 오류, 서비스센터에 연락하시길 바랍니다.";
+
+
+//1112
+"s_zg"="이미 추천했습니다！";
+"s_loginTitle"="다른 아이디로 로그인:";
+
+"n_fans_clear_fail"="연결실패로 비우기 실패";
+"n_fans_praise_fail"="연결실패로 좋아요 누르기 실패";
+"n_fans_delete_fail"="연결실패로 삭제 실패";
+"n_fans_send_fail"="연결실패로 발송 실패";
+"n_fans_comment_success"="댓글 완료！";
+"n_fans_comment_fail"="댓글 실패！";
+
+//1110
+"s_conn_tip"="비밀번호을 설정하지 않았습니다. 타 사용자가 연결방지 위해 차체 비밀번호 설정해주세요!";
+//1105
+"s_no_changeSN"="현 S/N 요구에 맞지 않아. 수정 불가합니다.";
+"lPutEmailNum"="E-mail을 입력해주세요";
+//1111
+"n_nfans_uploading"="업로드 중";
+//1108
+"n_detail_limited"="자신한테 댓글 달 수 없습니다！";
+"n_message_clear_succeed"="초기화 완료";
+//1107
+"n_upload_images_most"="최대 9개 이미지를 선택할 수 있습니다.";
+"n_message_front"="현재";
+"n_message_behine"="미확인 메시지•••";
+//1105
+"n_fans_upload_sussece"="글쓰기 완료!";
+
+//1102
+"n_fans_check_all"="모두 보기";
+
+//1101
+"n_fans_praise_sussece"="추천 완료！";
+"n_fans_delete_success"="최근활동 삭제 완료！";
+
+//1104
+"s_userName_no"="공백 사용할 수 없습니다.";
+"s_pwd_fail"="비밀번호 중 한자를 못 들어.";
+"s_userName_len"="사용자 이름 길이를 못 보다 20";
+//1102
+"s_pwd_reset_success"="변경 완료";
+"s_code_fail"="요청이 실패했습니다. 다시 시도해 주십시오.";
+"s_email_and_iphone"="의 휴대폰 번화는 당신의";
+"s_registerFail"="가입실패!";
+"s_chenge_fail"="변경실패!";
+"s_new_pwd"="새 비밀번호";
+"s_regist_pwd"="비밀번호 초기화";
+"s_code_find"="인증번호를";
+"s_phone_find"="의 휴대폰 번호로 발송하였습니다.";
+"s_email_find"="의 이메일로 발송하였습니다.";
+"s_user_notFound"="존재하지 않는 아이디입니다!";
+"s_find_pwd"="비밀번호 찾기";
+"s_success_state"="성공!";
+"s_email_code"="인증번호를 이메일로 발송하였습니다.";
+"s_email_code_fail"="이메일로 인증번호 받는데 실패하였습니다.";
+
+//1026
+"n_message_title"="나의메시지";
+"s_search_state"="개인 운송 로봇를 못 찾습니다 。블루투스아이콘 연결 될 수 있는 상태가 있는지 확인하세요";
+"s_setVehicle_password"="블루투스 비밀번호 설정";
+"s_writeBlepwdFail"="비밀번호 입력 실패!";
+"s_inputSixPwd"="6위 비밀번호 누러 주세요";
+"s_blecodFail"="비밀번호 틀렸습니다 !";
+"s_keyboard_hid"="숨다";
+"s_keyboard_del"="삭제";
+"s_jiaShiZhiNan"="주행 가이드";
+"s_newJiaoXue"="초보자 가이드";
+"connect_Code"="연결 암호";
+//1021
+"s_BMSFirmwareVersion"="BMS폼웨어 버전";
+//1020
+"s_bmsIntro"="만충 충전회수는 누락 만충 회수입니다.\n충전 회수는 1분이상 충전 회수입니다.";
+
+"lamp_power_switch"="라이트 전원 설정";
+//1019
+"s_jiaShiZhiNan"="주행 가이드";
+"s_newJiaoXue"="초보자 가이드";
+"s_jiaoxue"="사용 가이드";
+"s_up_"="들어올립니다";
+"s_down_"="천천히 내려놓습니다";
+"s_isNewhand_out"="\'초보자가이드\'에서 나갑니다.";
+"s_rid"="당신의 안전 운전을 위해, 드라이버의 설명서를 읽어 보시기 바랍니다";
+"j_tip_newPople_success"="읽어주셔서 감사합니다. 안전주행가이드를 참고하여 초보자가이드를 완성하세요.";
+"s_idcard_number"="보험 정보는 사용자 신분중 정보가 필요합니다";
+"s_agreen"="동의";
+
+//1018
+"s_stateblance"="수평을 유지하세요";
+"s_turnLeft"="좌회전";
+"s_turnRight"="우회전";
+"lComplete"="완벽 계정";
+
+//1016
+"settings_sensor_tips_no_activate"="당신의 차량이 활성화되지 않았습니다.먼저 활성화 한 다음에 회전 감도를 조절할 수 있습니다. 화성화를 진행하겠습니까?";
+"settings_sensor_tips_no_teached"="당신은 초보자가이드 과정을 완성하지 않았습니다.먼저 초보자가이드를 완성한 다음에 회전 감도를 조절할 수 있습니다. 초보자가이드를 진행하겠습니까？";
+"settings_sensor_tips_no_grade_white"="당신의 안전을 위해 주행거리 1KM미만 상태는 감도 설정이 제한되 있습니다. 먼저 1KM주행거리 달성한 다음에 감도 설정을 하십시오!";
+"s_capacity"="배터리 잔량";
+"s_fwdownloading"="펌웨어 다운로드중...";
+"s_putdownfirst"="먼저 차량을 내려놓으세요";
+//1015
+"w_mineFun"="나의글";
+"w_goodFun"="추천글";
+"s_speed_tip"="해당 속도제한 값은 속도제한 활성화 시 차량이 도달할 수 있는 평균 최고속도입니다.";
+"s_speed_behind"="설정한 속도제한 값에 도달 시 차량이 서서히 후면으로 기울리면서 가속을 방지합니다.";
+"m_sen_tip"="시동 후 차량이 자동 회전되는 경우 애티튜드센서(자세감응기) 교정하여 해당 문제를 해결할 수 있습니다.";
+"n_message_commment"="댓글 달았습니다";
+"n_message_praise" = "추천하였습니다";
+//1016
+"s_filedown_fail"="연결 실패. 다시 연결하세요.";
+//1015
+"s_normarl" = "정상";
+"s_anomaly" = "이상";
+
+//1014
+"s_isConnecting"="차량 연결중...";
+//1013
+"r_verification_success"="인증코드 발송 완료";
+
+//1009
+"s_highSpeedModel"="고속모드";
+"s_map_serviece"="지도";
+
+//1008
+"s_mode_1"="모드1";
+"s_mode_2"="모드2";
+"s_mode_3"="모드3";
+"s_mode_4"="모드4";
+"s_mode_5"="모드5";
+"s_mode_6"="모드6";
+"s_mode_7"="모드7";
+"s_mode_8"="모드8";
+"s_mode_9"="모드9";
+"s_forward_LED"="전조등";
+"s_check_updateF"="새로운 펌웨어 버전이 있습니다. 업그레이드 하세요.";
+
+//0930
+"s_canshu"="파라미터 값이 일치하지 않습니다.";
+"s_idcardfail"="신분증 정보가 맞지 않습니다.";
+"s_actFail"="본체와의 통신이 원활하지 않습니다!";
+"lRegisterFail03"="죄송합니다. 입력하신 아이디가 3자리 이하입니다. 이보다 긴 아이디를 입력하세요.";
+"lRegisterFail04"="죄송합니다. 입력하신 아이디가 20자리 이상입니다. 이보다 짧은 아이디를 입력하세요.";
+"lRegisterFail05"="이미 사용중인 아이디입니다.";
+"lRegisterFail06"="이미 가입한 아이디입니다. 홈페이지에 접속하여 아이디를 활성화 하세요.";
+
+
+//0929
+"s_sensorTip"="标신호 수신기를 지정하려면 잠금모드로 변경해야 됩니다. 계속 하시겠습니까?";
+//0928
+"s_upCar"="탑승하세요";
+"s_downCar"="请하차하세요";
+"w_jiHuozhuyi"="주의:핸드폰번호과 이메일은 하나만 입력하세요.";
+//0926
+"s_activeSuccess"="활성화 완료되었으며 초보자 가이드 과정이 완료되었습니다. 누적 주행거리 1KM까지는 속도 제한모드로 운행되며 1KM달성시 속도제한 해제를 가능합니다！";
+
+//0923
+"s_teach"="안녕하세요. 당신의 초보자 가이드 과정이 미완성 상태입니다. 당신과 타인의 안전을 위해 초보자 가이드 과정을 완성하시길 바랍니다.";
+"w_zhinan_step1"="안전탑승";
+"w_zhinan_step2"="원위치 회전";
+"w_zhinan_step3"="진입 10미터 및 정지";
+"w_zhinan_step4"="안전하차";
+"w_zhinan_step5"="올바른 휴대법";
+"w_balance"="수평을 유지하세요";
+"s_medal"="메달";
+"w_weizhangren"="탑승 대기";
+"s_standOn"="탑승 완료";
+//0920
+"j_idcard" = "신분증번호";
+"j_phone"  = "핸드폰번호";
+"j_mail"   = "이메일";
+"j_next"   = "다음 단계";
+"j_guid"   = "안전주행가이드";
+"j_real_name"="실명";
+"j_btn_subimit"     = "확인";
+"j_reminder_title"  = "알림";
+"j_reminder_oppose" = "거절";
+"j_reminder_accept" = "보험승인";
+"j_insurance_title" = "保보험약관";
+"j_insurance_accept"="준비중입니다.";
+"j_insurance_title_list" = "人준비중입니다.";
+
+"j_tip_success"="축하합니다. 활성화 과정이 완료되었습니다. 초보자 가이드 과정을 완성하세요. 그렇지 않으면 7km/h의 안전모드로 운행됩니다.";
+"j_tip_insurance_success"="축하합니다. 활성화 과정이 완료되었습니다. 초보자 가이드 과정을 완성하세요. 그렇지 않으면 7km/h의 안전모드로 운행됩니다.";
+"j_tip_insurance_repeat"="준비중입니다.";
+
+"j_tip_name_nil"="실명은 필수 입력 항목입니다!";
+"j_tip_sex_worng"="성별은 필수 입력 항목입니다!";
+"j_tip_idcard_worng"="신분증번호는 필수 입력 항목입니다!";
+"j_tip_mail_worng"="유효한 이메일 주소가 아닙니다!";
+"j_tip_name_worng"="성명은 필수 입력 항목입니다!";
+"j_tip_contine"="계속 활성화";
+"j_tip_complete"="축하합니다. 초보자 가이드를 완성하였습니다.";
+
+//0919
+"s_singelTime"="이번 운행시간";
+
+//0917
+"InputOrNumber"="영문 문자 또는 숫자를 입력하세요.";
+//0912
+"update_tip_updating_ctrl"="메인보드 펌웨어 업그레이드 중…";
+"update_tip_updating_driv"="구동보드 펌웨어 업그레이드 중…";
+"update_tip_updating_ahrs"="AHRS보드 펌웨어 업그레이드 중…";
+"update_tip_updating_dash"="계기판 펌웨어 업그레이드 중…";
+"update_tip_updating_ble"="블루투스 모듈 펌웨어 업그레이드 중…";
+"update_tip_updating_bms"="배터리 컨트롤모듈 펌웨어 업그레이드 중…";
+
+"update_tip_updating_bms_success"="펌웨어 업그레이드 완료. 배터리 관리모듈 펌웨어가 업그레이드 됨으로 본체 전원이 자동으로 꺼집니다. 다시 전원 켜서 연결하시길 바랍니다!";
+"s_updateSuccess"="펌웨어 업그레이드 성공!";
+"s_is_up2"="새로운 펌웨어 버전이 있습니다. 업그레이드 하시겠습니까?";
+//0909
+"s_progress"="완료";
+//0901
+"ShareType" = "share";
+"ShareType_1" = "Sina Weibo";
+"ShareType_2" = "Tencent Weibo";
+"ShareType_5" = "Douban";
+"ShareType_6" = "QZone";
+"ShareType_7" = "Renren";
+"ShareType_8" = "Kaixin";
+"ShareType_9" = "Pengyou";
+"ShareType_10" = "Facebook";
+"ShareType_11" = "Twitter";
+"ShareType_12" = "Evernote";
+"ShareType_13" = "Foursquare";
+"ShareType_14" = "Google+";
+"ShareType_15" = "Instagram";
+"ShareType_16" = "LinkedIn";
+"ShareType_17" = "Tumblr";
+"ShareType_18" = "Mail";
+"ShareType_19" = "SMS";
+"ShareType_20" = "Print";
+"ShareType_21" = "Copy";
+"ShareType_22" = "Wechat contacts";
+"ShareType_23" = "Wechat moments";
+"ShareType_24" = "QQ";
+"ShareType_25" = "Instapaper";
+"ShareType_26" = "Pocket";
+"ShareType_27" = "YouDao Notes";
+"ShareType_28" = "Soho Kan";
+"ShareType_30" = "Pinterest";
+"ShareType_34" = "Flickr";
+"ShareType_35" = "Dropbox";
+"ShareType_36" = "VKontakte";
+"ShareType_37" = "Wechat Favorites";
+"ShareType_38" = "Yixin Contacts";
+"ShareType_39" = "Yixin moments";
+"ShareType_41" = "Mingdao";
+"ShareType_42" = "Line";
+"ShareType_43" = "WhatsApp";
+"ShareType_44" = "KakaoTalk";
+"ShareType_45" = "KakaoStory";
+
+
+"CFBundleDisplayName"="Ninebot";
+
+// 0824
+"certification_release"="인증 해제";
+"certification_verification"="인증번호";
+"certification_verify_tip"="당신이 인증을 작성 할 때 인증 코드가 전화 번호 또는 이메일을 보냈습니다, 참조하시기 바랍니다";
+"certification_release_submit"="해제 확인";
+"certification_invalid_sn"="시리얼 번호가 비어있습니다.";
+"certification_prompt_release_success"="해제 성공！";
+"certification_error_release_failed"="해제 실패！";
+"certification_params_valid"="올바른 휴대폰이나 이메일 주소를 입력하십시오.";
+
+"list_single_mileage"="이번 주행거리";
+
+//MINI电池相关
+"s_electricity"="배터리정보";
+"s_percentage"="배터리잔량%";
+"s_capacity"="배터리잔량";
+"s_batterystatus"="배터리상태";
+"s_voltage"="전압";
+"s_current"="전류";
+"s_power"="출력";
+"s_b1t"="배터리1온도";
+"s_b2t"="배터리2온도";
+"s_cri"="사이클";
+"s_btimes"="충전횟수";
+"s_pro"="제조사";
+"s_protime"="생산날짜";
+"s_actime"="활성화날짜";
+"s_bnumber"="배터리 시리얼넘버";
+"s_cap"="설계 용량";
+"s_b_voltage"="배터리 셀 전압";
+
+"info_device_battery_mini_status_1"="우수";
+"info_device_battery_mini_status_2"="양호";
+"info_device_battery_mini_status_3"="보통";
+"info_device_battery_mini_status_4"="미흡";
+"info_device_battery_mini_cell"="배터리 셀";
+
+// 08-13
+"lSetUserNameTip"="Ninebot 아이디를 입력하시고 비밀번호를 설정하세요. 설정 후 앱 로그인을 할 수 있습니다. 아이디는 한번만 수정이 가능하며, 이메일 주소는 비밀번호 찾기를 할 수 있습니다.";
+
+// 08-12
+"s_ridfeel"="탑승감 설정";
+"lVerSucesess"="인증 성공";
+"lVerAlready"="이미 인증한 번호입니다!";
+"lVerNumFalse"="잘못된 인증번호입니다.";
+"lVerFail"="인증실패. 재시도 하세요";
+
+//20150811
+"lBugFeedFail"="패드백 내용의 설명이나 참고 이미지를 입력하세요";
+"lFeedbackSortFail"="문제 분류 접속에 실패되었습니다. 잠시후 다시 접속하세요.";
+"s_connBLE"="블루투스 연결이 끊겼습니다.초보자 가이드를 진행할 수 없습니다！";
+
+"s_innerVerson"="클로즈베타 버전 V";
+"lBugFeedback"="문제 피드백 보내기";
+"lBugDescrption"="문제 설명";
+"lBugPicture"="사진 업로드";
+"lBugKindSelect"="문제 종류를 선택하세요";
+"lBugKind"="문제 분류";
+"lFeedbackFinish"="귀하의 피드백 내역이 성공적으로 전달되었습니다. 감사드립니다.";
+
+"activate_guide_warn"="활성화된 차체가 아닙니다. 연결 페이지에 따라 활성화 하세요. 활성화 하지 않으면 안전 시속 제한을 해제할 수 없습니다";
+//2015 8.3
+"nb_RidSetting"="주행 설정";
+"s_totalrun"="총\n주행거리";
+
+"lActiveMachinFirst"="먼저 활성화 하세요";
+
+"lSaveImg"="앨범에 저장";
+
+"yAlertTime"="구매 날짜를 선택하세요";
+
+"s_warning"=" 펌웨어를 최신업데이트 이전의 정식 버전으로 다운그레이드 하시겠습니까?";
+
+//2015 8.1
+"yNewyet"="현재 최신 버전입니다.";
+"yOldyet"="새로운 버전이 있습니다. 업데이트 하시겠습니까?";
+"yGodown"="업데이트";
+"y_no"="완전히 충전된 횟수 불포함";
+"y_have"="완전히 충전된 횟수 포함";
+//20150730
+"lUserNameNoNill"="아이디를 입력하세요.";
+"lUserPwdNoNill"="비밀번호를 입력하세요.";
+"lLogin"="로그인";
+"lMobileLogin"="휴대폰 번호 간편가입/로그인";
+"lXiaoMiLogin"="샤오미 아이디 로그인";
+"lLoding"="로그인 중…";
+"lUserStateLogin"="이미 로그인한 아이디입니다.";
+"lUserNoActive"="아이디를 활성화 해주세요. 비활성화 상태입니다.";
+"lUserLoginAgain"="로그인에 실패하였습니다.";
+"lUserPwdFail"="비밀번호를 잘못 입력했습니다. ";
+"lPutUserName"="사용자 이름을 입력하십시오.";
+"s_inPutUserName"="사용자 이름 / 이메일";
+"lPutPwd"="비밀번호를 입력하세요";
+"lUserRegister"="가입";
+"lPutPhoneNum"="전화번호를 입력해주세요.";
+"lPutCountPwd"="비밀번호를 입력해주세요.";
+"lGetAuthCode"="인증 번호 받기";
+"lAuthCode"="인증";
+"lPostCode"="계정활성화 시 문자메시지가 발송됩니다. 통신비는 통신사로부터 청구됩니다";
+"lPutRightPhoneCode"="올바른 번호를 입력해주세요.";
+"lGetAuthCodeFail"="인증번호 전송이 실패했습니다. 인증번호를 다시 받아주시기 바랍니다.";
+"lGetAuthCodelimit"="하루 최대 5회 인증번호를 받을 수 있습니다!";
+"lAuthCodeNoNill"="인증번호를 입력해주세요.";
+"lAuthCodeFail"="인증번호를 잘못 입력하셨습니다.";
+"lPostLater"="잠시 후 다시 발송합니다.";
+"lAuthFail"="인증 실패";
+"lSaveAction"="저장";
+"lNoNilNick"="닉네임을 입력하세요.";
+"lNoNilSign"="상태 메시지를 입력하세요.";
+"lDoneAction"="완성되었습니다.";
+"lNickName"="아이디:";
+"lOldPwd"="기존 비밀번호";
+"lNewPwd"="신규 비밀번호:";
+"lNewPwd2"="비밀번호 재입력:";
+"lEmailAdd"="이메일:";
+"lNoEqulPwd"="비밀번호가 다릅니다!";
+"lOldPwdNil"="기존 비밀번호를 입력하세요!";
+"lModifyDone"="비밀벌호 변경에 성공하였습니다.";
+"lPwdLessSix"="6자 이상의 숫자,영문 대소문자";
+"lNoRightUserName"="‘_’ 사용불가 ";
+"lNoNilEmail"=" 이메일은 필수입력 사항입니다..";
+"lFinishZiLiao"="완료되었습니다.";
+"lUersNameExit"="이미 존재하는 아이디입니다.";
+"lEmailExit"="이미 등록된 이메일 입니다.";
+"lHeaderimg"="프로필 사진";
+"lUsername"="이름";
+"lGender"="성별";
+"lBithDay"="생일";
+"lSig"="상태메시지";
+"lOwerAuth"="사용자 인증";
+"noAuthenticationWarning"="*인증된 Ninebot시리즈 제품을 찾을 수 없습니다.";
+"lModifyPwd"="비밀 번호 변경";
+"lUserSetting"="개인 설정";
+"lLogout"="회원탈퇴";
+"lSetSig"="상태메시지 설정";
+"lFinishUserInfo"="입력하신 정보를 재확인바랍니다.";
+"lMan"="남";
+"lWoman"="여";
+"lLogoutSure"="회원 탈퇴를 하시겠습니까? ";
+"lMachinVer"="사용자 인증";
+"lLinkMachinFirst"="연결하세요";
+"lvertify"="인증";
+"lAuthed"="Ninebot에 정상적으로 연결되었습니다.";
+"lAuth_"="*이미 인증이 완료되었습니다.";
+"l_machins"=" Ninebot계열 제품";
+"lmachinNum"="시리얼 넘버를 확인해주세요.";
+"lLinkFirst"="블루투스를 연결해주세요.";
+"lPhoneNum"="휴대폰 번호:";
+"lReply"="댓글";
+
+"s_searchDevice"="검색";
+"s_reSearch"="다시 검색";
+"s_searching"="검색중…";
+"s_nofound"="검색 실패";
+"s_pconn"="연결하세요";
+"s_services"="더 많은 기능";
+"s_find"="발견";
+"s_nplace"="N밴드";
+"s_M_rank"="랭킹";
+"s_my"=" 나의정보";
+"s_sin"="출석 체크";
+"s_mil_km"="단위 설정";
+"s_device_setting"="설정";
+"s_deviceInfo"="정보";
+"s_setting"="소프트웨어 설정";
+"s_more"="더 보기";
+"s_outtimer"="시간 초과";
+"s_active"="활성화";
+"s_goon"="운행 가능";
+"s_all_run"="운행 중";
+"s_singlerun"="최고 시속";
+"s_avgspeed"="평균 시속";
+"s_limte_speed"="속도 제한 모드";
+"s_canrun"="잔여 거리";
+"s_n"="북";
+"s_dn"="동북";
+"s_d"="동";
+"s_ds"="동남";
+"s_s"="남";
+"s_xs"="서남";
+"s_x"="서";
+"s_sn"="서북";
+"s_updateing"=" 펌웨어 업데이트 중…";
+"s_is_up"="펌웨어 업데이트를 진행하시겠습니까? ";
+"s_speed"="속도";
+"s_power_"="배터리 잔량";
+"s_mil"="잔여 거리";
+"s_tmp"="차체 온도 ";
+"s_update_ok"="확인";
+"s_j1"="활성화가 실패했습니다. 다시 활성화 하세요.";
+"s_j2"="활성화 성공!";
+"s_j3"="이미 활성화 되었습니다!";
+"s_j4"="필수 입력 항목입니다.";
+"s_j5"="전화번화를 다시 확인해주세요.";
+"s_j6"="이메일 주소를 다시 확인해주세요.";
+"s_i_a"="전화번호/이메일";
+"s_pcheck"="전화번호/이메일을 다시 확인해주세요.";
+"s_safe_vdio"="안전 교육 영상";
+
+"s_infor"="상세정보";
+"s_send"="발송";
+"s_pl"="댓글";
+"s_z"="좋아요";
+"s_no_content"="필수 입력 항목입니다.";
+"s_delete"="댓글 내용 삭제 하겠습니까?";
+"s_loading"="준비";
+"s_loading_"="준비 중…";
+"s_haveno"="데이터 정보가 없습니다.";
+"s_newshare"="공유";
+"s_over"="완성";
+"s_publish"="발표";
+"s_chose"="선택";
+
+
+"nb_carSpeed"="속도 설정";
+"nb_carLight"="차체 라이트 설정";
+"nb_carSound"="경고음 설정";
+"nb_carSense"="센서 세팅";
+"nb_carUpdate"="펌웨어 업그레이드";
+"nb_carOtherSeting"="기타 설정";
+
+//NBAboutVC
+"pleaseWait"="잠시만 기다려주세요.";
+"nb_speedSetting"="속도 설정";
+//关于
+"yNewIntr"="새로운 기능";
+"Thanks"="제작 지원";
+"yUpdate"="버전 업그레이드";
+"yGuanwang"="홈페이지 연결";
+"yBanquan"="저작권 소유 - NINEBOT INC.";
+"yNaen"="NINEBOT";
+"yIntroa"="1.새로운 앱 화면";
+"yIntrob"="2.간편 로그인";
+"yIntroc"="3.컨트롤 화면";
+"yIntrod"="4.실시간 카메라화면";
+"yIntroe"="5.N밴드 가입";
+"yIntrof"="6.문제 해결";
+"yAttria"="테마1–차세대";
+"yAttrib"="나인봇계정, 샤오미계정, 핸드폰번호의 간편로그인을 모드 지원합니다.";
+"yAttriC"="배경을 카메라화면으로 변경하여 화면캡쳐 및 공유할 수 있습니다.";
+"yAttrid"=" A/S접수 기능, 누적 주행거리 기능, 서비스 센터 정보";
+
+//引导页 안내페이지
+"yGo"="체험";
+//NBServieceVC
+//@"고장 정보",@"서비스 센터",@"누적 주행거리",@"A/S접수"
+"Nb_probInf"="고장 정보";
+"Nb_serviecePlace"="서비스 센터";
+"Nb_calculator"="성능 계산기";
+"Nb_probCommit"="A/S신청";
+"Nb_service"="서비스";
+//NBProbCommitVC.m A/S접수
+"NB_address"="주소";
+"NB_mobile"="휴대폰 번호";
+"NB_cellPhone"="일반 전화";
+"NB_byTime"="구매일자";
+"NB_byWay"="구매처";
+"NB_sn"="시리얼 넘버";
+"NB_errorCode"="에러 코드";
+"NB_probText"="고장 설명";
+"NB_commitAlert"=" 정상 접수 되었습니다. 확인 후 연락 드리도록 하겠습니다.";
+"NB_connectFail"="접속이 실패했습니다";
+"yCommit"="입력";
+"yYear"="년";
+"yMonth"="월";
+"yDay"="일";
+//NBProbCommitCell
+"nb_placehold"="입력하세요";
+//NBCalculator计算器컴퓨터
+"NB_modelNumber"="모델명";
+"NB_calcuVolume"="배터리 용량";
+"NB_height"="체중";
+"NB_capture"="온도";
+"NB_driveStyle"="드라이브 스타일";
+"NB_battryUse"="배터리 충전 횟수";
+"nb_calculateFail"="기계정보가 일치하지 않습니다. 기계 상태를 확인 바랍니다.";
+"yPleawrite"="입력하세요";
+"yCi"="회";
+"yOutRange"="입력 범위를 초과하였습니다. 재입력바랍니다.";
+"yRane"="범위";
+"yStylesa"="일정 속도 유지";
+"yStylesb"="도로주행 감속 가속 ";
+"yStylesc"="묘기 모드";
+"yCalculate"="계산";
+
+
+//20150320
+"pleaseWait"="잠깐만 기다려주세요.";
+"nb_speedSetting"="속도 설정";
+
+//20150309
+"no_network"="네트워크 연결하십시오!";
+//20150304
+"nb_perInfo"="개인 정보";
+
+//20150127
+"nb_l"="단단함";
+"nb_r"="부드러움";
+"NB_Rank_WEEK"="주 랭킹";
+"NB_Rank_WEEK_"="이번 주 랭킹";
+
+//20150112
+"one_breakled"="브레이크 라이트 설정(제동 시 빨간색)";
+
+
+//20141215
+"setting_addcode"="인증 부가비트:";
+
+"SetBluetoothName"="블루투스 명칭 설정";
+"Input8Number"="8자리 숫자를 입력해주세요";
+"BluetoothNameError"="8자리 숫자 또는 부호를 입력해주세요";
+//20141211
+"LowTSPonefoot"="한 발로 주행시 회전 속도 하향";
+
+//20141128更新 업데이트
+"nickname"="닉네임:";
+"p_inputGender"="성별";
+"p_inputRealName"="닉네임을 입력하십시오";
+"up_result"="개인정보 수정 실패!";
+"l_mode_0"="LED OFF";
+"one_konck"="라이트 모드 자동전환";
+
+"takePhoto"="촬영";
+"select_from"="앨범에서 사진 선택";
+"Individuality signature"="상태:";
+"nb_Sex"="성별:";
+"nb_city"="지역:";
+"nb_nohave"="잠시 대기";
+"nb_enterWeb"="홈페이지";
+"p_inputName"="상태 메시지를 입력해주세요";
+
+"l_iName"="상태메시지가 너무 깁니다!";
+//登陆 로그인
+"txtHello"="안녕하세요";
+"txtPleaseLogin"="로그인";
+
+"nb_login"="로그인";
+"nb_Regist"="회원가입";
+"nb_ZX"="취소";
+
+
+//注册 가입
+"txtFieldBlank"="필수 입력 항목";
+
+//bbs
+"OpenSafari"="Safari 브라우저 연결";
+//control
+"max_speed"="최고 속도";
+
+//rank
+"NB_Rank"="랭킹";
+"NO_Rank"="랭킹 정보가 없습니다";
+"NORank_conn"="랭킹 정보가 없습니다. (로그인 바랍니다.)";
+"NO_CONN"="네트워크에 연결할 수 없음!";
+
+//register
+"user_name"="닉네임";
+"user_pwd"="비밀번호";
+"user_Tpwd"="비밀번호 재확인";
+"user_email"="이메일";
+
+"nameLength"="아이디는 3-15자리입니다.";
+"pwdLength"="비밀번호는 6-20자리입니다.";
+"pwdCheck"="비밀번호는 필수로 영문자, 숫자를 포합해야 됩니다.";
+"pwd_nopass"="재입력 비밀번호가 다릅니다.";
+
+"user_no"="사용불가!";
+"sorry_register"="죄송합니다. 현재IP는 일정 기간에 접속할 수 없습니다.!";
+"user_nameRegister"="이미 사용중인 아이디입니다!";
+"email_"="이미 사용중인 이메일입니다!";
+
+//login
+"user_login"="로그인";
+"user_nameorpwd"="아이디 또는 비밀번호를 다시 확인하세요!";
+//更多 추가내용
+"perCenter"="개인 센터";
+"Check_Update"="업그레이드";
+"current_newVerson"="최신 버전입니다!";
+
+
+
+//one灯光颜色
+"l_mode_1"="모드 1";
+"l_mode_2"="모드 2";
+"l_mode_3"="모드 3";
+"l_mode_4"="모드 4";
+"l_mode_5"="모드 5";
+"l_mode_6"="모드 6";
+"l_mode_7"="모드 7";
+
+"ride_mode"="주행모드(변경 시 모터 진동이 발생할 수 있음.)";
+"atmosphere_mode"="라이트 모드";
+"r_1"="컬러1";
+"r_2"="컬러2";
+"r_3"="컬러3";
+"r_4"="컬러4";
+
+//One骑行模式 주행모드
+"O_NormalMode"="일반 모드";
+"O_SoftMode"="소프트 모드";
+"O_SportMode"="스포츠 모드";
+
+//更新信息
+"AM"="오전";
+"PM"="오후";
+"Last Updated"="최근 업데이트: ";
+"Release to refresh"="동기화...";
+"Pull down to refresh"="화면을 아래로 당겨 동기화합니다...";
+"Loading"="로딩중...";
+
+"NineBotUpdateSuccess"="펌웨어 업데이트 성공, Ninebot을 재연결 해주세요!";
+"UpdateErrorCtrl"="컨트롤 펌웨어 업데이트 실패!";
+"UpdateErrorAHRS"="AHRS펌웨어 업데이트 실패!";
+"UpdateErrorDrive"="메인 펌웨어 업데이트 실패!";
+"UpdateErrorOne"="펌웨어 업데이트 실패!";
+"Warning"="경고";
+"UpdateTitle"="차체 펌웨어 업데이트";
+"NineBotVersion"="현재 버전: ";
+"latestVersion"="최신 펌웨어 버전: ";
+"FirmwareUpdate"="펌웨어 업데이트";
+"Lock"="잠금";
+"ErrorCodeChartHeader"="에러 설명";
+"46"="46이상";
+"Input7Number"="7자리 숫자를 입력해주세요.";
+"Input6Number"="6자리 숫자를 입력해주세요.";
+//AlertView
+"NotConnectedTips"="Ninebot을 재연결 해주세요.";
+"UpdateDes"="펌웨어 업데이트를 진행하시겠습니까?";
+"Update"="업데이트";
+"Sure"="확인";
+"RemoveHandleFirst"="핸들바를 먼저 분리하세요";
+"GetOffFirst"="먼저 대기/견인 모드로 바꾸세요 ";
+"UpdateFirst"="펌웨어를 업데이트하세요";
+"SpeedCharTitle"="속도 차트";
+"ScaleCodeError"="잘못 입력했습니다. 7자리의 숫자를 입력하세요";
+"BluetoothCodeError"="죄송합니다. 입력하신 페어링 코드에 에러가 발생하였습니다. 6자리 숫자를 입력해주세요.";
+
+"serialNumberCodeError"="S/N 입력에러!";
+"MailboxError"="죄송합니다. 입력하신 이메일에 에러가 발생하였습니다. 다시 입력하시오.";
+"PostureSensorTips"="수평 센서 보정 시 반드시 차체 정지상태를 유지하세요. 보정 시 보통 3초정도 소요되며 시작과 완료 시 ‘삐삐’ 알림소리가 들립니다. 계속 진행하시겠습니까?";
+"LockFirst"="차체를 잠그세요！";
+"StopFirst"="운행을 정지해주세요！";
+
+"StandOffTips"="먼저 대기모드(미탑승)로 바꾸세요";
+"RebootTips"="차량 재부팅 확인";
+"ShutDownTips"="차량 OFF";
+
+"PairCodeRebootTips"="연결 인증 번호를 설정한 후 NineBot을 다시 시작 해야 적용됩니다.";
+"nb_changeBat"="주의！배터리 설정 시 실제 사용 배터리의 용량과 다를 경우 정확한 배터리 잔량 측정이 불가능하여 주행 중 전원이 꺼질 수 있습니다. 배터리 모드를 변경하시겠습니까?";
+
+
+"CauseOfError"="문제 원인:";
+"SolutionSuggestion"="해결 방법:";
+
+//MenuViewController
+
+"DashBoard"="계기판";
+"DetailInfo"="상세히 보기";
+"BlueToothTeleControl"="블루투스 원격 조정";
+"Settings"="설정";
+
+//NinebotInfoViewController 1급
+
+"BasicInfo"="기본 정보";
+"Electricity"="배터리 정보";
+"Speed&Mileage"="속도 및 주행거리";
+"Runtime"="운행 시간";
+"Temperature"="온도";
+"Voltage&Current"="전압 및 전류";
+"Posture"="상태";
+"Check&Update"="펌웨어 업데이트 확인";
+"About"="더 보기";
+"Tips"="알림";
+
+"ErrorCodeChart"="에러코드 차트";
+"Back"="반환";
+
+//BasicInfo
+"SerialNumber"="S/N";
+"BluetoothPairingCode"="블루투스 인증 번호";
+"FirmwareVersion"="펌웨어 버전";
+"ErrorCode"="에러 코드";
+"AlarmCode"="경고 코드";
+"WorkMode"="현재 모드";
+"FootSwitchStatus"="탑승ON/OFF 상태";
+"HandleAngle"="핸들 각도";
+
+"StandbyMode"="대기 모드";
+"AssistantMode"="견인 모드";
+"FootMode"="탑승 모드";
+"LockMode"="잠금 모드";
+"RemoteMode"="원격 조종 모드";
+
+//Electricity
+"VehicleBatteryLevel"="배터리 잔량";
+"BatteryALevel"="배터리1 잔량";
+"BatteryBLevel"="배터리2 잔량";
+
+//Speed&Mileage
+"EstimatedRemainingMileage"="주행 가능 거리";
+"CurrentSpeed"="속도";
+"LeftWheelSpeed"="좌측 타이어 속도";
+"RightWheelSpeed"="우측 타이어 속도";
+"NormalModeValue"="일반 모드 속도제한값";
+"SpeedLimitModeValue"="속도제한모드 속도 설정(활성화 시 적용)";
+"OdometerOfRiding"="주행거리";
+"OdometerOfAssistanting"="견인 주행거리";
+"OdometerOfRemoting"="원격 조종 주행거리";
+"TripDistanceOfRiding"="시동 후 주행거리";
+"TripDistanceOfAssistanting"="시동 후 견인 주행거리";
+"TripDistanceOfRemoting"="시동 후 원격제어 주행거리";
+
+//Runtime
+"TotalRunningTime"="총 운행 시간";
+"TotalRidingTime"="총 주행 시간";
+"TotalAssistantingTime"="총 조력 시간";
+"TotalRemotingTime"="총 제어 시간";
+"CurrentRunningTime"="시동 후 운행 시간";
+"CurrentRidingTime"="시동 후 주행 시간";
+"CurrentAssistantingTime"=" 시동 후 견인 시간";
+"CurrentRemotingTime"=" 시동 후 원격제어 시간";
+
+//Temperature
+"VehicleTemperature"="차체 온도";
+"BatteryATemperature"="배터리1 온도";
+"BatteryBTemperature"="배터리2 온도";
+
+
+//Voltage&Current
+"VehicleInfo"="차체 정보";
+"DriverVoltage"="구동 전압";
+"BatteryAVoltage"="배터리1 전압";
+"BatteryBVoltage"="배터리2 전압";
+"SystemCurrent"="시스템 총 전류";
+
+"SystemA"="시스템1";
+"SystemB"="시스템2";
+"11V"="11V전압";
+"12V"="12V전압";
+"5V"="5V전압";
+"Motor1 Current"="모터1 전류";
+"Motor2 Current"="모터2 전류";
+"Motor1 Phase Current"="전기 단상 전류";
+"Motor2 Phase Current"="전기 이상 전류";
+
+//Posture
+"PitchAngle"="현재 균형 각도";
+"RollAngle"="현재 회전 각도";
+"PitchAngleRate"="현재 균형 각속도";
+"RollAngleRate"="현재 회전 각속도";
+
+//one
+"BackAngle"="수평 후면 각도";
+"pwmOutput"="현재PWM(pulse width modulation)값";
+
+//About
+"Version"="버전:";
+
+//updateFW
+"UpdateFWTip"="현재 펌웨어는 최신버전입니다.!";
+"DashBoardNeedUpdate"="계기판 펌웨어 업데이트 필요";
+"DriveNeedUpdate"="구동펌웨어 업데이트 필요";
+"AHRSNeedUpdate"="AHRS펌웨어 업데이트 필요";
+"MasterNeedUpdate"="마스터 펌웨어 필요";
+
+"TeleCtrl Max Forward Speed"="제어모델 최대전진속도";
+"TeleCtrl Max Roll Speed"="제어모델 최대회전속도";
+"TeleCtrl Max Acce Speed"="제어모델 최대가속도";
+
+"LightsSettings"="차체 라이트 설정";
+
+"ForwardLED"="전면LED";
+"ForwardLEDMode"="전면LED모드";
+"ForwardLEDSwitchingCycle"="전면LED 작동 주기";
+"ForwardLEDAutoBrightness"="전면LED밝기자동조절";
+
+"Brightness"="밝기";
+"Always"="항시 켜짐 모드";
+"BreathingMode"="점멸 모드1";
+"BlinkingMode"="점멸 모드2";
+"LeftScrollingMode"="좌측 스크롤링 라이트 모드";
+"RightScrollingMode"=" 우측 스크롤링 라이트 모드 ";
+"BothwayScrollingMode"=" 양측 스크롤링 라이트 모드 ";
+"OFF"="OFF";
+
+
+"HandleLED"="손잡이 라이트";
+"HandleLEDMode"="손잡이 라이트 모드";
+"HandleLEDSwitchingCycle"="손잡이 라이트 자동 밝기 조절";
+"HandleLEDAutoBrightness"="손잡이등불 밝음도 자동조절";
+
+"DirtboardLED"="사이드LED";
+"DirtboardLEDMode"="사이드LED 모드";
+"DirtboardLEDSwitchingCycle"="사이드LED 작동 주기";
+"DirtboardLEDAutoBrightness"="사이드LED 밝기 자동 조절";
+
+"SoundSetting"="사운드 설정";
+
+"ONOFFMusic"="음량 On/Off";
+"TipSound"="적정 음량";
+"Alarm"="알람 설정";
+
+"Mode"="모드";
+"DefaultMode"="기본모드";
+"ScaleMode"="음향 편집 모드";
+"ScaleSequence"="음향 편집 번호";
+"Volume"="소리크기";
+"BackAlarm"="후진 과속 경고";
+
+//회전정밀도설정
+"AttitudeSensor"="균형 센서";
+"AttitudeSensorCalibration"="수평센서 초기화";
+"Steeringsensitivity"="회전 감도";
+"SteeringsensitivityAutoBrightness"="회전 감도 자동조절";
+"SteeringsensitivityValue"="감도";
+
+"OtherSettings"="기타 설정";
+
+"RebootNinebot"="차량 재부팅";
+"ShutdownNinebot"="차량 종료";
+
+"FreeMode"="프리모드 켜기";
+
+"UpdateSerialNumber"="시리얼번호 설정(관리자외 사용불가)";
+//NinebotOne
+"RebootNinebotOne"="Ninebot One 재부팅";
+"ShutdownNinebotOne"="Ninebot One 종료";
+
+"SetBluetoothPairingCode"="블루투스 비밀번호 설정";
+
+"nb_useLargeBattery"="대용량 배터리 사용";
+"nb_getoff"="하차후 자동 대기모드";
+
+"Cancel"="취소";
+"Save"="저장";
+
+"TargetNumber"="변경할 시리얼번호 입력란:";
+"TargetNumberError"="대상 시리얼 번호 오류!";
+"SeriNum"="현재 시리얼번호:";
+"PasswordError"="인증번호 오류!";
+"Password"="인증번호:";
+
+"Km_Miles"="단위 설정";
+"km"="미터법";
+"miles"="마일법";
+
+"s_down_pull"="아래로 밀어 새로고침";
+"s_refresh"="터치하여 새로고침";
+"s_refreshing"="업데이트중...";
+"s_loadMore"="클릭하여 추가 정보 확인";
+"s_loadingMore"="추가 데이터 로딩중...";
+"s_loadOver"="로딩 완료";
+"s_last_time"="최종 업데이트:";
+"s_have_no"="데이터 없음";
+"s_today"="오늘";
+
+"ErrCodeDesc1_8"="전기 혹은 드라이브센서 이상";
+"ErrCodeDesc9_12"="드라이브 출력 스위츠 선로 손상";
+"ErrCodeDesc13_19"="차량전기 드라이브  기타 고장";
+"ErrCodeDesc20_29"="차량 균형센서 이상";
+"ErrCodeDesc30_34"="차량 내부 통신 이상";
+"ErrCodeDesc35"="배터리 전환회로 이상";
+"ErrCodeDesc36"="배터리1 출력이상";
+"ErrCodeDesc37"=" 배터리2 출력이상";
+"ErrCodeDesc38"=" 배터리1 온도이상";
+"ErrCodeDesc39"=" 배터리2 온도이상 ";
+"ErrCodeDesc40"="발판 센서 이상";
+"ErrCodeDesc41_42"="차체내부12VDC 혹 5VDC저압전원출력이상";
+"ErrCodeDesc43"="충전기 이상";
+"ErrCodeDesc44"="출고 테스트 보류";
+"ErrCodeDesc45"="주행 제한 각도 초과";
+"ErrCodeDesc46"="컨트롤 프로그램 이상";
+
+
+"ErrCodeCause1_8"="1.강한충격\n2.내부 고장으로 인해 모터 신호감응장치 파손\n3. POST과정에 우연히 나타나는 검측 이상입니다.";
+"ErrCodeCause9_12"="이런 경우는 흔히 강한 충격으로 발생하는 속도 돌변 또는 고속으로 회전되는 타이어가 이물질에 의해 멈추거나 장시간 과하중에 의한 과전압,과전류 혹은 환경온도가 고온일 경우 구동장치의 트랜지스터 파손입니다. 이런 경우 타이어 부하현상(타이어 걸림)이 동반될 가능성이 큽니다.";
+"ErrCodeCause13_19"="흔히 전원 스위치 트랜지스터 이상이나 모터 구동장치 펌웨어 업데이트 실패로 인한 고장입니다.";
+"ErrCodeCause20_29"="1.강한 충격으로 인해 수평 감응장치 이상 또는 파손\n2.수평 감응장치의 소자 고장\n3.전자파의 영향을 받아 차체 수평 감응장치 신호 이상\n4. POST과정 중 우연히 발생하는 검측 이상입니다.";
+"ErrCodeCause30_34"="1.핸들바 상단과 하단을 연결하는 6개의 나사가 느슨해져 발생하는 접촉불량\n2.차체 내부 노선, 연결 단자가 느슨해져 발생하는 접촉 불량\n3.차체 내부 통신관련 소자,부품고장입니다.";
+"ErrCodeCause35"="차체 내부 배터리 핫백업 보호 전환 회로 이상";
+"ErrCodeCause36"="1번 배터리 과방전, 전기 회로 끊김 또는 접선 등에 대해 보호 기능 작동";
+"ErrCodeCause37"="2번 배터리 과방전, 전기 회로 끊김 또는 접선 등에 대해 보호 기능 작동";
+"ErrCodeCause38"="1.1번 배터리 내부 접선으로 인한 고온현상\n2.배터리 내부 온도 감응장치 고장\n3.환경온도가 너무 높거나 낮음";
+"ErrCodeCause39"="1.2번 배터리 내부 접선으로 인한 고온현상\n2.배터리 내부 온도 감응장치 고장\n3.환경온도가 너무 높거나 낮음";
+"ErrCodeCause40"="1.발판 감응장치 오작동\n2.발판 기판 변형으로 인한 발판 감응장치 작동 불가";
+"ErrCodeCause41_42"="1.핸들봉 USB전원 공급 과부하 또는 접선(5VDC/1.5A초과)\n2.내부12VDC전원 또는5VDC전원 수출 접선\n3.전원 회로 파손";
+"ErrCodeCause43"="충전기 전원 공급 이상，정상적인 충전 불가";
+"ErrCodeCause44"="출하 테스트 보류";
+"ErrCodeCause45"="주행 중 기울림 각도, 회전각도가 규정 범위를 벗어날 경우 발생하는 고장, 통상적으로 넘어지거나 충격으로 인한 에러코드 입니다.";
+"ErrCodeCause46"="현재 보류중인 에러코드,아직 미정의 상태인 에러 유형";
+
+"ErrCodeSug1_8"=" 본체 다시 시작을 2-3번 실행하여 오류 현상이 해결되는지 살펴봅니다.이상 해결 절차로 문제 해결이 안될 경우 제품 구매처 또는 가까운 서비스센터로 연락하세요. 본체를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+"ErrCodeSug9_12"="사용자가 해결할 수 없는 에러사항입니다. 제품 구매처 또는 가까운 서비스센터로 연락하세요. 본체를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다.  이메일: ninebot@naver.com";
+"ErrCodeSug13_19"="본체 다시 시작을 시도합니다. 제품 구매처 또는 가까운 서비스센터로 연락하세요. 본체를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다.  이메일: ninebot@naver.com";
+"ErrCodeSug20_29"="본체 다시 시작을 시도합니다. 제품 구매처 또는 가까운 서비스센터로 연락하세요. 본체를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다.  이메일: ninebot@naver.com";
+"ErrCodeSug30_34"="1.핸들바 하단 연결상태를 확인합니다.（설명서참고2.3.2）。핸들바 하단과 본체연결이 불량일 경우 발생하는 오류입니다. \n2.핸들바 상단, 하단의 6개 나사가 느슨한지 확인합니다.(제품 개봉 조립 시 장착한 나사)나사를 조이고 핸들바를 가볍게 흔들어 느슨한지 확인합니다. 핸들바 상단, 하단 연결이 원활하지 않는 경우 본 오류를 유발할 수 있습니다.";
+"ErrCodeSug35"="본체 다시 시작을 2-3번 실행하여 오류 현상이 해결되는지 살펴봅니다.이상 해결 절차로 문제 해결이 안될 경우 제품 구매처 또는 가까운 서비스센터로 연락하세요. 본체를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+
+
+"ErrCodeSug36"="충전기를 연결하여 본체 충전을 10분간 실시합니다. 문제해결이 안될 경우 배터리는 분리하여 재장착합니다. 배터리 재장착한 다음 다시 충전기를 연결하여 충전합니다. 이상 해결 절차로 문제 해결이 안될 경우 제품 구매처 또는 가까운 서비스센터로 연락하세요. 배터리를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+
+"ErrCodeSug37"="충전기를 연결하여 본체 충전을 10분간 실시합니다. 문제해결이 안될 경우 배터리는 분리하여 재장착합니다. 배터리 재장착한 다음 다시 충전기를 연결하여 충전합니다.  이상 해결 절차로 문제 해결이 안될 경우 제품 구매처 또는 가까운 서비스센터로 연락하세요. 배터리를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+
+"ErrCodeSug38"="1. Ninebot은 영하10도(-10℃)의 기온환경에 보관해 두었을 경우 본 에러가 발생합니다. 환경온도가 낮으면 저온경보를 유발시킬 수 있습니다. Ninebot을 상온환경에 최소 8시간이상 방치한 다음 전원을 킵니다. \n2. 만일 손으로 배터리커버에 접촉했을 때 뜨거우면 즉시 사용을 중지하십시오. Ninebot을 상온환경에 최소 4시간이상 방치한 다음 전원을 킵니다. \n 이상 해결 절차로 문제 해결이 안될 경우 제품 구매처 또는 가까운 서비스센터로 연락하세요. 배터리를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+
+"ErrCodeSug39"="1. Ninebot은 영하10도(-10℃)의 기온환경에 보관해 두었을 경우 본 에러가 발생합니다. 환경온도가 낮으면 저온경보를 유발시킬 수 있습니다. Ninebot을 상온환경에 최소 8시간이상 방치한 다음 전원을 킵니다. \n2.만일 손으로 배터리커버에 접촉했을 때 뜨거우면 즉시 사용을 중지하십시오. Ninebot을 상온환경에 최소 4시간이상 방치한 다음 전원을 킵니다. \n 이상 해결 절차로 문제 해결이 안될 경우 제품 구매처 또는 가까운 서비스센터로 연락하세요. 배터리를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+
+"ErrCodeSug40"="1. 전원을 켰을 때 차체 발판을 밟거나 발판이 눌려있는지 확인합니다. \n2. 발이 발판에서 벗어날 경우 발판이 정상적으로 복원 여부를 확인합니다. \n3. 이상 해결 절차로 문제 해결이 안될 경우 제품 구매처 또는 가까운 서비스센터로 연락하세요. 본체를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+
+"ErrCodeSug41_42"="차체에 연결된 외부장치의 전원 소비전력이 8W이하(5V/1.5A)；\n2. 만일 어떠한 외부장치도 연결되어 있지 않을 경우 핸들바를 차체부터 분리하여 다시 전원을 킵니다. 핸들바를 분리하여 정상적으로 작동이 안될 경우 핸들바 내부 배선에 접선일 가능성이 있습니다. 이런 경우 핸들바(상,하단 모두포함)를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 만일 핸들바를 분리해도 문제 해결이 안될 경우 본체 내부에 고장일 가능성이 있습니다. 본체를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+
+"ErrCodeSug43"="1. 충전기의 콘센트, 본체 연결을 모두 분리한 후 다시 연결합니다. 이상 해결 절차로 문제 해결이 안될 경우 충전기를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. \n2. 만일 충전기를 교체하여 문제 해결이 안될 경우 본체 내부에 고장일 가능성이 있습니다. 본체를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+
+"ErrCodeSug44"="본 에러코드는 정상적인 사용으로 인해 나타나는 에러현상이 아닙니다. 본 에러가 발생할 경우 사용을 즉시 중단하여 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+
+"ErrCodeSug45"="본 에러현상은 보통 본체 재부팅을 통해 해결되는 에러현상입니다. 본체 재부팅으로 해결이 안될 경우 본체를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일: ninebot@naver.com";
+
+"ErrCodeSug46"="현재 보류중인 미사용 에러코드입니다. 재부팅 2-3번을 실시하여 에러현상이 해결되는지 살펴봅니다. 이상 해결 절차로 문제 해결이 안될 경우 본체 계기판 고장일 가능성이 있습니다. 본체를 구입처 또는 서비스센터에 교부하여 점검을 진행할 필요가 있습니다. 이메일:ninebot@naver.com";
+
+//重新整理，重点是命名，目前命名太乱，现在按照这种规则命名
+"m_second_readGuide"="축하합니다. 귀하는 주행거리 1KM를 당성하였습니다. 안전을 위해 다시 ‘안전주행가이드’를 확인하시기 바랍니다.";
+"m_alreadyRelease_limit"="축하합니다. 속도제한이 헤제되었습니다. 안전주행 하시기 바랍니다.";
+//mini激活完成时提示
+"s_do_over_mini"="축하합니다.초보자가이드를 완성하였으며. 당신의 안전을 위해 1KM주행거리까지 10KM/H인 속도제한모드로 운행하며 1KM주행거리 달성 시 속도제한 해제를 가능합니다.";
+//markII
+"nb_robot_newhand_completion_tip_markII"="축하합니다. 초보자 가이드를 완성하였습니다. 귀하의 안전을 위해 주행거리 1km 달성까지 12km/h의 속도로 운행되며 1km 달성 후 속도제한 해제를 가능합니다.";
+"nb_robot_driving_instruction_tip_markII"="읽어주셔서 감사합니다. 계속하여 초보자 가이드를진행하세요. 제품의 올바른 사용과 안전 사용을 위해 필히 읽어주시기 바랍니다.";
+"nb_robot_driving_instruction_exercise_tip_markII"="튜토리얼에 따라 5m탑승 연습을 진행하세요.";
+"nb_robot_newhand_step1_markII"="제품 원리";
+"nb_robot_newhand_step2_markII"="수평 보정";
+"nb_robot_newhand_step3_markII"="탑승 연습";
+"nb_robot_newhand_step4_markII"="탑승 연습";
+"nb_robot_settings_handler_mode_switch_markII"="휴대모드 설정";
+"nb_robot_settings_handler_mode_tips_markII"="휴대모드 활성화 시 제품을 들어올려도 타이어가 돌아가지 않습니다. 비활성화 시 제품을 들어올리면 타이어가 돌아갑니다.";
+"nb_robot_settings_handler_settings_markII"="손잡이 설정";
+"nb_robot_settings_handler_calibration_markII"="손잡이 보정";
+"nb_robot_settings_handler_calibration_start_markII"="손잡이 보정 시 먼저 제품을 잠금모드로변경해야 합니다. 제품을 잠금모드로 변경할까요?";
+"nb_robot_settings_handler_calibration_up_markII"="1/2 먼저 제품을 들어올린 후 ‘확인’을 터치하세요. 그렇지 않으면 손잡이의 간편휴대 기능이 작동되지 않을 수 있습니다.";
+"nb_robot_settings_handler_calibration_down_markII"="2/2 먼저 제품을 내려놓고 손잡이를 내려누르는 상테에서 ‘확인’을 터치하세요. 그렇지 않으면 손잡이의 간편휴대 기능이 작동되지 않을 수 있습니다.";
+"nb_robot_settings_handler_calibration_complete_markII"="손잡이 보정이 완료되었습니다.";
+"nb_robot_activate_success_tip_markII"="축하합니다. 활성화 되었습니다. 귀하의 안전을 위해계속하여 주행가이드를 진행하세요. 주행가이드 미완성 시 제품의 속도는 7km/h로 제한됩니다.";
+"nb_robot_unactivate_tips_markII"="귀하의 차량 는 아직 비활성화 상태입니다. 안내에 따라 제품 활성화를 진행하세요. 비활성화 상태인 제품은 정상 작동이 안됩니다.";
+
+"nb_robot_driving_instruction_next"="다음 단계";
+"nb_robot_driving_instruction_prev"="한 걸음";
+//mini 激活相关
+"nb_robot_activate_network_error"="현재 서버의 동시 접속자가 많아 활성화할 수 없습니다. 잠시 후에 다시 시도해 주세요.";
+"nb_robot_activate_xiaomi_tip"="해당 제품은 중국 외의 지역에서는 사용할 수 없습니다.";

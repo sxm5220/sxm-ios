@@ -1,0 +1,1354 @@
+/* 
+  Localizable.strings
+  Ninebot
+
+  Created by 宋晓明 on 16/8/16.
+  Copyright © 2016年 sxm. All rights reserved.
+*/
+
+//levy-2016-8-8
+"nb_online_pay_result_go_order"="查看订单";
+"nb_online_pay_result_go_home"="返回首页";
+"nb_online_pay_mode"="支付方式：";
+"nb_online_order_fee"="付款总额：";
+"nb_online_order_num"="订单编号：";
+"nb_online_pay_result_title"="支付结果";
+"nb_online_confirm_pay"="确认支付";
+"nb_online_order_pay"="订单支付";
+"nb_online_pay_install_wechat"="对不起，请先安装微信app，再进行微信支付";
+//sxm-20160805
+"s_assistance_mode"="Enter Assi mode by click pedal";
+//ln-2016-8-3
+"nb_nfans_language_apply"="Apply to whole N fan club";
+//sxm-2016-8-1
+"s_vehicleSetting"="车辆设置";
+"s_cruise"="自动定速巡航";
+"s_cruise_info"="启用自动定速巡航功能后，骑行中保持油门位置不变5秒以上，听到滴声长响后，可松开油门，车辆会保持当前速度继续行驶。捏下刹把或再次按下油门，定速巡航取消。";
+"s_controlMode"="油门模式";
+"s_speedControl"="速度模式";
+"s_torqueControl"="转矩模式";
+"s_energyRecovery"="能量回收强度设置";
+"s_energyRecovery1"="强";
+"s_energyRecovery2"="中";
+"s_energyRecovery3"="弱";
+//ln 2016-7-28
+"nb_nfans_send_edit"="Confirm to quit edit?";
+"nb_nfans_rule_title"="NFans Club Regulationss";
+"nb_search_tip_forbit"="Forbidden  %@  to post in N fans club？";
+"nb_search_tip_noforbit"="Release  %@  to post in N fans club?";
+
+//sxm-20160728
+"s_not_filled"="Unbound";
+"s_complete_email"="revise email";
+"s_input_newEmail"="Input new email account";
+"s_newEmail_information"="Ninebot will send verification message to your email, please check.";
+"s_emailCode_fail"="Verification code error or out of time";
+"s_emailCode_sendFail"="fail to send verification code";
+
+//mgl-20160727
+"backgroundRunSwitch"="Switch of background run reminder";
+"backgroundRunSwitchTip"="After switch turned off, if there are any abnormal ridding behaviors, app will not give a notice when app is run background.";
+"settings_other_bt_name_restart"="ブルートゥースの名称を変更後、設定を反映するには再起動する必要があります。\n手動で車両を再起動してください。";
+
+//levy-20160727
+"nb_robot_active_statement_title"="Statement";
+"nb_robot_active_statement_content"="Please enter your email address so you can retrieve your password if you forget it.  Ninebot by Segway will also send you service updates or notifications via email.  Ninebot by Segway will not share your email address with other companies.";
+
+//sxm-20160707
+"s_upgradeUserNameTip"="Note：The user  is used for login, only allowed to modified  once, please be careful to fill in.";
+"s_transMode"="Shipping mode";
+"s_transModeTip"="Once this function is on, you have to press the turn on/off button for several seconds to turn on unit, which can make sure unit will not be turned on automatically when turn on/off button pressed by error or incident during delivery.";
+//mgl-20160614
+"m_TeachTip_speed"="The beginner teaching has not completed at this vehicle , the speed limit cannot be modified.Do you want to complete?";
+//sxm-20160603
+"s_backfast_alarm"="Warning when going back too quickly.";
+"s_parameter_nil"="Specification is null.";
+"s_openLocal"="Are you sure to turn on current location to use this function? (Settings-Privacy-Location Service-Ninebot)";
+"m_draw_success"="领取成功";
+"m_Goods_not_Enough"="暂时缺货";
+"m_winning_Record"="中奖记录";
+"s_driverTemp"="Temperature of driver";
+//mgl-2016-6-1
+"m_lottery_rule"="抽奖规则";
+"m_had_get"="已领取";
+"m_everytime_Need"="每次仅需";
+"m_interjection"="呢~";
+//mgl-2016-5-23
+"m_integralShop"="积分商城";
+"m_N_MoneyShop"="N币商城";
+"m_exchangeArea"="兑换专区";
+"m_NMoney"="N币";
+"m_ConvertReord"="兑换记录";
+"m_GoodsDetailed"="商品详情";
+"m_surplus"="剩余";
+"m_Piece"="件";
+"m_marketPrice"="市场价";
+"m_unitary"="元";
+"m_immediateExchange"="立即兑换";
+"m_N_Notenough"="N币不足";
+"m_goodsNmae"="商品名称";
+"m_goodsAbout"="商品简介";
+"m_exchangeProcess"="兑换流程";
+"m_attentionMatter"="注意事项";
+"m_defaultSwitch"="设为默认";
+"m_pleaseInputStreetOrHouseNumber"="路或街道地址，门牌号";
+"m_addressList"="地址列表";
+"m_hadSet_defaul"="设为默认";
+
+//2016-5-19
+"l_no_search_result"="No data found";
+
+//sxm-20160527
+"s_local_rank"="Local Ranking list";
+"s_currentlocal"="Current location :";
+//sxm-20160518
+//"s_bleConn_fail"="连接密码不正确，请重新输入连接密码！";
+
+//sxm-20160516
+"s_orig_pwdFail"="Original password is incorrect!";
+//sxm-20160513
+"s_limitSpeed_Intro_tip"="You vehicle will automatically adjust the speed limit value according to battery capacity, temperature, load and driving habits. When the pointer arrives at the red dashed part, it indicates you have exceeded the speed limit, and the vehicle will gradually lean back and limit speed. Please drive carefully.";
+"s_remainderRange_tip"="The remaining mileage is the rated value, which is associated with temperature, tire pressure, and driver’s weight. Please take the actual situation as the criterion.";
+//2016-5-11
+"l_nfans_forbit_title"="Banned from posting";
+"s_limitSpeedMode_Tips"="Are you sure to switch to the speed limited mode?";
+"l_fans_forbit_cancle"="Ban cancelled";
+"l_fans_no_forbit"="Ban lifted";
+"l_search_user_list"="List of users";
+"l_search_dynamic_list"="List of dynamics";
+"l_search_forbit_list"="List of bans";
+"l_search_more"="View more";
+"l_search_totle"="Total";
+"l_search_page"="pages";
+"l_search"="Search";
+"m_goto_Activation"="Activate";
+"s_medalList"="Medal list";
+"m_my_Npoints"="My N coins";
+"m_Npoints_Details"="N coins in details";
+"m_integral_Rule"="Point rules";
+"m_Npoints_Rule"="N coin rules";
+"m_MyGrade"="My grade";
+"m_Grade_Detaile"="Grade in details";
+"m_Grade_Name"="Grade name";
+"m_points"="Point";
+"m_Update_NeedPoints"="Points for upgrading";
+"m_All_Points"="Total points";
+"m_Attendance"="Signed in";
+"s_userLevel"="Level";
+"Input1_15"="Please input 1-15 characters or digits";
+"s_rideTip"="Drive carefully!";
+//mini warning
+"s_mini_warning_1"="Battery is too low. Please recharge!";
+"s_mini_warning_2"="Vehicle body temperature is too high!";
+"s_mini_warning_3"="Vehicle body temperature is too low!";
+"s_mini_warning_4"="Battery temperature is too high!";
+"s_mini_warning_5"="Battery temperature is too low!";
+"s_mini_warning_6"="Reverse speed is too fast. Please drive carefully!";
+"s_mini_warning_7"="Motor is stalling. Please drive carefully!";
+"s_mini_warning_8"="Vehicle is tumbling accidentally. Please drive carefully!";
+"s_mini_warning_9"="Vehicle is in lock mode!";
+"s_mini_warning_10"="You are over the speed limit. Please drive carefully!";
+"s_mini_warning_11"="You have been over the speed limit excessively. Please drive carefully.";
+"s_mini_warning_12"="The battery voltage is too high. Please don’t drive down a slope or slam the brakes on and avoid energy recycle that leads to over-charge of the battery!";
+"s_mini_warning_13"="The motor is close to being overload. Please slow down immediately!";
+"s_mini_warning_14"="The output power of your vehicle is too high. Please slow down immediately!";
+"s_mini_warning_15"="The motor torque is too large. Please drive carefully!";
+"s_mini_warning_16"="You are speeding up too fast. Please drive carefully!";
+"s_mini_warning_17"="Battery voltage is low, please be careful when riding.";
+"s_mini_warning_18"="Foot sensor is tilting back because of high speed, vehicle will be slow down.";
+"s_average_power_consumption"="Average power consumption";
+//"s_blackbox"="黑匣子数据读取";
+//0422
+"s_limit_speed"="Max speed";
+"s_markII_error_1"="Fault of motor sensor or motor is not connected.";
+"s_markII_error_2"="Failure of motor A current.";
+"s_markII_error_3"=" Failure of motor B current";
+"s_markII_error_4"=" Failure of motor C current.";
+"s_markII_error_6"="Vehicle S/N is the initial S/N";
+"s_markII_error_10"="Battery #1: abnormal communication.";
+"s_markII_error_11"="Battery #2: abnormal communication.";
+"s_markII_error_12"="Failure of gyroscope initialization";
+"s_markII_error_13"="Failure of gyroscope calibration";
+"s_markII_error_14"="Battery #1: abnormal output.";
+"s_markII_error_15"="Battery #2: abnormal output.";
+"s_markII_error_16"="Battery #1: abnormal temperature.";
+"s_markII_error_17"="Battery #2: abnormal temperature.";
+"s_markII_error_24"="Error of general voltage.";
+"s_markII_error_25"="Error of voltage upgrade";
+"s_markII_error_26"="Error of system clock";
+"s_markII_error_27"="Error of current calibration.";
+"s_markII_error_28"="Battery #1: abnormal power supply";
+"s_markII_error_29"="Battery #2: abnormal power supply ";
+"s_markII_error_30"="Temperature sensor open circuit. ";
+"s_markII_error_31"="Temperature sensor is short circuit.";
+"s_markII_error_32"="Battery 1 password incorrect.";
+"s_markII_error_33"="Battery 2 password incorrect.";
+"s_markII_error_34"="Battery cell of battery 1 is in big differential pressure.";
+"s_markII_error_35"="Battery cell of battery 2 is in big differential pressure.";
+"s_markII_error_36"="Battery 1 comes into testing model.";
+"s_markII_error_37"="Battery 2 comes into testing model.";
+"s_error_code_desc_default"="Undefined error.";
+//mini激活完成时提示
+"s_do_over_mini"="You've completed the safe driving guide. The vehicle will be speed limited to 10km/h until you've ridden 1km.";
+"s_ikonw"="Well noted.";
+"s_dashboard_tip"="Dashboard reminder";
+"s_hightSpeed_tip"="Red dashed line indicates over-speed, please slow down when overpassed this line. ";
+"s_batterChangeTip"="Battery change reminder";
+"s_oneBatterTip"="Dear client, one battery only is detected, and please note that: \n\n1) mileage will be ";
+"s_oneBatterySpeedValue"="\n2) max speed is ";
+"s_batterUpgradeTip"="Battery upgrade reminder";
+"s_doubleBatterTip"="Congratulations. Battery upgrade successful! After upgrade, \n\n1) mileage will be ";
+//l-3-30
+"PhoneLogin"="Register";
+"TargetSNInputError"="The two target Serial no. is not consistent with each other, please input again!";
+"Target_identification_sn"="Confirm the target serial no.:";
+"setting_other_sn_warnning_invalid_location"="Location info get failure!";
+"s_carrySwitch"="Switch of auto shut off once vehicle lifted up";
+"s_battery1"="Battery1";
+"s_battery2"="Battery2";
+"speed_limit_active"="The vehicle has not been activated, the speed limit cannot be modified";
+//l-2-18
+"l-active-Congratulations"="おめでとうございます";
+//ln-2-1
+"l-map-clear_location_fail"="位置情報クリア失敗";
+"l_map_location_error"="位置情報機能エラー。位置情報をONにしてください。";
+"l_calculator_remian_mil"="走行可能距離数は参考用のある条件下のテスト理論値です。実際は温度、地形、速度、体重、乗車習慣、使用回数によってなど異なります。";
+//ln-1-30
+"activate_title"="本登録";
+"activate_ing"="本登録中..";
+"nfans-chat-new"="何かを書き込みましょう";
+
+//ln-1-29
+"map_nearby_change_google"="Googleマップに切替";
+"map_nearby_change_baidu" = "Baiduマップに切替";
+//ln-1-8
+"s_noMoreMessage"="メッセージがありません。";
+"ySystemMsg"="System message";
+"l_nfans_photo_fail"="保存失敗";
+"l_nfans_photo_success"="アルバムに保存しました。";
+"t_sure_togo"="詳細を見る";
+"l_nfans_picture_fail"="画像読込失敗";
+//ln-1-7
+"t_not_login"="ログインしていません。ログインしてください。";
+"l_user_herderImgView_success"="プロフィール写真変更完了。";
+"l_user_headerImgView_fail"="プロフィール写真変更失敗。";
+"l_nfans_copy"="コピー";
+//sxm-1-8
+"s_mileage_check"="クラウドで保存されている距離データは車両本体に保存している距離データを上回っていますが、クラウドと同じように同期しますか。";
+"s_no_permissions"="アフター権限がありません。操作できません。";
+"s_sysmile_fail"="距離データ取得できませんでした。同期できません。";
+"s_sysfail"="距離データ同期失敗、もう一度操作してください";
+//sxm-1-4
+"s_sysnmileage"="距離データを同期します。";
+"s_sysSuccess"="距離データ同期完了。";
+"s_tip"="自己チェックリマインド";
+"s_snError"="コントローラーのシリアルナンバー異常。アフターサービス部門に連絡してください。";
+
+//ln-12-30
+"l_nfans_stick_success"="設定完了";
+"l_nfans_stick_fail"="設定失敗";
+"l_nfans_manger"="管理者";
+//sxm-12-28
+"s_ninebotInstruction"="ナインボットユーザーマニュアル";
+//ln-12-28
+"l_map_friend_preBtn"="前のページ";
+"l_map_friend_nextBtn"="次のページ";
+"l_map_getUp_Success"="アップロード完了";
+"l_map_getUp_fail"="検索失敗";
+"l_nfans_stick"="トップに出す";
+"l_nfans_no_stick"="トップから消す";
+
+//1225
+"l_map_friend_justnow"="たった今";
+"l_map_friend_minute"="分間前";
+"l_map_friend_hour"="時間前";
+//1224
+"t_sixin_message"="プライベートメッセージ";
+"t_sixin_emptyall"="チャット履歴をクリアしますか？";
+//1222
+"l_map_no_result"="付近にNファンがいません。もう一度操作してください。";
+"l_map_clear_mylocation"="位置情報クリア完了";
+"l_map_friend_fail"="付近のNファンの検索に失敗、もう一度操作してください。";
+//1214
+"t_push_notification"="通知プッシュ";
+"NB_connect_Exception"="インターネットへのアクセスリクエスト異常。";
+"find_map_friends"="近くのNファンたち";
+"find_nine_club"="ナインボットコミュニティ";
+"find_friend_tip"="「近くのNファンたち」機能を使用するために位置情報をアップロードする必要があります。確定を押すと位置情報をアップロードします。近くのNファンたちはあなたを見つけることができます。アップロード後に位置情報をクリアすることが可能です。アップロードしますか？";
+"find_friend_quit"="位置情報をクリアし終了";
+
+//1209
+"s_restore_factory"="工場初期設定にリセット";
+"s_restore_factory_tip"="工場初期設定にリセットしますか？";
+//1207
+"s_softAndHard"="乗車感度自動調節";
+"m_sorfthard_tip"="乗車時に車両本体が振れる現象があれば、乗車の感度を落とせばば解決できます。";
+"s_blance"="アシストモードバランス調節";
+"s_blance_point"="アシストモードバランス";
+"s_blance_intr"="降りても車両が勝手に進む、もしくはバックする場合、バランスの調整をしてみてください。";
+
+"n_fans_manage"="管理";
+"n_fans_essence"="お気に入り設定";
+"n_fans_noessence"="お気に入り取消";
+
+"s_open_camera"="Ninebotにカメラの使用権限を有効にしてください。カメラ権限設定：設定->プライバシー->カメラ->Ninebot（Onにしてください）";
+//
+"n_fans_essence_success"="設定お気に入り完了";
+"n_fans_essence_fail"="お気に入り設定失敗";
+"n_fans_noessence_success"="お気に入り取消完了";
+"n_fans_noessence_fail"="お気に入り取消失敗";
+
+
+//1204
+"s_allow_shutdown"="ロック時でのシャットダウン許可";
+"s_no_alarm"="警告なしでロック";
+"s_please_upfirm"="ファームウェアをアップデートしてください。";
+//1203
+"n_personal"="個人ページ";
+//1120
+"n_message_comment_clear"="レビュー内容をクリアしますか？";
+"n_message_praise_clear"="「いいね！」の履歴内容をクリアしますか？";
+"n_userInfor_fail"="ユーザー情報取得失敗";
+
+//1126
+"s_black_upload_success"="データはサーバーへ送信済みです。サポート担当が処理を致します。";
+"s_quest"="問題の記述:500文字以内の内容を入力してください。";
+"s_blackbox_lock"="ブラックボックスを読込前に、ロックする必要があります。ロックしますか？";
+"s_blackbox_unlock"="ブラックボックスデータ読込み完了、ロックを解除しますか？";
+"s_blackBox_item"="ルート/時間/コード/追加情報\n";
+
+"error_code_control"="メインコントローラー";
+"error_code_ahrs"="AHRS";
+"error_code_driver"="駆動";
+"error_code_tip"="問題記述や情報を入力してください。";
+"error_code_file"="データファイル";
+"s_fail_profile_upload"="ファイルアップロード失敗。";
+"s_blackbox_fail"="ブラックボックスデータ読込み失敗、もう一度操作してください。";
+"s_q_error"="問題の記述は500文字以内にしてください。";
+"s_firm_instro"="ファームウェアバージョン説明";
+"s_read_outtime"="読込みタイムアウト。";
+"s_b1"="エラーなし。";
+"s_b2"="拡張アドレス範囲オーバー";
+"s_b3"="車両はロックされていません。";
+//1117
+"s_qq_copy"="グループ番号をコピーしてQQを開きますか？";
+"s_qq"="QQ交流グループ";
+"s_q_a"="よくある質問";
+"s_app_intro"="このAPPはインストールされていないため、ログインできません。";
+
+//Mini Error
+"s_error_5"="12V電圧異常。メインコントロールボードを点検する必要があります。";
+"s_error_6"="5V電圧異常。メインコントロールボードを点検する必要があります。";
+"s_error_7"="3.3V電圧異常。メインコントロールボードを点検する必要があります。.";
+"s_error_9_28_29"="CPU初期化異常。メインコントロールボードを点検する必要があります。";
+"s_error_11_13"="左側モーターの電流センサー異常。メインコントロールボードを点検する必要があります。";
+"s_error_14_16"="右側モーターの電流センサー異常。メインコントロールボードを点検する必要があります。";
+"s_error_17"="バッテリーファームウェアは古いバージョンです。バッテリーファームウェアをアップデートする必要があります。";
+"s_error_18"="左側フットマットスイッチ異常。フットマットスイッチのプラスチックボウル及びフットマットスイッチの接続異常。を点検する必要があります。";
+"s_error_19"="右側フットマットスイッチ異常。フットマットスイッチのプラスチックボウル及びフットマットスイッチの接続異常。を点検する必要があります。";
+"s_error_21"="ハンズフリーバーステアリングセンサー異常。ハンズフリーバーセンサーの接続を点検する必要があります。";
+"s_error_22"="重力センサー異常。";
+"s_error_23"="バッテリー通信異常。バッテリー接続状況を確認してください。";
+"s_error_24"="バッテリーパスワードが正しくありません。正常なバッテリーと交換してください。";
+"s_error_26"="駆動電圧異常。メインコントロールボードを点検する必要があります。また、バッテリーの電圧異常がないか確認してください。";
+"s_error_27"="通常のシャットダウンができません";
+"s_error_31"="左側モーターの駆動器異常。メインコントロールボードを点検する必要があります。";
+"s_error_32"="右側モーターの駆動器異常。メインコントロールボードを点検する必要があります。";
+"s_error_33"="角度が大きくなりすぎないための保護。";
+"s_error_34"="ファームウェアのダウンロード異常。再度ファームウェアをアップデートしてください。";
+"s_error_35"="ジャイロの初期化異常。メインコントロールボードをチェックしてください。";
+"s_error_36_38"="左側モーターのホールセンサー異常。モーターの接続を確認してください。もしくはモーターを交換が必要な可能性があります。";
+"s_error_39_41"="右側モーターホールセンサー異常。モーターの接続を確認してください、もしくはモーターを交換が必要な可能性があります。";
+"s_error_51"="バッテリー温度異常。環境温度は-10℃~50℃であることを確認してください。バッテリーを交換が必要な可能性があります。";
+"s_error_52"="バッテリーコアの電圧異常。販売店やサポート部門に連絡してください。";
+
+//1112
+"s_loginTitle"="別のアカウントログイン:";
+"n_fans_clear_fail"="クリアに失敗しました。もう一度操作してください";
+"n_fans_praise_fail"="「いいね！」に失敗しました。もう一度操作してください";
+"n_fans_delete_fail"="削除に失敗しました。もう一度操作してください";
+"n_fans_send_fail"="送信に失敗しました。もう一度操作してください";
+"n_fans_comment_success"="レビュー完了";
+"n_fans_comment_fail"="レビュー失敗";
+//1110
+"s_conn_tip"="The vehicle connection password has not been set. Please set a password to avoid other users from accessing your vehicle.";
+//1105
+"s_no_changeSN"="現在の車両のシリアルナンバーは初期シリアルナンバーではありません。変更不可です！ ";
+
+//1111
+"n_nfans_uploading"="アップロード中";
+//1108
+"n_detail_limited"="自分への返信はできません。";
+"n_message_clear_succeed"="クリア完了";
+//1107
+"n_upload_images_most"="画像のアップロード枚数は最大9枚までです";
+"n_message_front"="あなたは";
+"n_message_behine"="件の新着メッセージ...";
+
+//1105
+"n_fans_upload_sussece"="投稿完了。";
+
+//1102
+"n_fans_check_all"="すべてを見る";
+
+//1101
+"n_fans_praise_sussece"="「いいね！」しました。";
+"n_fans_delete_success"="削除完了";
+//
+//1104
+"s_userName_no"="ユーザー名にスペースは使用できません。";
+"s_pwd_fail"="パスワードに漢字は使用できません。";
+"s_userName_len"="ユーザー名は20文字以下にしてください";
+
+//1102
+"s_pwd_reset_success"="パスワードをリセットしました。";
+"s_code_fail"="リクエストに失敗しました。もう一度操作してください。";
+"s_email_and_iphone"="の携帯番号とあなたの";
+"s_registerFail"="登録失敗。";
+"s_chenge_fail"="変更失敗。";
+"s_new_pwd"="新しいパスワード";
+"s_regist_pwd"="パスワードリセット";
+"s_code_find"="認証コードはあなたの";
+"s_phone_find"="携帯番号に送信しました。確認してください。";
+"s_email_find"="メールアドレスに送信しました、確認してください。";
+"s_user_notFound"="ユーザー名は存在していません。";
+"s_find_pwd"="パスワードを忘れたら";
+"s_success_state"="完了。";
+"s_email_code"="認証コードを登録されているメールアドレスに送信しました。";
+"s_email_code_fail"="メールアドレスの認証コード取得失敗。";
+
+//1026
+"n_message_title"="Myメッセージ";
+"s_search_state"="車両の検索に失敗しました。車両にブルートゥースのアイコンが点滅していて接続可能な状態になっているかを確認してください。";
+"s_setVehicle_password"="車両パスワード設定";
+"s_writeBlepwdFail"="パスワード入力失敗。";
+"s_inputSixPwd"="6桁のパスワードを入力してください";
+"s_blecodFail"="パスワードが間違っています。";
+"s_keyboard_hid"="隠す";
+"s_keyboard_del"="削除";
+"s_jiaShiZhiNan"="安全運転ガイド";
+"s_newJiaoXue"="チュートリアル";
+"s_jiaoxue"="ガイド";
+"connect_Code"="接続パスワード";
+//1021
+"s_BMSFirmwareVersion"="BMSファームウェアバージョン";
+//1020
+"s_bmsIntro"="バッテリー累計充電容量は標準容量に達した際に充電回数を一回カウントします。\nバッテリー継続充電１分間以上の際に、充電回数を一回カウントします。";
+//1019
+"s_up_"="持上げます";
+"s_down_"="ゆっくり降ろします";
+"s_isNewhand_out"="チュートリアルを終了しますか。";
+"s_rid"="安全に乗車するために安全運転ガイドをよくお読みください。";
+"j_tip_newPople_success"="最後までお読み頂きありがとうございます。安全運転ガイドを見てチュートリアルをクリアしましょう。";
+"s_idcard_number"="保険契約情報に身分証情報の提出が必要です。";
+"s_agreen"="同意します。";
+//1018
+"s_stateblance"="バランスを保ちます";
+"s_turnLeft"="左折";
+"s_turnRight"="右折";
+
+//1016
+"settings_sensor_tips_no_activate"="車両本登録を完了されていません。車両本登録をしてからステアリング感度調節をしてください。車両本登録をしますか？";
+"settings_sensor_tips_no_teached"="チュートリアルをクリアされていません。チュートリアルをクリアしてからステアリング感度調節をしてください。チュートリアルを開始しますか？";
+"settings_sensor_tips_no_grade_white"="安全のために車両は最初の1kmまで感度設定ができません。1km以上走行してから感度設定をしてください。";
+"s_capacity"="バッテリー残量";
+"s_fwdownloading"="ファームウェアダウンロード中...";
+"s_putdownfirst"="車両を降ろしてください";
+//1015
+"w_mineFun"="マイゾーン";
+"w_goodFun"="お気に入り";
+"s_speed_tip"="スピードリミット値はスピードリミットモード起動後、車両が走行できる平均最高速度です。";
+"s_speed_behind"="設定されたスピードリミット値に接近したり達した際に、車両はそれ以上の加速を制限するため速度を制御します。";
+"m_sen_tip"="起動後に車両が勝手にステアリングしていくようになる場合、姿勢センサーの校正を行えば解決できます。";
+"n_message_commment"="あなたについて書き込まれています。";
+"n_message_praise" = "「いいね！」をもらいました。";
+//1016
+"s_filedown_fail"="アップデート失敗。もう一度操作してください。";
+//1015
+"s_normarl" = "正常";
+"s_anomaly" = "異常";
+//1014
+"s_isConnecting"="デバイス接続中...";
+//1013
+"r_verification_success"="認証コード送信完了";
+//
+//1009
+"s_map_serviece"="マップサービス";
+"s_highSpeedModel"="ハイスピードモード";
+//1008
+"s_mode_1"="点灯モード1";
+"s_mode_2"="点灯モード2";
+"s_mode_3"="点灯モード3";
+"s_mode_4"="点灯モード4";
+"s_mode_5"="点灯モード5";
+"s_mode_6"="点灯モード6";
+"s_mode_7"="パトライトモード1";
+"s_mode_8"="パトライトモード2";
+"s_mode_9"="パトライトモード3";
+"s_forward_LED"="フロントLEDスイッチ";
+"s_check_updateF"="新しいバージョンのファームウェアがあります。アップデートしてください。";
+
+//0930
+"s_canshu"="データが正しくありません";
+"s_idcardfail"="身分証番号が正しくありません";
+"s_actFail"="車両との通信失敗。";
+"lRegisterFail03"="入力したユーザー名が3文字未満になっています。3文字～15文字でユーザー名を入力してください。";
+"lRegisterFail04"="入力したユーザー名が15文字を超えています。3文字～15文字でユーザー名を入力してください。";
+"lRegisterFail05"="ユーザー名は既に使用されています。";
+"lRegisterFail06"="すみません、ユーザー名は存在しています。ログインして本登録をしてください。";
+
+//0929
+"s_sensorTip"="センサー測定にはロックする必要があります、操作を続行しますか?";
+//0928
+"s_upCar"="車両に乗ってください。";
+"s_downCar"="車両から降りてください。";
+"w_jiHuozhuyi"="保険契約はユーザーの個人情報の提供が必要です。身分証番号、お名前、電話番号が間違っていないことを確認してください。情報を送信すると追加や変更は不可となります。";
+//0926
+"s_activeSuccess"="本登録を完了し、チュートリアルをクリアしました。最初の1kmは10km/h以下までしかスピードが出せない制限が掛かっておりますが、この制限は1km以降で自動解除となります。";
+//0923
+"s_teach"="こんにちは。チュートリアルがまだクリアしていません。安全のためチュートリアルをクリアしてください。";
+"w_zhinan_step1"="正しい乗車方法";
+"w_zhinan_step2"="ステアリングをしてみましょう";
+"w_zhinan_step3"="10m進み、止まってください";
+"w_zhinan_step4"="正しい降り方";
+"w_zhinan_step5"="持上げ方と降ろし方";
+"w_balance"="バランスを保ってください";
+"s_medal"="勲章";
+"w_weizhangren"="乗車者がいません";
+"s_standOn"="乗車者がいます";
+//0920
+"j_idcard" = "身分証番号";
+"j_phone"  = "携帯番号";
+"j_mail"   = "メールアドレス";
+"j_next"   = "次へ";
+"j_guid"   = "安全運転ガイド";
+"j_real_name"="フルネーム";
+"j_btn_subimit"     = "送信";
+"j_reminder_title"  = "ヒント";
+"j_reminder_oppose" = "保険を受け取りません";
+"j_reminder_accept" = "保険を受け取ります";
+"j_insurance_title" = "保険契約内容";
+"j_insurance_accept"="Ninebotからの無料保険を受け取ります。";
+"j_insurance_title_list" = "人身意外保険内容";
+//
+"j_tip_success"="おめでとうございます。本登録は完了しました。続いて\"チュートリアル\"、をクリアしないと車両は7km/hのスピーとリミットモードになります。安全のため、運転ガイドをよくお読みください。";
+"j_tip_insurance_success"="附：保険に関する情報を送信しました。携帯のメールを確認してください。";
+
+"j_tip_insurance_repeat"="Ninebotからの無料保険を受取済みです。契約番号は：xxxx、重複の受取はできません。";
+
+
+"j_tip_name_nil"="フルネームの入力に空欄は不可です。";
+"j_tip_sex_worng"="Gender can not be empty!";//////
+"j_tip_idcard_worng"="身分証番号の入力に空欄は不可です。";
+"j_tip_mail_worng"="メールアドレスが間違っています。";
+"j_tip_name_worng"="お名前の入力に空欄は不可です。";
+"j_tip_contine"="本登録を続行";
+"j_tip_complete"="おめでとうございます。チュートリアルをクリアしました。";
+//0919
+"s_singelTime"="区間乗車時間";
+//0917
+"InputOrNumber"="半角英数字を入力してください";
+//0912
+"update_tip_updating_ctrl"="メインコントロールボードファームウェアをアップデートしています。";
+"update_tip_updating_driv"="アップデート駆動ファームウェアをアップデートしています。";
+"update_tip_updating_ahrs"="アップデートAHRSボードファームウェアをアップデートしています。";
+"update_tip_updating_dash"="アップデートダッシュボードファームウェアをアップデートしています。";
+"update_tip_updating_ble"="アップデートブルートゥースモジュールファームウェアをアップデートしています。";
+"update_tip_updating_bms"="アップデートバッテリー管理モジュールファームウェア";
+
+"update_tip_updating_bms_success"="ファームウェアアップデート完了。バッテリーモジュールファームウェアはアップデートしたため、車両は自動シャットダウンします。手動で起動してから再度接続をしてください。";
+"s_updateSuccess"="ファームウェアアップデート完了。";
+"s_is_up2"="新しいバージョンのファームウェアがあります。アップデートしますか?";
+//0909
+"s_progress"="完成！";
+//0901
+"ShareType" = "シェア";
+"ShareType_1" = "Sinaブログ";
+"ShareType_2" = "Tencentブログ";
+"ShareType_5" = "豆瓣";
+"ShareType_6" = "Qゾーン";
+"ShareType_7" = "人人網";
+"ShareType_8" = "開心網";
+"ShareType_9" = "朋友網";
+"ShareType_10" = "Facebook";
+"ShareType_11" = "Twitter";
+"ShareType_12" = "印象筆記";
+"ShareType_13" = "Foursquare";
+"ShareType_14" = "Google+";
+"ShareType_15" = "Instagram";
+"ShareType_16" = "LinkedIn";
+"ShareType_17" = "Tumblr";
+"ShareType_18" = "メール";
+"ShareType_19" = "ショートメール";
+"ShareType_20" = "印刷";
+"ShareType_21" = "コピー";
+"ShareType_22" = "Wechat友達";
+"ShareType_23" = "Wechat友達ゾーン";
+"ShareType_24" = "QQ";
+"ShareType_25" = "Instapaper";
+"ShareType_26" = "Pocket";
+"ShareType_27" = "有道云筆記";
+"ShareType_28" = "SOHU随身看";
+"ShareType_30" = "Pinterest";
+"ShareType_34" = "Flickr";
+"ShareType_35" = "Dropbox";
+"ShareType_36" = "VKontakte";
+"ShareType_37" = "Wechatお気に入り";
+"ShareType_38" = "易信友達";
+"ShareType_39" = "易信友達ゾーン";
+"ShareType_41" = "明道";
+"ShareType_42" = "Line";
+"ShareType_43" = "WhatsApp";
+"ShareType_44" = "KakaoTalk";
+"ShareType_45" = "KakaoStory";
+
+// 08-24
+"certification_release"="認証解除";
+"certification_verification"="認証コード";
+"certification_verify_tip"="認証するための確認コードを登録したアドレス/番号に送信しました。ご確認ください。";
+"certification_release_submit"="解除確認";
+"certification_invalid_sn"="シリアルナンバーの入力に空欄は不可です。";
+
+"certification_prompt_release_success"="解除完了。";
+"certification_error_release_failed"="解除失敗。";
+"certification_params_valid"="携帯番号とメールアドレスのどちらか一つを正しく入力してください。";
+"list_single_mileage"="区間走行距離";
+
+// 0817
+"s_togq"="AccessTocken期限切れ、もう一度ログインしてください。";
+"s_Succcess"="シェア完了。";
+"s_Fail"="シェア失敗。";
+"s_haslogin"="現在のアカウントは他のデバイスにログイン中です。もう一度ログインしてください。";
+"lModifyUserName"=" Ninebotユーザー名変更";
+"s_modifyPwd"="Ninebotログインパスワード設定";
+"lComplete"="アカウント情報追加";
+"activate_guide_warn"="使用中の車両は本登録されていません。画面のガイド案内に沿って本登録をしてください。本登録を完了させないと車両はスピード制限され、正常に使用できません。";
+"accout_skip"="スキップ";
+
+//0813
+"s_electricity"="バッテリー情報";
+"s_percentage"="バッテリー残量パーセンテージ";
+"s_batterystatus"="バッテリー状況";
+"s_voltage"="電圧";
+"s_current"="電流";
+"s_power"="消費電力";
+"s_b1t"="バッテリー温度";
+"s_cri"="バッテリー循環周期";
+"s_btimes"="充電回数";
+"s_pro"="製造業者";
+"s_protime"="生産日付";
+"s_actime"="本登録日付";
+"s_bnumber"="バッテリーシリアルナンバー";
+"s_cap"="標準容量";
+"s_b_voltage"="コア電圧";
+"info_device_battery_mini_status_1" = "優秀";
+"info_device_battery_mini_status_2"="良好";
+"info_device_battery_mini_status_3"="普通";
+"info_device_battery_mini_status_4"="やや悪い";
+"info_device_battery_mini_cell"="コアパック";
+//// 08-13
+"lSetUserNameTip"="Ninebotユーザー情報の内容を追加し、パスワードを設定してください。設定完了後Appにログイン可能です。ユーザー名は1回のみ変更可能です。メールアドレスはパスワードを忘れた際に使用するので、慎重に入力してください。";
+
+// 08-12
+"s_ridfeel"="乗車体感設定";
+"lVerAlready"="車両シリアルナンバーは認証済みです。";
+"lVerNumFalse"="車両シリアルナンバーの形式が正しくありません。";
+"lVerFail"="認証失敗。もう一度操作してください";
+
+
+//20150811
+"s_connBLE"="ブルートゥース接続は切断されました。";
+"lBugFeedFail"="問題内容の記述、もしくはスクリーンショットの添付の空欄は不可です。";
+"lFeedbackSortFail"="問題の分類の取得に失敗しました。もう一度操作してください。";
+
+"s_innerVerson"="内部テストバージョン V";
+"lBugFeedback"="問題提出";
+"lBugDescrption"="問題記述";
+"lBugPicture"="画像アップロード";
+"lBugKindSelect"="問題の分類を選択してください。";
+"lBugKind"="問題分類";
+"lFeedbackFinish"="問題提出完了しました。ありがとうございます。迅速に処理します。";
+
+//2015 8.3
+"nb_RidSetting"="乗車設定";
+"lActiveMachinFirst" = "車両本登録をしてください。";
+"lSaveImg"= "カメラロールに保存";
+"yAlertTime"="購入時間を選択してください";
+"s_totalrun"="合計\n走行";
+"s_warning"="新しいバージョンのファームウェアがあります。アップデートしますか?";
+//2015 8.1
+"yNewyet"="現在のバージョンは最新です";
+"yOldyet"="新しいバージョンのファームウェアがあります。アップデートしますか?";
+"yGodown"="アップデートします。";
+
+//20150730
+"s_down_pull"="ドラッグして最新の情報へ更新";
+"s_refresh"="リリースしてデータ更新";
+"s_refreshing"="データを最新情報に更新中...";
+"s_loadMore"="クリックしてもっと情報を得る";
+"s_loadingMore"="もっと新しい情報をローディング中...";
+"s_loadOver"="ローディング完了";
+"s_last_time"="最後のアップデート:";
+"s_have_no"="履歴なし";
+"s_today"="今日";
+"lUserNameNoNill"="ユーザー名の入力に空欄は不可です。";
+"lUserPwdNoNill"="パスワードの入力に空欄は不可です。";
+"lLogin"="ログイン";
+"lMobileLogin"="携帯アカウント簡単登録/ログイン";
+"lXiaoMiLogin"="シオーミーアカウントログイン";
+"lLoding"="ログイン中...";
+"lUserStateLogin"="ユーザー名はログイン状態です";
+"lUserNoActive"="アカウントは本登録を完了されていません。本登録を完了させてください。";
+"lUserLoginAgain"=" ログイン失敗しました。もう一度操作してください";
+"lUserPwdFail"="パスワードが間違っています。もう一度操作してください。";
+"lPutUserName"="ユーザー名を入力してください。";
+"s_inPutUserName"="ユーザー名/メール";
+"lPutPwd"="アカウントパスワードを入力してください。";
+"lUserRegister"="ログイン";
+"lPutPhoneNum"="携帯番号を入力してください。";
+"lPutCountPwd"="認証コードを入力してください。";
+"lGetAuthCode"="認証コードを取得";
+"lAuthCode"="認証";
+"lPostCode"="アカウントの本登録はSMSメールを送信する必要があります。SMSの通信料は発生しますのでご注意ください。";
+"lPutRightPhoneCode"="正しい携帯電話の番号を入力してください。";
+"lGetAuthCodeFail"="認証コード取得に失敗しました。もう一度送信してください";
+"lGetAuthCodelimit"="認証コードの取得は1日5回までです。";
+"lAuthCodeNoNill"="認証コードの入力に空欄は使用できません。";
+"lAuthCodeFail"="認証コードが間違っています。";
+"lPostLater"="もう一度送信";
+"lAuthFail"="認証失敗";
+"lSaveAction"="保存";
+"lNoNilNick"="ニックネームの入力に空欄は使用できません。";
+"lNoNilSign"="ムードメッセージの入力に空欄は使用できません。";
+"lDoneAction"="完成";
+"lNickName"="ユーザー名:";
+"lOldPwd"="元のパスワード";
+"lNewPwd"="パスワード:";
+"lNewPwd2"="パスワード確認:";
+"lEmailAdd"="メールアドレス:";
+"lNoEqulPwd"="2回入力したパスワードは一致していません。";
+"lOldPwdNil"="旧パスワードの入力に空欄は使用できません。";
+"lModifyDone"="変更完了";
+"lPwdLessSix"="パスワード6文字未満の入力は使用できません。";
+"lNoRightUserName"="ユーザー名に‘_’の使用は使用できません";
+"lNoNilEmail"="メールアドレスの入力に空欄は使用できません。";
+"lFinishZiLiao"="プロフィール情報追加完了。";
+"lUersNameExit"="入力したユーザー名存在しています。他のユーザー名で試してください。";
+"lEmailExit"="メールアドレスはすでに登録されています。";
+"lHeaderimg"="プロフィール写真";
+"lUsername"="お名前";
+"lGender"="性別";
+"lBithDay"="生年月日";
+"lSig"="ムードメッセージ";
+"lOwerAuth"="オーナー認証";
+"lModifyPwd"="パスワード変更";
+"lUserSetting"="個人設定";
+"lLogout"="ログアウト";
+"lSetSig"="ムードメッセージ設定";
+"lFinishUserInfo"="プロフィール情報追加";
+"lMan"="男";
+"lWoman"="女";
+"lLogoutSure"="現在のアカウントをログアウトしますか。";
+
+"lMachinVer"="オーナー認証";
+"lLinkMachinFirst"="車両を接続してください。";
+"lvertify"="認証";
+"lAuthed"="認証のninebotシリーズ製品:";
+"lAuth_"="*認証済";
+"l_machins"="台ninebotシリーズ製品:";
+"lmachinNum"="車体番号";
+"lLinkFirst"="車両を接続してください。";
+"lPhoneNum"="携帯電話の番号:";
+"lReply"="返信";
+
+"s_searchDevice"="デバイス検索";
+"s_reSearch"="再度検索";
+
+"s_searching"="デバイス検索中";
+
+"s_nofound"="デバイスは見つかりませんでした。";
+"s_pconn"="デバイスを接続してください。";
+"s_services"="サービス";
+"s_find"="発見";
+"s_nplace"="Nファンゾーン";
+"s_nplace_title"="Nファンゾーン";
+"s_M_rank"="ランキング";
+"s_my"="My";
+"s_sin"="サインイン済";
+"s_mil_km"="単位設定";
+"s_device_setting"="デバイス設定";
+"s_deviceInfo"="デバイス情報";
+"s_setting"="ソフトウェア設定";
+"s_more"="More";
+"s_outtimer"="インターネットにアクセスするリクエストタイムアウト。";
+"s_active"="デバイスをアクティブにします。";
+"s_goon"="継続走行可能";
+"s_all_run"="Have been driving";///////
+"s_singlerun"="区間最高速度";
+"s_avgspeed"="平均走行速度";
+"s_limte_speed"="スピードリミットモード";
+"s_canrun"="可能\n走行距離";
+"s_n"="北";
+"s_dn"="北東";
+"s_d"="東";
+"s_ds"="南東";
+"s_s"="南";
+"s_xs"="南西";
+"s_x"="西";
+"s_sn"="北西";
+"s_updateing"="ファームウェアをアップデート中です。少々お待ちください...";
+"s_is_up"="ファームウェアの新しいバージョンがあります。アップデートしますか?\n注意：アップデートする前に車両は自動にロックされます。";
+"s_speed"="速度";
+"s_power_"="バッテリー残量";
+"s_mil"="走行可能距離";
+"s_tmp"="車体温度";
+"s_update_ok"="送信";
+"s_j1"="本登録失敗。";
+"s_j2"="本登録完了。";
+"s_j3"="本登録済みです。";
+"s_j4"="必須項目が空欄になっています。";
+"s_j5"="携帯の形式が間違っています。";
+"s_j6"="メールアドレスの形式が間違っています。";
+"s_i_a"="携帯/メールアドレス";
+"s_pcheck"="携帯/メールアドレスは正しいかを確認してください。";
+"s_safe_vdio"="安全ビデオ";
+
+"s_infor"="詳細";
+"s_send"="送信";
+"s_pl"="レビュー";
+"s_z"="「いいね！」";
+"s_no_content"="送信内容の入力に空欄は使用できません";
+"s_delete"="レビューを削除してもよろしいですか?";
+"s_loading"="ローディング中";
+"s_loading_"="ローディング中...";
+"s_haveno"="データがありません";
+"s_newshare"="新規シェア";
+"s_over"="完成";
+"s_publish"="公開";
+"s_chose"="選択";
+
+
+"nb_carSpeed"="速度設定";
+"nb_carLight"="LED設定";
+"nb_carSound"="サウンドと警告音";
+"nb_carSense"="センサー設定";
+"nb_carUpdate"="ファームウェアアップデート";
+"nb_carOtherSeting"="その他設定";
+
+//NBAboutVC
+"pleaseWait"="少々お待ちください...";
+"nb_speedSetting"="速度設定";
+//About
+"yNewIntr"="新機能紹介";
+"Thanks"="特別感謝";
+"yUpdate"="バージョンアップデート";
+"yGuanwang"="ホームページにアクセス";
+"yBanquan"="知的財産権はナインボット（北京）科技有限会社が所有します。";
+"yNaen"="ナインボット";
+"yIntroa"="1. 新しい操作画面は軽くて簡単";
+"yIntrob"="2. 簡単ログインで楽しく便利";
+"yIntroc"="3. 新感覚の車両コントロールで車両を遊びこなそう";
+"yIntrod"="4. リアル写真切替/ワンボタンでスクリーンショットなど自由自在";
+"yIntroe"="5. Nファンになろう！最新近況をリアルタイムで友達にシェア！";
+"yIntrof"="6. 各種サービスで疑問を解決できます。";
+"yAttria"="ダークブルー基調で現代感を表現";
+"yAttrib"="ナインボットコミュニティアカウント/携帯アカウントに対応。簡単登録";
+"yAttriC"="背景をリアル写真に変更可能。スクリーンショットをシェアしましょう";
+"yAttrid"="製品修理依頼、距離計算機能、修理スポット機能を追加";
+"y_no"="満充電回数を含めない";
+"y_have"="満充電回数を含める";
+
+//Introduction and guide view
+"yGo"="今すぐ体験します。";
+//NBServieceVC
+//@fault information;@maintenance network;@mileage calculater;@products repairs"
+"Nb_probInf"="故障情報";
+"Nb_serviecePlace"="修理スポット";
+"Nb_calculator"="距離計算機能";
+"Nb_probCommit"="製品修理依頼";
+"Nb_service"="サービス";
+//NBProbCommitVC.m Submit for maintenance
+"NB_address"="住所";
+"NB_mobile"="携帯";
+"NB_cellPhone"="固定電話";
+"NB_byTime"="領収書日付";
+"NB_byWay"="購入場所";
+"NB_sn"="シリアルナンバー";
+"NB_errorCode"="故障コード";
+"NB_probText"="故障内容";
+"NB_commitAlert"="お客様の送信内容を受け付けました。サポートから後日連絡致しますのでしばらくお待ちください。";
+"NB_connectFail"="インターネットへのアクセスリクエスト失敗。";
+"yCommit"="送信";
+"yYear"="年";
+"yMonth"="月";
+"yDay"="日";
+//NBProbCommitCell
+"nb_placehold"="内容を入力してください";
+//NBCalculatorCalculator
+"NB_modelNumber"="型番";
+"NB_calcuVolume"="バッテリー容量";
+"NB_height"="体重";
+"NB_capture"="環境温度";
+"NB_driveStyle"="乗車習慣";
+"NB_battryUse"="満充電回数";
+"nb_calculateFail"="機器情報が不足しています。機器情報を追加してください。";
+"yPleawrite"="記入してください。";
+"yCi"="回";
+"yOutRange"="範囲オーバー、もう一度入力してください。";
+"yRane"="範囲";
+"yStylesa"="均一速度で走行";
+"yStylesb"="都市型の道路状況(頻繁にスピード変化)";
+"yStylesc"="演出/展示/ショーでの運転";
+"yCalculate"="距離計算";
+
+"CFBundleDisplayName"="ナインボット";
+
+//20150320
+"pleaseWait"="少々お待ちください...";
+"nb_speedSetting"="速度設定";
+
+//20150309
+"no_network"="使用できるネット環境はありません。";
+//20150304
+"nb_perInfo"="個人情報";
+
+//20150127
+"nb_l"="ハード";
+"nb_r"="ソフト";
+"NB_Rank_WEEK"="週間ランキング";
+"NB_Rank_WEEK_"="今週のランキング";
+
+//20150112
+"one_breakled"="ブレーキLEDスイッチ";
+
+
+//20141215
+"setting_addcode"="追加コード:";
+
+"SetBluetoothName"="車両名称設定";
+"Input8Number"="8文字の半角英数字を入力してください";
+"BluetoothNameError"="8文字の半角英数字を入力してください";
+//20141211
+"LowTSPonefoot"="片足の場合、ステアリングの速度は制限されます。";
+
+//20141128Update
+"nickname"="ニックネーム:";
+"p_inputGender"="性別を入力してください";
+"p_inputRealName"="ニックネームを入力してください";
+"up_result"="個人情報変更失敗。";
+"l_mode_0"="ムードLED消灯";
+"one_konck"="軽いノックでLEDスイッチを切替";
+
+"takePhoto"="写真を撮る";
+"select_from"="カメラロールから選択";
+"Individuality signature"="ムードメッセージ:";
+"nb_Sex"="性　別:";
+"nb_city"="お住まいの町:";
+"nb_nohave"="なし";
+"nb_enterWeb"="ホームページへ";
+"p_inputName"="ムードメッセージを入力してください";
+
+"l_iName"="ムードメッセージ文字数制限。";
+//log in
+"txtHello"="こんにちは";
+"txtPleaseLogin"="ログインしてください";
+
+"nb_login"="ログイン";
+"nb_Regist"="ユーザー登録";
+"nb_ZX"="ログアウト";
+
+//Register
+"txtFieldBlank"="空欄は使用できません";
+
+//bbs
+"OpenSafari"="Safariで見る";
+//control
+"max_speed"="最大速度";
+
+//rank
+"NB_Rank"="トータルランキング";
+"NO_Rank"="ランキングに入っていません";
+"NORank_conn"="ランキングに入っていません(車両を接続してください)";
+"NO_CONN"="ネット接続リクエスト応答なし。";
+
+//register
+"user_name"="ユーザー名";
+"user_pwd"="パスワード";
+"user_Tpwd"="パスワード確認";
+"user_email"="メールアドレス";
+
+"nameLength"="ユーザー名は3-15文字です";
+"pwdLength"="パスワードは6-20文字です";
+"pwdCheck"="パスワードは、アルファベットと数字の組み合わせが必須です。";
+"pwd_nopass"="確認パスワードが一致していません。";
+
+"user_no"="ユーザー名に使用できない文字や記号が含まれています。";
+"sorry_register"="現在のIPアドレスはしばらくの間にユーザー登録操作が出来ません。";
+"user_nameRegister"="このユーザー名は登録されています。";
+"email_"="このEmailは登録されています。";
+
+//login
+"user_login"="ログイン";
+"user_nameorpwd"="ユーザー名かパスワードが間違っています。";
+//More
+"perCenter"="個人センター";
+"Check_Update"="アップデートをチェック";
+"current_newVerson"="現在のバージョンは最新です。";
+
+//oneLight color
+"l_mode_1"="点灯モード1 ";
+"l_mode_2"="点灯モード2";
+"l_mode_3"="点灯モード3";
+"l_mode_4"="点灯モード4";
+"l_mode_5"="点灯モード5";
+"l_mode_6"="点灯モード6";
+"l_mode_7"="点灯モード7";
+
+"ride_mode"="乗車体感";
+"atmosphere_mode"="ムードLEDモード";
+"r_1"="カラー1";
+"r_2"="カラー2";
+"r_3"="カラー3";
+"r_4"="カラー4";
+
+//One cycling mode
+"O_NormalMode"="ノーマルモード";
+"O_SoftMode"="ソフトモード";
+"O_SportMode"="スポーツモード";
+
+//Update information
+"AM"="午前";
+"PM"="午後";
+"Last Updated"="最後のアップデート: ";
+"Release to refresh"="リリースして最新情報に更新...";
+"Pull down to refresh"="ドラッグして新情報に更新...";
+"Loading"="ローディング中...";
+
+"NineBotUpdateSuccess"="ファームウェアのアップデートが完了しました。車両を再度接続してください。";
+"UpdateErrorCtrl"="メインコントロールファームウェアのアップデートが失敗しました。もう一度操作してください。";
+"UpdateErrorAHRS"="AHRSファームウェアのアップデートが失敗しました。もう一度操作してください。";
+"UpdateErrorDrive"="駆動ファームウェアのアップデートが失敗しました。もう一度操作してください。";
+"UpdateErrorOne"="ファームウェアのアップデートが失敗しました。もう一度操作してください。";
+"Warning"="警告";
+"UpdateTitle"="車両ファームウェアアップデート";
+"NineBotVersion"="現在車両ファームウェアバージョン: ";
+"latestVersion"="最新車両ファームウェアバージョン: ";
+"FirmwareUpdate"="ファームウェアアップデート";
+"Lock"="ロック";
+"ErrorCodeChartHeader"="エラーコード         記述";
+"46"="46以上（46を含む）";
+"Input7Number"="7桁の数字を入力してください";
+"Input6Number"="6桁の数字を入力してください";
+//AlertView
+"NotConnectedTips"="デバイス接続失敗、もう一度操作してください。";
+"UpdateDes"="新しいバージョンが利用できます。アップデートしますか？";
+"Update"="アップデートします。";
+"Sure"="確定";
+"RemoveHandleFirst"="ステアリングバーを取り外してください。";
+"GetOffFirst"="待機モードかアシストモードに入ってください";
+"UpdateFirst"="ファームウェアをアップデートしてください";
+//"speed curve";
+"ScaleCodeError"="入力したメロディの形式が正しくありません。7桁の数字でメロディを入力してください。";
+"BluetoothCodeError"="ペアリングコードはただしくない。6桁の数字を入力してください。";
+
+"serialNumberCodeError"="シリアルナンバー形式が間違っています。";
+"MailboxError"="すみません、入力したメールアドレスが間違っています。もう一度入力してください。";
+"PostureSensorTips"="姿勢センサーの校正中は必ず車両を静止状態にしてください。持続時間は約3秒で、開始時と終了時に「ビビ」のブザー音が鳴ります。操作を続けますか？ ";
+"LockFirst"="ロックしてください。";
+"StopFirst"="車両を止めてください。";
+
+"StandOffTips"="リモートコントロールモードに入ってください。";
+"RebootTips"="車両再起動確認";
+"ShutDownTips"="車両シャットダウン確認";
+
+"PairCodeRebootTips"="ブルートゥースのペアリングコードを設定完了後にNinebot再起動する必要があります。";
+"nb_changeBat"="注意！現在の設定内容と実際に使用しているバッテリーの種類が異なる場合、車両のバッテリー残量測定の精度に影響を与えることがあります。故障する恐れがあります。バッテリーの種類切替を確定しますか？ ";
+
+
+"CauseOfError"="可能と考えられる原因:";
+"SolutionSuggestion"="対応方法:";
+
+//MenuViewController
+
+"DashBoard"="ダッシュボード";
+"DetailInfo"="詳しい情報";
+"BlueToothTeleControl"="ブルートゥースリモートコントロール";
+"Settings"="設定";
+
+//NinebotInfoViewController Level 1
+"BasicInfo"="基本情報";
+"Electricity"="バッテリー残量表示" ;
+"Speed&Mileage"="速度と距離数";
+"Runtime"="走行時間";
+"Temperature"="気温";
+"Voltage&Current"="電圧と電流";
+"Posture"="姿勢";
+"Check&Update"="ファームウェアのアップデートをチェック";
+"About"="About";
+"Tips"="Tips";
+
+"ErrorCodeChart"="故障・警告コードリスト";
+"Back"="戻る";
+
+//BasicInfo
+"SerialNumber"="車両シリアルナンバー";
+"BluetoothPairingCode"="ブルートゥースのペアリングコード";
+"FirmwareVersion"="ファームウェアバージョン";
+"ErrorCode"="エラーコード";
+"AlarmCode"="警告コード";
+"WorkMode"="現在の動作モード";
+"FootSwitchStatus"="バランスモードステータス";
+"HandleAngle"="ステアリングバー角度";
+
+"StandbyMode"="待機モード";
+"AssistantMode"="アシストモード";
+"FootMode"="バランスモード";
+"LockMode"="ロックモード";
+"RemoteMode"="リモートコントロールモード";
+
+//Electricity
+"VehicleBatteryLevel"="全体のバッテリー残量";
+"BatteryALevel"="バッテリー1残量";
+"BatteryBLevel"="バッテリー2残量";
+
+//Speed&Mileage
+"EstimatedRemainingMileage"="走行可能距離予測";
+"CurrentSpeed"="瞬間車両速度";
+"LeftWheelSpeed"="瞬間左ホイール速度";
+"RightWheelSpeed"="瞬間右ホイール速度";
+"NormalModeValue"="ノーマルモードのリミット值";
+"SpeedLimitModeValue"="スピードリミットモードのリミット值";
+"OdometerOfRiding"="総走行距離";
+"OdometerOfAssistanting"="総アシスト距離";
+"OdometerOfRemoting"="総リモートコントロール距離";
+"TripDistanceOfRiding"="区間走行距離";
+"TripDistanceOfAssistanting"="区間アシスト距離";
+"TripDistanceOfRemoting"="区間リモートコントロール距離";
+
+//Runtime
+"TotalRunningTime"="総動作時間";
+"TotalRidingTime"="総走行時間";
+"TotalAssistantingTime"="総アシスト時間e";
+"TotalRemotingTime"="総リモートコントロール時間";
+"CurrentRunningTime"="区間動作時間";
+"CurrentRidingTime"="区間走行時間";
+"CurrentAssistantingTime"="区間アシスト時間";
+"CurrentRemotingTime"="区間リモートコントロール時間";
+//
+////Temperature
+"VehicleTemperature"="車体温度";
+"BatteryATemperature"="バッテリー1温度";
+"BatteryBTemperature"="バッテリー2温度";
+
+//Voltage&Current
+
+
+"VehicleInfo"="製品情報";
+"DriverVoltage"="駆動部電圧";
+"BatteryAVoltage"="バッテリー1電圧";
+"BatteryBVoltage"="バッテリー2電圧";
+"SystemCurrent"="システム総電流";
+
+"SystemA"="システムA";
+"SystemB"="システムB";
+"11V"="11V電圧";
+"12V"="12V電圧";
+"5V"="5V電圧";
+"Motor1 Current"="モーター1総電流";
+"Motor2 Current"="モーター2総電流";
+"Motor1 Phase Current"="モーター1相電流";
+"Motor2 Phase Current"="モーター2相電流";
+
+//Posture
+
+"PitchAngle"="現在ピッチ角";
+"RollAngle"="現在ロール角";
+"PitchAngleRate"="瞬間ピッチ角速度";
+"RollAngleRate"="瞬間ロール角速度";
+//
+//"Pitch Angle"="The current pitching angle";
+//"RollAngle"="The current roll angle";
+//"PitchAngleRate"="The current pitching angle speed";
+//"RollAngleRate"="The current roll angle speed";
+
+//one
+
+"BackAngle"="現在後ろ傾き角度";
+"pwmOutput"="現在PWM値";
+
+//"BackAngle"="The current rear angle of elevation";
+//"pwmOutput"="Current PWM value";
+
+//About
+"Version"="バージョン:";
+
+
+//updateFW
+
+"UpdateFWTip"="現在の車両ファームウェアは最新です。";
+"DashBoardNeedUpdate"="ダッシュボードファームウェアをアップデートする必要があります。";
+"DriveNeedUpdate"="駆動ファームウェアをアップデートする必要があります。";
+"AHRSNeedUpdate"="AHRSファームウェアをアップデートする必要があります。";
+"MasterNeedUpdate"="メインコントロールファームウェアをアップデートする必要があります。";
+
+"TeleCtrl Max Forward Speed"="リモートコントロールモード最大前進速度";
+"TeleCtrl Max Roll Speed"="リモートコントロールモード最大ステアリング速度";
+"TeleCtrl Max Acce Speed"="リモートコントロールモード最大加速度";
+
+"LightsSettings"="車両LED設定";
+
+"ForwardLED"="フロントLED";
+"ForwardLEDMode"="フロントLED点灯モード";
+"ForwardLEDSwitchingCycle"="フロントLED電源周期";
+"ForwardLEDAutoBrightness"="フロントLED輝度自動調節";
+
+"Brightness"="輝度値";
+"Always"="常時点灯モード";
+"BreathingMode"="点灯モード1";
+"BlinkingMode"="点灯モード2";
+"LeftScrollingMode"="点灯モード3";
+"RightScrollingMode"="点灯モード4";
+"BothwayScrollingMode"="点灯モード5";
+"OFF"="終了";
+
+"HandleLED"="ステアリングバーLED ";
+"HandleLEDMode"="ステアリングバーLED点灯モード";
+"HandleLEDSwitchingCycle"="ステアリングバーLED電源周期";
+"HandleLEDAutoBrightness"="ステアリングバーLED輝度自動調節";
+
+"DirtboardLED"="フェンダーLED";
+"DirtboardLEDMode"="フェンダーLED点灯モード";
+"DirtboardLEDSwitchingCycle"="フェンダーLED電源周期";
+"DirtboardLEDAutoBrightness"="フェンダーLED輝度自動調節";
+
+"SoundSetting"="サウンドと警告音設定";
+
+"ONOFFMusic"="起動音と終了音";
+"TipSound"="リマインドサウンド";
+"Alarm"="警告音設定";
+
+"Mode"="モード";
+"DefaultMode"="デフォルトモード";
+"ScaleMode"="スケールモード";
+"ScaleSequence"="スケールシーケンス";
+"Volume"="ボリューム";
+"BackAlarm"="バックスピードオーバー警告";
+
+//Steering sensitivity settings
+
+"SensorSetting"="センサー設定";
+"AttitudeSensor"="姿勢センサー";
+"AttitudeSensorCalibration"="姿勢センサー校正";
+"Steeringsensitivity"="ステアリング感度";
+"SteeringsensitivityAutoBrightness"="ステアリング感度自動調節";
+"SteeringsensitivityValue"="感度";
+
+"OtherSettings"="その他設定";
+
+"RebootNinebot"="車両を再起動";
+"ShutdownNinebot"="車両をシャットダウン";
+
+"FreeMode"="フリーモード起動";
+
+"SetBluetoothPairingCode"="ブルートゥースペアリングコード設定";
+"UpdateSerialNumber"="車両シリアルナンバー設定";
+"nb_useLargeBattery"="現在使用中のバッテリーは大容量バッテリーです";
+"nb_getoff"="車両から降りると待機モードになります。";
+
+"Cancel"="取消";
+"Save"="保存";
+"TargetNumber"="変更後のシリアルナンバー:";
+"TargetNumberError"="変更後のシリアルナンバーが間違っています。";
+"SeriNum"="現在のシリアルナンバー:";
+"PasswordError"="認証コードの入力が間違っています。";
+"Password"="認証コード:";
+
+
+"Km_Miles"="距離単位設定";
+"km"="キロメートル（km）";
+"miles"="マイル（mile）";
+
+"CauseOfError"="可能と考えられる原因:";
+"SolutionSuggestion"="対応方法:";
+
+"ErrCodeDesc1_8"="モーター/駆動センサー異常";
+"ErrCodeDesc9_12"="駆動部大容量スイッチ管損傷";
+"ErrCodeDesc13_19"="車両モーターの駆動部その他故障";
+"ErrCodeDesc20_29"="車両姿勢センサー異常";
+"ErrCodeDesc30_34"="車両内部通信異常";
+"ErrCodeDesc35"="バッテリー回路切替異常";
+"ErrCodeDesc36"="バッテリー1出力異常";
+"ErrCodeDesc37"="バッテリー2出力異常";
+"ErrCodeDesc38"="バッテリー1温度異常";
+"ErrCodeDesc39"="バッテリー2温度異常";
+"ErrCodeDesc40"="フットマットセンサー異常";
+"ErrCodeDesc41_42"="車体内部12VDCもしくは5VDC低電圧電源出力異常";
+"ErrCodeDesc43"="充電器異常";
+"ErrCodeDesc44"="初期テスト保留";
+"ErrCodeDesc45"="運転中の車両角度オーバー";
+"ErrCodeDesc46"="未定義のエラーコード";
+
+
+"ErrCodeCause1_8"="1. 強い衝撃\n2. 内部電気部品故障によるモーターセンサー破損\n3. 本体起動時に自己検査する際に発生した検査異常。";
+"ErrCodeCause9_12"="考えられる原因：強い衝撃や回転中のタイヤに異物が挟まることによる長時間の電流・電圧の過負荷や高い環境温度が駆動MOSFETトランジスタに損傷を与えています。この状況では「タイヤがロックされてしまう」現象が発生します。事故や故障に繋がる恐れがあり、車体を移動させることも困難になります。";
+"ErrCodeCause13_19"="考えられる原因：電源スイッチトランジスタ異常。もしくはモーターの駆動部ファームウェアのアップデート失敗";
+"ErrCodeCause20_29"="1. Ninebot本体が強い衝撃を受けて姿勢センサーのズレ/破損\n2. 姿勢センサー部品故障\n3. 電磁妨害による車両姿勢センサー異常。発信\n4. 本体起動時に自己検査する際にたまに発生した検査異常。";
+"ErrCodeCause30_34"="1. ステアリングバーとハンドルバーの間の6本のネジの緩みによる接触不良\n2. 車体内部のコード/接続口の緩みによる接触不良\n3. 車体内部通信関係の部品故障";
+"ErrCodeCause35"="車両内部のバッテリー過熱バックアップ保護切替回路異常。";
+"ErrCodeCause36"="バッテリー1過放電/開回路/ショートの保護";
+"ErrCodeCause37"="バッテリー2過放電/開回路/ショートの保護";
+"ErrCodeCause38"="1. バッテリー1の内部ショートによる過熱\n2. バッテリー内部温度センサー破損\n3. 気温による異常。（高温/低温環境）";
+"ErrCodeCause39"="1. バッテリー2の内部ショートによる過熱\n2. バッテリー内部温度センサー破損\n3. 気温による異常。（高温/低温環境）";
+"ErrCodeCause40"="1. フットマットセンサー無効\n2. フットマットの変形によるフットマットセンサーの動作無効化";
+"ErrCodeCause41_42"="1. ステアリングバーのUSB給電過負荷やショート（5VDC/1.5A超過）\n2. 内部12VDC電源/5VDC電源出力ショート\n3.電源回路破損";
+"ErrCodeCause43"="充電器出力異常。Ninebot正常充電不能";
+"ErrCodeCause44"="工場初期テスト保留";
+"ErrCodeCause45"="走行中にピッチ角やロール角が大きすぎることによる本体転倒や飛出しなどバランスを失うなどでこのエラーが発生します。";
+"ErrCodeCause46"="未使用のエラーコード、エラー分類不明";
+
+
+"ErrCodeSug1_8"="再起動してください。再起動しても解決できない場合は、販売店や代理店サポート部門に連絡してください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug9_12"="この故障はお客様自身で解決できません。販売店や代理店サポート部門に連絡してください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug13_19"="再起動してください。再起動しても解決できない場合は、販売店や代理店サポート部門に連絡してください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug20_29"="再起動してください。再起動しても解決できない場合は、販売店や代理店サポート部門に連絡してください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug30_34"="1.ステアリングバーの接続を確認してください。（クイックマニュアルをよくお読みください）。ステアリングバーの接続具合によりこのエラーが発生します。\n2.ステアリングバーとハンドルバーの間の6本のネジの緩みがないかを確認してください。ネジの緩みによりこのエラーが発生します。";
+"ErrCodeSug35"="2–3回再起動してエラーが消えたかを確認してください。エラーが消えない場合は、販売店や代理店サポート部門に連絡してください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug36"="充電器を使用し10分間充電を行ってください。解決できない場合は、バッテリーパックを取り外してもう一度セットしてください。再度充電し、また解決できない場合は、販売店や代理店サポート部門に連絡してください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug37"="充電器を使用し10分間充電を行ってください。解決できない場合は、バッテリーパックを取り外してもう一度セットしてください。再度充電し、また解決できない場合は、販売店や代理店サポート部門に連絡してください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug38"="1.-10度未満の環境で保管し発生したエラーです。低温環境で発生した警告です。Ninebotを室温環境（約20度前後）に置き、最短で約8時間後に再起動してください。\n2.バッテリーカバーを触り、高温の場合は直ちに使用を中止してください。Ninebotを室温環境（約20度前後）に置き、最短で約4時間後に再起動してください。\nエラーが消えない場合は直ちに使用を中止して販売店や代理店サポート部門に連絡してください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug39"="1.-10度未満の環境で保管し発生したエラーです。低温環境で発生した警告です。Ninebotを室温環境（約20度前後）に置き、最短で約8時間後に再起動してください。\n2.バッテリーカバーを触り、高温の場合は直ちに使用を中止してください。Ninebotを室温環境（約20度前後）に置き、最短で約4時間後に再起動してください。\nエラーが消えない場合は直ちに使用を中止して販売店や代理店サポート部門に連絡してください。電子メール(日本語)：support@e-otomo.co.jp ";
+"ErrCodeSug40"="1.起動時にフットマットを踏んでいないか、押していないかを確認してください。\n2.足をフットマットから離した場合、フットマットが正常な位置まで戻るかを確認してください。\n3.解決できない場合は販売店や代理店サポート部門に連絡してください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug41_42"="1.電力消費が8W以下（5V/1.5A）であることを確認してください。\n2.何も接続していない場合は、ステアリングバーを車体から外して本体を起動してください。ステアリングバーを外して起動できた場合は、ステアリングバーの内部回路がショートしている可能性が高く、この場合はステアリングバーとハンドルバーを両方サポート部門に修理を依頼して下さい。ステアリングバーを外しても解決できない場合は、本体が故障している可能性が高いです。サポート部門に修理についてご相談ください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug43"="1.充電器のソケットと本体から外し、もう一度接続してください。解決できない場合は、充電器が故障している可能性があります。サポート部門に修理についてご相談ください。\n2.新品の充電器を交換しても解決できない場合は、本体が故障している可能性が高いです。サポート部門に修理についてご相談ください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug44"="通常ではこのエラーは発生しません。エラーが発生した場合は、サポート部門にご相談ください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug45"="このエラーは一般的に再起動後に消えます。何度か再起動しても消えない場合は、サポート部門に修理についてご相談ください。電子メール(日本語)：support@e-otomo.co.jp";
+"ErrCodeSug46"="未定義のエラーコードです。何度か再起動してエラーが消えたかを確認してください。エラーが消えない場合は、ダッシュボードが故障している可能性があります。販売店やサポート部門に修理についてご相談ください。電子メール(日本語)：support@e-otomo.co.jp";
+
+
+//重新整理，重点是命名，目前命名太乱，现在按照这种规则命名
+
+"nb_robot_newhand_completion_tip_markII"="Beginner tutorial has been completed, and this vehicle will be limited to 12km/h before 1 km has been finished.";
+
+"nb_robot_driving_instruction_tip_markII"="Pleaseread the beginners tutorial, it will guide you how to ride this vehicle and enjoy your safety rides.";
+"nb_robot_driving_instruction_exercise_tip_markII"="Please finish the 5 minutes video about how to control the vehicle.";
+
+"nb_robot_newhand_step1_markII"="Using Ninebot One";
+"nb_robot_newhand_step2_markII"="Position Adjustment";
+"nb_robot_newhand_step3_markII"="Vehicle-Control Practice";
+"nb_robot_newhand_step4_markII"="Sliding Practice";
+
+"nb_robot_settings_handler_mode_switch_markII"="Switch of lift mode";
+"nb_robot_settings_handler_mode_tips_markII"="When lift mode is on, wheel will not spin rapidly. When lift mode is off, wheel will spin rapidly once vehicle is lifted up. ";
+"nb_robot_settings_handler_settings_markII"="Handle bar setting";
+"nb_robot_settings_handler_calibration_markII"="Handle bar calibration";
+"nb_robot_settings_handler_calibration_start_markII"="Vehicle should be locked before handle bar calibration, please confirm if it is ok to lock the vehicle.";
+"nb_robot_settings_handler_calibration_up_markII"="1/2 Please lift your up vehicle before pressing \"Sure\", otherwise the lift function will not be working.";
+"nb_robot_settings_handler_calibration_down_markII"="2/2 Please lift your vehicle down before pressing \"Sure\", otherwise the lift function will not be not working.";
+"nb_robot_settings_handler_calibration_complete_markII"="Handle bar calibration completed.";
+"nb_robot_activate_success_tip_markII"="This vehicle has been initialized, please read user manual carefully, if not your vehicle will be in limited mode of 7km/h.";
+"nb_robot_unactivate_tips_markII"="Your vehicle is a new vehicle, please initialize your vehicle according to the guideline page, or your vehicle cannot be used.";
+
+"nb_robot_driving_instruction_next"="Next";
+"nb_robot_driving_instruction_prev"="Previous";
+
+

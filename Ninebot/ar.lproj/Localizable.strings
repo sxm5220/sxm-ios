@@ -1,0 +1,1375 @@
+/* 
+  Localizable.strings
+  Ninebot
+
+  Created by 宋晓明 on 16/8/16.
+  Copyright © 2016年 sxm. All rights reserved.
+*/
+
+//levy-2016-8-8
+"nb_online_pay_result_go_order"="查看订单";
+"nb_online_pay_result_go_home"="返回首页";
+"nb_online_pay_mode"="支付方式：";
+"nb_online_order_fee"="付款总额：";
+"nb_online_order_num"="订单编号：";
+"nb_online_pay_result_title"="支付结果";
+"nb_online_confirm_pay"="确认支付";
+"nb_online_order_pay"="订单支付";
+"nb_online_pay_install_wechat"="对不起，请先安装微信app，再进行微信支付";
+//sxm-20160805
+"s_assistance_mode"="Enter Assi mode by click pedal";
+//ln-2016-8-3
+"nb_nfans_language_apply"="Apply to whole N fan club";
+//sxm-2016-8-1
+"s_vehicleSetting"="车辆设置";
+"s_cruise"="自动定速巡航";
+"s_cruise_info"="启用自动定速巡航功能后，骑行中保持油门位置不变5秒以上，听到滴声长响后，可松开油门，车辆会保持当前速度继续行驶。捏下刹把或再次按下油门，定速巡航取消。";
+"s_controlMode"="油门模式";
+"s_speedControl"="速度模式";
+"s_torqueControl"="转矩模式";
+"s_energyRecovery"="能量回收强度设置";
+"s_energyRecovery1"="强";
+"s_energyRecovery2"="中";
+"s_energyRecovery3"="弱";
+//ln 2016-7-28
+"nb_nfans_send_edit"="Confirm to quit edit?";
+"nb_nfans_rule_title"="NFans Club Regulationss";
+"nb_search_tip_forbit"="Forbidden  %@  to post in N fans club？";
+"nb_search_tip_noforbit"="Release  %@  to post in N fans club?";
+
+//sxm-20160728
+"s_not_filled"="Unbound";
+"s_complete_email"="revise email";
+"s_input_newEmail"="Input new email account";
+"s_newEmail_information"="Ninebot will send verification message to your email, please check.";
+"s_emailCode_fail"="Verification code error or out of time";
+"s_emailCode_sendFail"="fail to send verification code";
+
+
+//mgl-20160727
+"backgroundRunSwitch"="Switch of background run reminder";
+"backgroundRunSwitchTip"="After switch turned off, if there are any abnormal ridding behaviors, app will not give a notice when app is run background.";
+"settings_other_bt_name_restart"="لابد لإعادة تشغيل المركبة إعادة تسمية البلوتوث! من فضلك أعد تشغيل المركبة!";
+
+//levy-20160727
+"nb_robot_active_statement_title"="Statement";
+"nb_robot_active_statement_content"="Please enter your email address so you can retrieve your password if you forget it.  Ninebot by Segway will also send you service updates or notifications via email.  Ninebot by Segway will not share your email address with other companies.";
+
+//sxm-20160707
+"s_upgradeUserNameTip"="Note：The user  is used for login, only allowed to modified  once, please be careful to fill in.";
+"s_transMode"="Shipping mode";
+"s_transModeTip"="Once this function is on, you have to press the turn on/off button for several seconds to turn on unit, which can make sure unit will not be turned on automatically when turn on/off button pressed by error or incident during delivery.";
+//mgl-20160614
+"m_TeachTip_speed"="The beginner teaching has not completed at this vehicle , the speed limit cannot be modified.Do you want to complete?";
+//sxm-20160603
+"s_backfast_alarm"="Warning when going back too quickly.";
+"s_parameter_nil"="Specification is null.";
+"s_openLocal"="Are you sure to turn on current location to use this function? (Settings-Privacy-Location Service-Ninebot)";
+"m_draw_success"="领取成功";
+"m_Goods_not_Enough"="暂时缺货";
+"m_winning_Record"="中奖记录";
+"s_driverTemp"="Temperature of driver";
+//mgl-2016-6-1
+"m_lottery_rule"="抽奖规则";
+"m_had_get"="已领取";
+"m_everytime_Need"="每次仅需";
+"m_interjection"="呢~";
+//mgl-2016-5-23
+"m_integralShop"="积分商城";
+"m_N_MoneyShop"="N币商城";
+"m_exchangeArea"="兑换专区";
+"m_NMoney"="N币";
+"m_ConvertReord"="兑换记录";
+"m_GoodsDetailed"="商品详情";
+"m_surplus"="剩余";
+"m_Piece"="件";
+"m_marketPrice"="市场价";
+"m_unitary"="元";
+"m_immediateExchange"="立即兑换";
+"m_N_Notenough"="N币不足";
+"m_goodsNmae"="商品名称";
+"m_goodsAbout"="商品简介";
+"m_exchangeProcess"="兑换流程";
+"m_attentionMatter"="注意事项";
+"m_defaultSwitch"="设为默认";
+"m_pleaseInputStreetOrHouseNumber"="路或街道地址，门牌号";
+"m_addressList"="地址列表";
+"m_hadSet_defaul"="设为默认";
+
+//2016-5-19
+"l_no_search_result"="No data found";
+
+//sxm-20160527
+"s_local_rank"="Local Ranking list";
+"s_currentlocal"="Current location :";
+//sxm-20160518
+//"s_bleConn_fail"="连接密码不正确，请重新输入连接密码！";
+
+//sxm-20160516
+"s_orig_pwdFail"="Original password is incorrect!";
+//sxm-20160513
+"s_limitSpeed_Intro_tip"="You vehicle will automatically adjust the speed limit value according to battery capacity, temperature, load and driving habits. When the pointer arrives at the red dashed part, it indicates you have exceeded the speed limit, and the vehicle will gradually lean back and limit speed. Please drive carefully.";
+"s_remainderRange_tip"="The remaining mileage is the rated value, which is associated with temperature, tire pressure, and driver’s weight. Please take the actual situation as the criterion.";
+//2016-5-11
+"l_nfans_forbit_title"="Banned from posting";
+"s_limitSpeedMode_Tips"="Are you sure to switch to the speed limited mode?";
+"l_fans_forbit_cancle"="Ban cancelled";
+"l_fans_no_forbit"="Ban lifted";
+"l_search_user_list"="List of users";
+"l_search_dynamic_list"="List of dynamics";
+"l_search_forbit_list"="List of bans";
+"l_search_more"="View more";
+"l_search_totle"="Total";
+"l_search_page"="pages";
+"l_search"="Search";
+"m_goto_Activation"="Activate";
+"s_medalList"="Medal list";
+"m_my_Npoints"="My N coins";
+"m_Npoints_Details"="N coins in details";
+"m_integral_Rule"="Point rules";
+"m_Npoints_Rule"="N coin rules";
+"m_MyGrade"="My grade";
+"m_Grade_Detaile"="Grade in details";
+"m_Grade_Name"="Grade name";
+"m_points"="Point";
+"m_Update_NeedPoints"="Points for upgrading";
+"m_All_Points"="Total points";
+"m_Attendance"="Signed in";
+"s_userLevel"="Level";
+"Input1_15"="Please input 1-15 characters or digits";
+"s_rideTip"="Drive carefully!";
+//mini warning
+"s_mini_warning_1"="Battery is too low. Please recharge!";
+"s_mini_warning_2"="Vehicle body temperature is too high!";
+"s_mini_warning_3"="Vehicle body temperature is too low!";
+"s_mini_warning_4"="Battery temperature is too high!";
+"s_mini_warning_5"="Battery temperature is too low!";
+"s_mini_warning_6"="Reverse speed is too fast. Please drive carefully!";
+"s_mini_warning_7"="Motor is stalling. Please drive carefully!";
+"s_mini_warning_8"="Vehicle is tumbling accidentally. Please drive carefully!";
+"s_mini_warning_9"="Vehicle is in lock mode!";
+"s_mini_warning_10"="You are over the speed limit. Please drive carefully!";
+"s_mini_warning_11"="You have been over the speed limit excessively. Please drive carefully.";
+"s_mini_warning_12"="The battery voltage is too high. Please don’t drive down a slope or slam the brakes on and avoid energy recycle that leads to over-charge of the battery!";
+"s_mini_warning_13"="The motor is close to being overload. Please slow down immediately!";
+"s_mini_warning_14"="The output power of your vehicle is too high. Please slow down immediately!";
+"s_mini_warning_15"="The motor torque is too large. Please drive carefully!";
+"s_mini_warning_16"="You are speeding up too fast. Please drive carefully!";
+"s_mini_warning_17"="Battery voltage is low, please be careful when riding.";
+"s_mini_warning_18"="Foot sensor is tilting back because of high speed, vehicle will be slow down.";
+"s_average_power_consumption"="Average power consumption";
+//0422
+"s_limit_speed"="Max speed";
+"s_markII_error_1"="Fault of motor sensor or motor is not connected.";
+"s_markII_error_2"="Failure of motor A current.";
+"s_markII_error_3"=" Failure of motor B current";
+"s_markII_error_4"=" Failure of motor C current.";
+"s_markII_error_6"="Vehicle S/N is the initial S/N";
+"s_markII_error_10"="Battery #1: abnormal communication.";
+"s_markII_error_11"="Battery #2: abnormal communication.";
+"s_markII_error_12"="Failure of gyroscope initialization";
+"s_markII_error_13"="Failure of gyroscope calibration";
+"s_markII_error_14"="Battery #1: abnormal output.";
+"s_markII_error_15"="Battery #2: abnormal output.";
+"s_markII_error_16"="Battery #1: abnormal temperature.";
+"s_markII_error_17"="Battery #2: abnormal temperature.";
+"s_markII_error_24"="Error of general voltage.";
+"s_markII_error_25"="Error of voltage upgrade.";
+"s_markII_error_26"="Error of system clock.";
+"s_markII_error_27"="Error of current calibration.";
+"s_markII_error_28"="Battery #1: abnormal power supply.";
+"s_markII_error_29"="Battery #2: abnormal power supply.";
+"s_markII_error_30"="Temperature sensor open circuit.";
+"s_markII_error_31"="Temperature sensor is short circuit.";
+"s_markII_error_32"="Battery 1 password incorrect.";
+"s_markII_error_33"="Battery 2 password incorrect.";
+"s_markII_error_34"="Battery cell of battery 1 is in big differential pressure.";
+"s_markII_error_35"="Battery cell of battery 2 is in big differential pressure.";
+"s_markII_error_36"="Battery 1 comes into testing model.";
+"s_markII_error_37"="Battery 2 comes into testing model.";
+"s_error_code_desc_default"="Undefined error.";
+//mini激活完成时提示
+"s_do_over_mini"="You've completed the safe driving guide. The vehicle will be speed limited to 10km/h until you've ridden 1km.";
+"s_ikonw"="Well noted.";
+"s_dashboard_tip"="Dashboard reminder";
+"s_hightSpeed_tip"="Red dashed line indicates over-speed, please slow down when overpassed this line. ";
+"s_batterChangeTip"="Battery change reminder";
+"s_oneBatterTip"="Dear client, one battery only is detected, and please note that: \n\n1) mileage will be ";
+"s_oneBatterySpeedValue"="\n2) max speed is ";
+"s_batterUpgradeTip"="Battery upgrade reminder";
+"s_doubleBatterTip"="Congratulations. Battery upgrade successful! After upgrade, \n\n1) mileage will be ";
+//l-3-30
+"PhoneLogin"="Register";
+"TargetSNInputError"="The two target Serial no. is not consistent with each other, please input again!";
+"Target_identification_sn"="Confirm the target serial no.:";
+"setting_other_sn_warnning_invalid_location"="Location info get failure!";
+"ySystemMsg"="System message";
+"s_carrySwitch"="Switch of auto shut off once vehicle lifted up";
+"s_battery1"="Battery1";
+"s_battery2"="Battery2";
+"speed_limit_active"="The vehicle has not been activated, the speed limit cannot be modified";
+//l-2-18
+"l-active-Congratulations"="Congratulations";
+"nb_nfans_language_title"="Please select a language";
+"nb_nfans_message_unread"="Unread Message";
+"s_nplace_title"="Nدوران مروحة";
+//ln-2-1
+"l-map-clear_location_fail"="فشل في توضيح موقعي";
+"l_map_location_error"="خطأ في تحديد الموقع، من فضلك افتح خدمة تحديد الموقع";
+"l_calculator_remian_mil"="يعد إجمالي الأميال الباقية للسيارة قيمة نظرية ويخضع لظروف اختبارات خاصة. قد تختلف القيمة الفعلية مع اختلاف درجة الحرارة والتضاريس والسرعة ووزن قائد السيارة وعادات القيادة والدوام عليها وغيرها من العوامل.";
+//ln-1-30
+"activate_title"="تفعيل";
+"activate_ing"="منشط..";
+"nfans-chat-new"="قل شيئا";
+//ln-1-29
+"map_nearby_change_google"="غير إلى خريطة جوجل";
+"map_nearby_change_baidu" = "Change to Baidu Map";
+//ln-1-8
+"s_noMoreMessage"="لا مزيد من الرسائل";
+"l_nfans_photo_fail"="فشل الحفظ";
+"l_nfans_photo_success"="يحفظ في ألبوم النجاحات";
+"t_sure_togo"="تحقق";
+"l_nfans_picture_fail"="فشل في تحميل الصورة";
+//sxm-1-8
+"s_mileage_check"="تخزين عدد الأميال في الكلاودسيرفر أطول من تخزينه على حامل الأميال هذا، هل أنت متأكد من تزامن عدد الأميال؟";
+"s_no_permissions"="لم توافق على تصريح ما بعد البيع، لذا هذه العملية لن تكتمل";
+"s_sysmile_fail"=" يمكن تزامنها!";
+"s_sysfail"="فشل في تزامن عدد الأميال، يرجى إعادة المحاولة مرة أخرى!";
+
+//ln-1-7
+"l_nfans_copy"="نسخ";
+"t_not_login"="لم تسجل بعد، برجاء قم بالتسجيل أولا.";
+"l_user_herderImgView_success"="تم تحديث صورة الرئيس بنجاح!";
+"l_user_headerImgView_fail"="فشل في تحديث صورة الرئيس";
+//sxm-1-4
+"s_sysnmileage"="عدد أميال متزامن";
+"s_sysSuccess"="تزامن ناجح!";
+"s_tip"="إنذار بتحقق اوتوماتيكي";
+"s_snError"="فشل في رقم تسلسل تحكم الحامل، يرجى التواصل مع خدمة ما بعد البيع.";
+//ln-12-30
+"l_nfans_stick_success"="تمت التعديلات بنجاح";
+"l_nfans_stick_fail"="فشل التعديلات";
+"l_nfans_manger"="المشرف";
+//sxm-12-28
+"s_ninebotInstruction"="تعليمات مصغرة";
+//ln-12-28
+"l_map_friend_preBtn"="السابق";
+"l_map_friend_nextBtn"="الآتي";
+"l_map_getUp_Success"="تم تحميل إشارة الموقع بنجاح";
+"l_map_getUp_fail"="فشل تحميل إشارة الموقع";
+"l_nfans_stick"="أعلى";
+"l_nfans_no_stick"="إلغاء المجموعة أعلى";
+
+//1225
+"l_map_friend_justnow"="للتو";
+"l_map_friend_minute"="من دقيقة مضت";
+"l_map_friend_hour"="من ساعة مضت";
+
+//1224
+"t_sixin_message"="رسالة خاصة";
+"t_sixin_emptyall"="هل أنت متأكد من مسح كل الرسائل؟";
+//1222
+"l_map_no_result"="لم يوجد أية دراجين على بعد 50 كم.";
+"l_map_clear_mylocation"="تم مسح موقعي بنجاح";
+"l_map_friend_fail"="فشل في إيجاد سيارة قريبة، برجاء إعادة المحاولة مرة أخرى!";
+
+//1214
+"t_push_notification"="إخطار دفع";
+"find_map_friends"="راكب قريب";
+"find_nine_club"="المجموعة";
+"find_friend_tip"="لاستخدام ميزة سيارة قريبة يتطلب تحميل تحديد موقعك، إذا تم التأكيد سيتم تحميله اوتوماتيكيا ويكون مرئي للجميع. ويمكنك مسحه أيضا بالتأكيد. تحميل الموقع؟";
+"find_friend_quit"="مسح معلومات الموقع و الخروج";
+
+//sxm-1215
+"NB_connect_Exception"="طلب استثنائي للشبكة";
+"error_code_driver"="السائق";
+"s_error_52"="خطأ في فولت البطارية، برجاء الاتصال بخدمة ما بعد البيع";
+//1209
+"s_restore_factory"="إعادة الضبط";
+"s_restore_factory_tip"="هل أنت متأكد من إعادة الضبط لما كان عليه سابقا?";
+//1207 请为Ninebot开放相机权限：手机设置->隐私->相机->Ninebot（打开）
+"s_open_camera"="السماح للناينبوت بفتح الكاميرا، اعدادات-خاصة-كاميرا-ناينبوت";
+"s_softAndHard"="الضبط الخفيف اوتوماتيكيا";
+"m_sorfthard_tip"="إذا اهتز العجل خلال الركوب برجاء محاولة الضبط بنعومة.";
+"s_sorfthard_value"="نعومة";
+"s_blance"="التوازن في ضبط الوضع المساعد";
+"s_blance_point"="التوازن في النموذج المساعد";
+"s_blance_intr"="إذا كان العجل على وضع المساعد ويعمل اوتوماتيكيا، إذن عليك حل مشكلة ضبط قيمة الرصيد";
+
+
+"n_fans_manage"="تول";
+"n_fans_essence"="على النحو الموصي به";
+"n_fans_noessence"="إلغاء التوصية";
+"n_fans_essence_success"="ضبط التوصية بنجاح";
+"n_fans_essence_fail"="فشل في ضبط التوصية";
+"n_fans_noessence_success"="إلغاء التوصية بنجاح";
+"n_fans_noessence_fail"="فشل في إلغاء التوصية";
+"n_fans_dynamic_delete"="该条动态不存在或已删除";/////////////
+
+//1204
+"s_allow_shutdown"="إذ ا أغلق يتم إيقاف التشغيل";
+"s_no_alarm"="لا يوجد تنبيه إذا أغلق";
+"s_please_upfirm"="برجاء تحديث البرامج الثابتة أولا";
+//1203
+"n_personal"="الملف الشخصي";
+//1120
+"n_message_comment_clear"="هل انت متأكد من مسح قائمة التعليقات؟";
+"n_message_praise_clear"="هل أنت متأكد من مسج كافة قوائم الإعجاب؟";
+"n_userInfor_fail"="فشل في الحصول على معلومات المستخدم";
+
+//1126
+"s_black_upload_success"="تحديث البيانات بنجاح، مهندس مابعد البيع سيعالج هذا في وقت قصير";
+"s_blackbox"="قراءة بيانات الصندوق الأسود";
+"s_quest"="تفاصيل المشكلة، أدخل تفاصيل المشكلة لي أقل من 500 رقم";
+"s_blackbox_lock"="تحتاج إلى غلق العجل قبل قراءة بيانات الصندوق الأسود، اغلاق العجل؟";
+"s_blackbox_unlock"="الإنتهاء من قراءة بيانات الصندوق الأسود، فتح العجل؟?";
+"s_blackBox_item"="من، الوقت، الكود الأسود، إضافة معلومات";
+"error_code_control"="المراقب";
+"error_code_ahrs"="AHRS";
+"error_code_tip"="أدخل تفاصيل المشكلة";
+"error_code_file"="البيانات";
+"s_fail_profile_upload"="فشل تحديث الملف";
+"s_blackbox_fail"="فشل في الحصول على الصندوق الأسود، برجاء المحاولة مرة أخرى";
+"s_q_error"="أوصف المشكلة في أقل من 500كلمة";
+"s_firm_instro"="تفاصيل الاصدارات من البرامج الثابتة";
+"s_read_outtime"="نفاذ وقت القراءة";
+"s_b1"="لا يوجد خطأ!";
+"s_b2"="مد العنوان فوق الحد";
+"s_b3"="العجل لا يغلق";
+
+//1117
+"s_qq_copy"="هل نسخت رقم المجموعة وفتحQQ?";
+"s_qq"="QQ مجموعة";
+"s_q_a"="اجابة التعليمات";
+"s_app_intro"="هاتفك لم يثبت هذا التطبيق لذلك لا يمكن تسجيل الدخول.";
+//1113
+"s_loginTitle"="تسجيل الدخول من حساب آخر";
+
+"n_fans_clear_fail"="نفاذ وقت الاتصال، فشل في مسح الرسائل";
+"n_fans_praise_fail"="نفاذ وقت الاتصال، فشل في مسح الإعجابات";
+"n_fans_delete_fail"="نفاذ وقت الاتصال، قد يحدث فشل في الرسائل";
+"n_fans_send_fail"="نفاذ وقت الاتصال، قد يحدث فشل في التعليقات";
+"n_fans_comment_success"="تم التعليق بنجاح";
+"n_fans_comment_fail"="فشل التعليق";
+
+//1110
+"s_conn_tip"="The vehicle connection password has not been set. Please set a password to avoid other users from accessing your vehicle.";
+
+//1105
+"s_no_changeSN"="رقم التسلسل الحالي مختلف عن رقم التسلسل الأصلي لذا لا يمكن مراجعته";
+"lPutEmailNum"="أدخل الإيميل";
+//Mini Error
+"s_error_5"="خطأ 12فولت، برجى التحقق من لوح التحكم";
+"s_error_6"="خطأ 5فولت، يرجى التحقق من لوحة التحكم";
+"s_error_7"="خطأ 3.3فولت، برجى التحقق من لوحة التحكم";
+"s_error_9_28_29"="خطأ في زر البداية في وحدة المعالجة المركزية، برجى التحقق من لوحة التحكم";
+"s_error_11_13"="خطأ في جهاز الاستشعار في الموتور الأيسر، يرجى التحقق من لوحة التحكم";
+"s_error_14_16"="خطأ في جهاز الاستشعار في الموتور الأيمن، يرجى التحقق من لوحة التحكم";
+"s_error_17"="بطارية البرامج الثابتة غير متاحة الآن، يرجى تحديث بطارية البرامج الثابتة";
+"s_error_18"="خطأ في جهاز استشعار عند القدم اليسرى، برجاء التحقق من جهاز الاستشعار أو كابل دواسة القدم";
+"s_error_19"="خطأ في جهاز استشعار عند القدم اليمنى، برجاء التحقق من جهاز الاستشعار أو كابل دواسة القدم";
+"s_error_21"="خطأ في جهاز استشعار التحكم في تحويل الفتيس، يرجى التحقق من جهاز الاستشعار أو كابل التوصيل";
+"s_error_22"="خطأ في جهاز استشعار الخطر";
+"s_error_23"="خطأ في بطارية الاتصال، برجاء التحقق من بطارية الاتصال";
+"s_error_24"="خطأ في كلمة المرور للبطارية، برجاء تغيير البطارية الصحيحة";
+"s_error_26"="خطأ في قيادة الفولت، برجاء التحقق من لوحة التحكم وفولت البطارية";
+"s_error_27"="لا يمكن إيقاف التشغيل";
+"s_error_31"="خطأ في محرك السيارة الايسر، برجاء التحقق من لوحة التحكم";
+"s_error_32"="خطأ في محرك السيارة الأيمن، برجاء التحقق من لوحة التحكم";
+"s_error_33"="زاوية الحماية";
+"s_error_34"="خطأ في تنزيل البرامج الثابتة، برجاء تحسين البرامج الثابتة";
+"s_error_35"="خطأ في جيروسكوب، برجاء التحقق من لوحة التحكم";
+"s_error_36_38"="خطأ في جهاز الاستشعار في الموتور الأيسر، برجاء التحقق من كابل الموتور أو تغيير الموتور";
+"s_error_39_41"="خطأ في جهاز الاستشعار في الموتور الأيمن، برجاء التحقق من كابل الموتور أو تغيير الموتور";
+"s_error_51"="خطأ في درجة حرارة البطارية، برجاء التأكد من أن تكون درجتها بين-10℃~50℃.";
+
+"n_nfans_uploading"="تحميل";
+//1108
+"n_detail_limited"="لا يمكن الرد على نفسك";
+"n_message_clear_succeed"="تم المسح بنجاح";
+//1107
+"n_upload_images_most"="اختر 9صور على الأكثر";
+"n_message_front"="لديك";
+"n_message_behine"="رسائل غير مقروءة";
+//1105
+"n_fans_upload_sussece"="تم النشر بنجاح";
+
+//1102
+"n_fans_check_all"="تحقق من الكل";
+//"n_message_delall"="您确定要清空消息记录吗？消息清空后，不可恢复。";
+
+//1101
+"n_fans_praise_sussece"="تم الإعجاب بنجاح";
+"n_fans_delete_success"="تم مسح اتجاهاتك بنجاح";
+//1104
+"s_userName_no"="اسم المستخدم بدون مسافات";
+"s_pwd_fail"="أدخل من 6-20 كلمة مرور، لا تحتوي على رموز صينية";
+"s_userName_len"="طول اسم المستخدم لا يزيد عن 20";
+//1102
+"s_pwd_reset_success"="تمت إعادة التشغيل بنجاح";
+"s_code_fail"="فشل في الطلب، يرجى المحاولة مرة أخرى";
+"s_email_and_iphone"="رقم التليفون وأنت";
+"s_registerFail"="فشل التسجيل";
+"s_chenge_fail"="فشل المراجعة";
+"s_new_pwd"="كلمة مرور جديدة";
+"s_regist_pwd"="إعادة تعيين كلمة مرور";
+"s_code_find"="تم ارسال رمز التحقق إلى";
+"s_phone_find"="تحقق من هاتفك";
+"s_email_find"="رجاء تحقق من صندوق البريد";
+"s_user_notFound"="اسم مستخدم غير موجود";
+"s_find_pwd"="نسيت كلمة المرور";
+"s_success_state"="نجح";
+"s_email_code"="التحقق أرسل إلى صندق البريد";
+"s_email_code_fail"="فشل البريد الإليكتروني في الحصول على رمز التحقق";
+
+//1026
+
+"n_message_title"="رسائلي";
+"s_search_state"="لا يوجد أي أجهزة، تحقق من أن رمز البلوتوث في السيارة على الفلاش";
+"s_setVehicle_password"="أعد تعيين كلمة مرور السيارة";
+"s_writeBlepwdFail"="فشل كتابة كلمة المرور";
+"s_inputSixPwd"="من فضلك أدخل 6رموز لكلمة المرور";
+"s_blecodFail"="فشل الإتصال بكلمة المرور";
+"s_keyboard_hid"="اخف";
+"s_keyboard_del"="امسح";
+"s_jiaShiZhiNan"="ارشادات القيادة";
+"s_newJiaoXue"="البرنامج التعليمي";
+"s_jiaoxue"="البرنامج التعليمي";
+"connect_Code"="كلمة المرور متصلة";
+
+//1021
+"s_BMSFirmwareVersion"="BMS اصدار البرامج الثابتة";
+"s_Tel"="咨询电话";////////////
+"s_bmsIntro"="السعة الكلية لشحن البطارية لتبلغ سعة تصميم البطارية سجلت كدائرة رقمية شحن البطارية يستمر أكثر من دقيقة يسجل أوقات الشحن";
+"lamp_power_switch"="تم تشغيل طاقة المصباح";
+//1019
+"s_up_"="مصعد";
+"s_down_"="ضعه باأسفل برفق";
+"s_isNewhand_out"="التأكد من الخروج من البرامج التعليمية";
+"s_rid"="من أجل قيادة آمنة يرجى قراءة إرشادات السائق";
+"j_tip_newPople_success"="شكرا لقراءتك لتعليمات القيادة الآمنة وعليك قراءة الاستخدام اليدوي واتباع برنامج التعليمي للسائق الجديد لهذا التطبيق قبل القيادة لأول مرة";
+"s_idcard_number"="نحتاج بطاقة الهوية للمستخدم لاستكمال معلومات التأمين";
+"s_agreen"="أوافق";
+//1018
+"s_stateblance"="كن مستعدا";
+"s_turnLeft"="يسار";
+"s_turnRight"="يمين";
+
+//1016
+"settings_sensor_tips_no_activate"="لم يتم تفعيل السيارة، يمكن استكمال ضبط الحساسية بعد اكتمال التفعيل. هل تريد تفعيل السيارة؟";
+"settings_sensor_tips_no_teached"="لم يتم الإنتهاء من تعليم المبتدئين. يمكت اكتمال ضبط الحساسية بعد استكمال تعليم المبتدئين. هل تريد استكمال تعليم المبتدئين؟";
+"settings_sensor_tips_no_grade_white"="من أجل الإعتبارات الأمنية. لايمكن للسيارة ضبط الحساسية خلال مسافة 1كم، لذا يرجى ضبط الحساسية بعد القيادة أكثر من 1كم";
+"s_capacity"="سعة البطارية المتبقية";
+"s_fwdownloading"="تنزيل البرامج الثابتة";
+"s_putdownfirst"="ضع السيارة بالأسفل أولا";
+//1015
+"w_mineFun"="خاص بي";
+"w_goodFun"="المشاركات الأعلى";
+"s_speed_tip"="تظهر حد السرعة عندما تكةن حد السرعة مفتوح";
+"s_speed_behind"="Vehicle will gradually pull ridder back avoiding further acceleration as current speed approaches the pre-set max speed.";
+"m_sen_tip"="إذا بدأت السيارة في الحركة عند التشغيل فعليك محاولة حل هذه المشكلة عن طريق معايرة موقف جهاز الاستشعار";
+"n_message_commment"="التعليق";
+"n_message_praise" = "Liked";
+//1016
+"s_filedown_fail"="فشل التحميل، يرجى المحاولة مرة أخرى";
+//1015
+"s_normarl" = "Normal";
+"s_anomaly" = "Abnormal";
+//1014
+"s_isConnecting"="تم الإتصال بالجهاز";
+//1013
+"r_verification_success"="تم إرسال رمز التحقيق بنجاح";
+
+//1009
+"s_highSpeedModel"="سرعة عالية";
+"s_map_serviece"="خدمة الخريطة";
+
+//1008
+"s_mode_1"="التنفس أحادي اللون";
+"s_mode_2"="نفحة كاملة الألوان";
+"s_mode_3"="تنينان يلعبان بالكرة";
+"s_mode_4"="ناقلات باﻷوان الكاملة";
+"s_mode_5"="نيزك مفرد اللون";
+"s_mode_6"="نيزك ملون";
+"s_mode_7"="تنبيه مصباح1";
+"s_mode_8"="تنبيه مصباح2";
+"s_mode_9"="تنبيه مصباح3";
+"s_forward_LED"="غلق المصباح الأمامي";
+"s_check_updateF"="برنامج ثابت جديد تم اكتشافه، قم بتحميا الاصدار الأخير";
+
+//0930
+"s_canshu"="العامل المتغير خطأ";
+"s_idcardfail"="رقم الهوية خاطئ";
+"s_actFail"="فشل التواصل مع الدراجة البخارية الصغيرة";
+"lRegisterFail03"="عفوا، اسم المستخدم أقل من 3رموز، يرجى إدخال اسم مستخدم أكبر";
+"lRegisterFail04"="عفوا، اسم المستخدم أكثر من 20رمز يرجى إدخال اسم مستخدم أقصر";
+"lRegisterFail05"="تم تسجيل اسم المستخدم";
+"lRegisterFail06"="اسم المستخدم هذا موجود مسبقا، برجاء تسجيل الدخول وتفعيله";
+"lRegisterFail07"="密码太短了";
+"lRegisterFail09"="抱歉，密码空或包含非法字符";////////////
+"lRegisterFail13"="抱歉，IP地址在24小时内只能注册3次";//////////
+"lRegisterFail16"="用户名包含被系统屏蔽的字符";///////////
+"lRegisterFail19"="该用户名已被注册";//////////
+"lRegisterFail22"="抱歉，用户ID已被占用";///////////
+"lOperationAgain"="请重新操作!";//////////
+
+//0929
+"s_sensorTip"="标定传感器需要锁车，是否继续?";/////////////
+//0928
+"s_upCar"="请上车";///////
+"s_downCar"="请下车";///////
+"w_jiHuozhuyi"="保险信息需要提供用户身份证，请确保您的姓名、电话与身份证号信息无误，保险信息一旦提交，将不可修改和补录!";///////
+//0926
+"s_activeSuccess"="您已激活并完成新手教学，车辆在前1km处于限速模式，骑满1km后自动解除！";////////
+
+//0923
+"s_teach"="您好，您的新手教学未完成，为了您和他人的安全，请完成新手教学。";/////////
+"w_zhinan_step1"="اركب بحرص";
+"w_zhinan_step2"="دور";
+"w_zhinan_step3"="前进十米并停止";///////
+"w_zhinan_step4"="تحتاج إلى غلق السيارة لمعايرة موقف جهاز الاستشعار، غلق السيارة؟";
+"w_zhinan_step5"="正确拎起和放下";////////
+"w_balance"="اركب";
+"s_medal"="من فضلك ترجل";
+"w_weizhangren"="ملحوظ، املأ رقم الهاتف أو/و عنوان بريدي";
+"s_standOn"="已站人";///////
+//0920
+"j_idcard" = "ID number";//////
+"j_phone"  = "Phone";//////
+"j_mail"   = "Email address";//////
+"j_next"   = "Next step";///////
+"j_guid"   = "Guide for Safe Driving";///////
+"j_real_name"="الاسم";
+"j_btn_subimit"= "Submit";///////
+"j_reminder_title"="Prompts";////////
+
+"j_tip_name_nil"="真实姓名不能为空!";///////
+"j_tip_sex_worng"="性别不能为空!";///////
+"j_tip_idcard_worng"="身份证号不能为空!";/////
+"j_tip_mail_worng"="邮箱不正确!";//////
+"j_tip_name_worng"="姓名不能为空!";/////
+"j_tip_contine"="继续激活";/////
+"j_tip_complete"="恭喜您，新手教学已完成";/////
+
+//0919
+"s_singelTime"="وقت القيادة الحالي. ";
+
+//0917
+"InputOrNumber"="برجاء إدخال حروف أو أرقام. ";
+"update_tip_updating_bms_success"="تم تعديل نظام السيارة بنجاح. وعليه سوف تتوقف السيارة وعليك تشغيلها يدويًا.";
+"yGuanwang"="زيارة الموقع الرسمي.";
+"OFF"="إيقاف؛";
+
+//0912
+"update_tip_updating_ctrl"="البدء بتحديث نظام التحكم!";
+"update_tip_updating_driv"="البدء بتحديث برامج تشغيل النظام";
+"update_tip_updating_ahrs"="الخاص بالنظام!AHRS البدء بتحديث ";
+"update_tip_updating_dash"="! البدء بتحديث البرامج الثابتة للوحة التحكم";
+"update_tip_updating_ble"="!BLE  البدء بتحديث البرامج الثابتة لـ";
+"update_tip_updating_bms"="!BMS البدء بتحديث البرامج الثابتة لـ";
+"s_updateSuccess"="تحديث البرامج الثابتة تم بنجاح!";
+"s_is_up2"=" الكشف عن نسخة جديدة من البرامج الثابتة, لتتم الترقية أو لا؟ ";
+//0909
+"s_progress"="تم";
+//0901
+"ShareType" = "مشاركة";
+"ShareType_1" = "ساينا ويبو";
+"ShareType_2" = "تينسينت ويبو";
+"ShareType_5" = "دوبان";
+"ShareType_6" = "كيوزون";
+"ShareType_7" = "رينرين";
+"ShareType_8" = "كايكسن";
+"ShareType_9" = "بينغيو";
+"ShareType_10" = "فيسبوك";
+"ShareType_11" = "تويتر";
+"ShareType_12" = "إيفرنوت";
+"ShareType_13" = "فورسكوير";
+"ShareType_14" = "غوغل+";
+"ShareType_15" = "انستاغرام";
+"ShareType_16" = "لينكدإن";
+"ShareType_17" = "تامبلر";
+"ShareType_18" = "بريد";
+"ShareType_19" = "رسالة نصية";
+"ShareType_20" = "طباعة";
+"ShareType_21" = "نسخ";
+"ShareType_22" = "قائمة اتصال ويتشات";
+"ShareType_23" = "لحظات ويتشات";
+"ShareType_24" = "كيو كيو";
+"ShareType_25" = "انستابيبر";
+"ShareType_26" = "جيب";
+"ShareType_27" = "ملاحظات يوداو";
+"ShareType_28" = "سوهو كان";
+"ShareType_30" = "بي انتريست";
+"ShareType_34" = "فليكر";
+"ShareType_35" = "دروب بوكس";
+"ShareType_36" = "فيكونتاكت";
+"ShareType_37" = "مفضلة ويتشات";
+"ShareType_38" = "قائمة اتصال يكسين";
+"ShareType_39" = "لحظات يكسين";
+"ShareType_41" = "مينغداو";
+"ShareType_42" = "لاين";
+"ShareType_43" = "واتساب";
+"ShareType_44" = "كاكاوتوك";
+"ShareType_45" = "كاكاوستوري";
+
+"lPHoneANdMailNill"="لا يمكن ترك رقم الهاتف وصندوق البريد فارغين";
+// 08-24
+"certification_release"="حرر";
+"certification_verification"="رمز التفعيل:";
+"certification_verify_tip"="أرسل إليك رمز التفعيل اتصالاً هاتفياً أو بريداً الكترونياً, الرجاء التفقد. ";
+"certification_release_submit"="حرر";
+"certification_invalid_sn"="الرقم التسلسلي فارغ";
+"certification_prompt_release_success"="تم التحرير بنجاح!";
+"certification_error_release_failed"="فشل التحرير!";
+"certification_params_valid"=" املأ بشكل صحيح واحداً من أرقام الهاتف الجوال والبريد الالكتروني ";
+"list_single_mileage"="مسافة أحادية";
+
+// 0817
+"setting_other_sn_warnning_donot_get"="لم تحصل على الرقم التسلسلي!";
+"s_togq"="معلومات تسجيل الدخول منتهية الصلاحية, عليك إعادة الدخول ثانية";
+"s_zg"="أعجبك!";
+"s_Succcess"="تمت المشاركة بنجاح!";
+"s_Fail"="فشلت المشاركة!";
+"s_haslogin"=" معلومات تسجيل الدخول منتهية الصلاحية, عليك إعادة الدخول ثانية";
+"activate_successful_warn"=" حضرات العملاء المبجلين، من أجل ضمان سلامتكم، فإن المركبة ستكون في وضع السرعة المحددة بشكل افتراضي بعد التفعيل وهي حوالي 7 كم / ساعة، بعد مسافة 1 كم من الركوب سوف تدخل تلقائياً في الوضع العادي. إذا كنت تستخدم منتجات المركبة المتوازنة لأول مرة، ننصح بأن تبقي على وضع حد السرعة المحدد في الكيلو متر الأول. إذا كنت مستخدماً محترفاً، يمكنك تعديل وضع الحد الأقصى للسرعة يدوياً من خلال زر المربع المنسدل على الصفحة الرئيسية.";
+"lModifyUserName"="حدد اسم المستخدم في ناينبوت";
+"s_modifyPwd"="شاهد كلمة سر تسجيل الدخول في ناينبوت";
+"lComplete"="حساب ناينبوت رائع";
+"activate_guide_warn"=" المركبة غير مفعلة, الرجاء تفعيل المركبة بحسب ما في صفحة الدليل, وإلا ستكون المركبة في وضعية السرعة المحددة الآمنة";
+"accout_skip"="تجاوز";
+//0813
+"s_electricity"="معلومات البطارية";
+"s_percentage"="النسبة المتبقية";
+"s_capacity"="الطاقة المتبقية";
+"s_batterystatus"="حالة البطارية";
+"s_voltage"="الجهد الكهربائي";
+"s_current"="الحالي";
+"s_power"="الطاقة";
+"s_b1t"="حرارة البطارية";
+"s_cri"="فترة ركوب الدراجة";
+"s_btimes"="فترات الشحن";
+"s_pro"="تصنيع";
+"s_protime"="تاريخ الإنتاج";
+"s_actime"="تاريخ التفعيل";
+"s_bnumber"="الرقم التسلسلي للبطارية";
+"s_cap"="طاقة التصميم";
+"s_b_voltage"="الجهد الكهربي لخلية البطارية";
+"info_device_battery_mini_status_1" = "ممتاز";
+"info_device_battery_mini_status_2"="جيد";
+"info_device_battery_mini_status_3"="وسط";
+"info_device_battery_mini_status_4"="سيء";
+"info_device_battery_mini_cell"="خلية البطارية";
+// 08-13
+"lSetUserNameTip"=" الرجاء إتمام اسم المستخدم وإعداد كلمة المرور. بعد الانتهاء من هذه الإعدادات يمكن لهذا المستخدم ولكلمة المرور هذه الدخول إلى التطبيق. ملاحظة: يمكن تنقيح اسم المستخدم لمرة واحدة فقط ويتم إرسال تحذير إلى بريدك الالكتروني كونها سوف تستخدم للعثور على كلمة المرور.";
+// 08-12
+"s_ridfeel"="إعدادات الشعور أثناء القيادة";
+"lVerAlready"="تم مسبقاً التحقق من الرقم التسلسلي!";
+"lVerNumFalse"="رقم تسلسلي خاطئ";
+"lVerFail"="فشل التحقق, الرجاء المحاولة ثانية!";
+
+
+//20150811
+"s_connBLE"="البلوتوث غير متصل, الاتصال ثانية؟";
+"lBugFeedFail"="لا يمكن للتغذية الإرجاعية أو اللقطات أن تكون فارغة في نفس الوقت.";
+"lFeedbackSortFail"="فشل في طلب قائمة التصنيف, الرجاء المحاولة لاحقاً";
+
+"s_innerVerson"="Vاختبار ألفا ";
+"lBugFeedback"="ردود فعل حول سؤال";
+"lBugDescrption"="وصف";
+"lBugPicture"="صور";
+"lBugKindSelect"="نوعية السؤال";
+"lBugKind"="نوع";
+"lFeedbackFinish"=" تم تسجيل سؤالك في ردود الفعل. شكراً لمشاركتك وسوف نعالج المسالة بالسرعة الممكنة!";
+//2015 8.3
+"nb_RidSetting"="إعدادات القيادة";
+"lActiveMachinFirst" = "لا يمكن استخدام هذه الوظيفة ما لم يتم التصديق على المركبة من قبلك";
+"lSaveImg"= "حفظ في البوم الصور";
+"yAlertTime"="الرجاء اختيار وقت الشراء";
+"s_totalrun"="إجمالي المسافة";
+"s_warning"=" الكشف عن نسخة جديدة من البرامج الثابتة, لتتم الترقية أو لا؟ ";
+//2015 8.1
+"yNewyet"="النسخة الحالية هي الأحدث!";
+"yOldyet"=" تتوفر نسخة جديدة, لتتم الترقية أو لا؟ ";
+"yGodown"="تحديث";
+//20150730
+"lUserNameNoNill"="لا يجب أن يكون اسم المستخدم فارغاً!";
+"lUserPwdNoNill"="كلمة المرور لا يجب أن تكون فارغة!";
+"lLogin"="تسجيل الدخول";
+"lMobileLogin"="رقم الهاتف الجوال للتسجيل/ الدخول";
+"lXiaoMiLogin"="MIUIالدخول بحساب ";
+"lLoding"="تسجيل الدخول ...";
+"lUserStateLogin"="المستخدم سجل دخوله مسبقاً";
+"lUserNoActive"="حسابك غير مفعل, الرجاء تفعيله أولاً";
+"lUserLoginAgain"=" فشل تسجيل الدخول, الرجاء المحاولة ثانية!";
+"lUserPwdFail"="كلمة المرور خاطئة’ الرجاء المحاولة ثانية!";
+"lPutUserName"="ادخل العنوان البريدي/ اسم المستخدم";
+"lPutPwd"="ادخل كلمة مرور الحساب";
+"lUserRegister"="التسجيل";
+"lPutPhoneNum"="أدخل رقم هاتفك";
+"lPutCountPwd"="أدخل كلمة مرور حسابك";
+"lGetAuthCode"="احصل على رمز التحقق";
+"lAuthCode"="تفعيل";
+"lPostCode"="سيتم إرسال رسالة نصية لتفعيل حسابك, والرسوم على نفقة المشغل";
+"lPutRightPhoneCode"="الرجاء إدخال رقم هاتف صحيح";
+"lGetAuthCodeFail"="فشل الحصول على رمز التفعيل, الرجاء إرساله ثانية";
+"lGetAuthCodelimit"="لا يمكن الحصول على أكثر من خمسة رموز تفعيل كل يوم";
+"lAuthCodeNoNill"="يجب أن لا يكون رمز التفعيل فارغاً!";
+"lAuthCodeFail"="رمز التفعيل خاطئ!";
+"lPostLater"="إعادة الإرسال";
+"lAuthFail"="فشل التفعيل ";
+"lSaveAction"="حفظ";
+"lNoNilNick"=" يجب أن لا يكون حقل الكنية فارغاً";
+"lNoNilSign"="يجب أن لا يكون حقل التوقيع فارغاً";
+"lDoneAction"="انتهاء";
+"lNickName"="اسم المستخدم:";
+"lOldPwd"="أصلي";
+"lNewPwd"="كلمة المرور:";
+"lNewPwd2"="التأكيد:";
+"lEmailAdd"="البريد:";
+"lNoEqulPwd"="كلمات المرور غير منسجمة لمرتين! ";
+"lOldPwdNil"="يجب أن لا تكون كلمة المرور الأصلية فارغة!";
+"lModifyDone"="نجح التعديل!";
+"lPwdLessSix"="كلمة المرور التي تقل عن 6 خانات غير مسموحة!";
+"lNoRightUserName"="’_’يجب أن لا يحتوي اسم المستخدم على  ";
+"lNoNilEmail"="يجب أن لا يكون حقل البريد فارغاً!";
+"lFinishZiLiao"="النجاح في استكمال البيانات!";
+"lUersNameExit"="اسم المستخدم مسجل, الرجاء استخدام أسماء أخرى!";
+"lEmailExit"="تم تسجيل صندوق البريد!";
+"lHeaderimg"="صورة رأس";
+"lUsername"="اسم";
+"lGender"="جنس";
+"lBithDay"="تاريخ الولادة";
+"lSig"="التوقيع";
+"lOwerAuth"="مصادقة المالك";
+"lModifyPwd"="تعديل كلمة المرور";
+"lUserSetting"="إعدادات فردية";
+"lLogout"="تسجيل الخروج";
+"lSetSig"="إعداد التوقيع";
+"lFinishUserInfo"="استكمال البيانات";
+"lMan"="ذكر";
+"lWoman"="أنثى";
+"lLogoutSure"="هل انت متأكد من رغبتك في الخروج من الحساب الحالي؟";
+"lCancle"="إلغاء";
+"lSure"="أكيد";
+"lMachinVer"="مصادقة المالك";
+"lLinkMachinFirst"="الرجاء توصيل السيارة أولاً!";
+"lvertify"="مصادقة";
+"lAuthed"="لقد صادقت على سيارة التوازن ناينبوت";
+"lAuth_"="تمت المصادقة عليك";
+"l_machins"="سيارة التوازن ناينبوت:";
+"lmachinNum"="ناينبوت رقم:";
+"lLinkFirst"="قم بتوصيل السيارة أولاً";
+"lPhoneNum"="هاتف:";
+"lReply"="رد";
+
+
+
+"s_searchDevice"="البحث عن أجهزة";
+"s_reSearch"="البحث ثانية";
+"s_searching"="البحث في الجهاز";
+"s_nofound"="تجهيز غير موجود";
+"s_pconn"="الرجاء توصيل الجهاز ";
+"s_services"="الخدمة";
+"s_find"="يجد";
+"s_nplace"="Nدوران مروحة";
+"s_M_rank"="قائمة الترتيب";
+"s_my"="لي";
+"s_sin"="مسجل الدخول مسبقاً";
+"s_mil_km"="إعدادات وحدة";
+"s_device_setting"="إعدادات الجهاز";
+"s_deviceInfo"="معلومات الجهاز";
+"s_setting"="إعدادات السوفتوير";
+"s_more"="أكثر";
+"s_outtimer"="طلب الموقع تجاوز حد الوقت";
+"s_active"="يفعل";
+"s_goon"="بالإمكان المتابعة إلى القيادة";
+"s_all_run"="تمت القيادة";
+"s_singlerun"="سرعة قصوى وحيدة";
+"s_avgspeed"="متوسط سرعة القيادة";
+"s_limte_speed"="وضعية السرعة المحددة";
+"s_canrun"="يمكن لها التوقف/ القيادة";
+"s_n"="الشمال";
+"s_dn"="الشمال الشرقي";
+"s_d"="الشرق";
+"s_ds"="الجنوب الشرقي";
+"s_s"="الجنوب";
+"s_xs"="الجنوب الغربي";
+"s_x"="الغرب";
+"s_sn"="الشمال الغربي";
+"s_updateing"="تتم ترقية البرامج الثابتة, الرجاء الانتظار..";
+"s_is_up"=" الكشف عن نسخة جديدة من البرامج الثابتة, هل تود الترقية؟ /ملاحظة: سوف يتم إقفال المركبة أوتوماتيكياً قبل الترقية! ";
+"s_speed"="السرعة";
+"s_power_"="الطاقة المتبقية";
+"s_mil"="عدد الكيلومترات المتبقية";
+"s_tmp"="درجة الحرارة المركزية";
+"s_update_ok"="عرض";
+"s_j1"="فشل التفعيل";
+"s_j2"="نجح التفعيل";
+"s_j3"="تم تفعيلها!";
+"s_j4"="يجب أن يكون البند المطلوب فارغاً";
+"s_j5"="شكل رقم الهاتف غير صحيح!";
+"s_j6"="شكل صندوق البريد غير صحيح!";
+"s_i_a"="الهاتف / البريد";
+"s_pcheck"="الرجاء التأكد فيما لو كان رقم الهاتف او صندوق البريد صحيحاً ";
+"s_safe_vdio"="فيديو آمن";
+
+"s_infor"="تفاصيل";
+"s_send"="إرسال";
+"s_pl"="عرض";
+"s_z"="مديح";
+"s_no_content"="لا يجب أن يكون المحتوى فارغاً ";
+"s_delete"="هل أنت متأكد من مسح العرض؟";
+"s_loading"="تحميل";
+"s_loading_"="تحميل ...";
+"s_haveno"="لا بيانات إضافية";
+"s_newshare"="مشاركة جديدة";
+"s_over"="انتهاء";
+"s_publish"="تحرير";
+"s_chose"="اختر";
+
+
+"nb_carSpeed"="إعدادات السرعة";
+"nb_carLight"="إعدادات الإنارة";
+"nb_carSound"="الصوت والتنبيه";
+"nb_carSense"="إعدادات الحساس";
+"nb_carUpdate"="تحديث البرامج الثابتة";
+"nb_carOtherSeting"="إعدادات أخرى";
+
+//NBAboutVC
+"pleaseWait"="الرجاء الإنتظار";
+"nb_speedSetting"="إعدادات السرعة";
+//About
+"yNewIntr"="مقدمة عن وظائف جديدة";
+"Thanks"="شكر خاص";
+"yUpdate"="ترقية النسخة";
+"yGuanwang"="زيارة الموقع الرسمي";
+"yBanquan"=" جميع الحقوق محفوظة لصالح شركة ناينبوت (بيجينغ) للتقنيات المحدودة المسؤولية";
+"yNaen"="ناينبوت";
+"yIntroa"="1-واجهة جديدة وخبرة ملائمة أكثر للتطبيق";
+"yIntrob"="2- تسجيل دخول سريع, استمتع بمرح أكثر";
+"yIntroc"="3- اختبار ممتع للتحكم السلس بالمركبة";
+"yIntrod"="4- بدل المناظر كما يحلو لك";
+"yIntroe"="5- أضف المروحة للحصول على آخر الصيحات والمشاركة الحقيقية ";
+"yIntrof"="6- خدمات أكثر, طرق لحل مشكلات متنوعة";
+"yAttria"="لون أزرق غامق مع علوم حديثة وتكنولوجيا أكثر";
+"yAttrib"=" دعم تسجيل الدخول بحساب للمجتمع رقم 9, حساب ميوي , أو حساب هاتفي سريع الدخول";
+"yAttriC"=" بإمكانك تحويل خلفية التحكم إلى مشهد حقيقي";
+"yAttrid"=" وظائف مضافة حديثاً لصيانة المنتج, عداد كيلومترات وشبكة صيانة";
+"y_no"="استثناء مرات الشحن";
+"y_have"="احتساب مرات الشحن";
+//Introduction and guide view
+"yGo"="البدء باختبار تجربة";
+
+//NBServieceVC
+//@fault information;@maintenance network;@mileage calculater;@products repairs"
+"Nb_probInf"="معلومات الخطأ";
+"Nb_serviecePlace"="شبكة الصيانة";
+"Nb_calculator"="عداد الكيلومترات";
+"Nb_probCommit"="صيانات المنتج";
+"Nb_service"="الخدمة";
+//NBProbCommitVC.m Submit for maintenance
+"NB_name"="اسم";
+"NB_address"="عنوان الاتصال";
+"NB_mobile"="الهاتف";
+"NB_cellPhone"="هاتف";
+"NB_byTime"="وقت الفاتورة";
+"NB_byWay"="قنوات الشراء";
+"NB_sn"="الرقم التسلسلي";
+"NB_errorCode"="رمز الخطأ";
+"NB_probText"="وصف الخطأ";
+"NB_commitAlert"=" السيد مستخدم ناينبوت الكريم, تلقينا مشاكلك بنجاح، وسوف يتصل بك موظفونا المختصون بما بعد البيع بأقرب وقت ممكن. يرجى التفضل بالانتظار بصبر.";
+"NB_connectFail"="فشل طلب الموقع";
+"yCommit"="عرض";
+"yYear"="سنة";
+
+"yMonth"="شهر";
+"yDay"="يوم";
+//NBProbCommitCell
+"nb_placehold"="الرجاء إدخال المحتويات";
+//NBCalculatorCalculator
+"NB_modelNumber"="طراز";
+"NB_calcuVolume"="سعة البطارية";
+"NB_height"="الوزن";
+"NB_capture"=" درجة حرارة الهواء المحيط";
+"NB_driveStyle"="نمط القيادة ";
+"NB_battryUse"="مرات شحن البطارية";
+"nb_calculateFail"=" معلومات الآلة غير كاملة, الرجاء استكمال معلومات الآلة";
+"yPleawrite"="الرجاء التعبئة";
+"yCi"="Times";
+"yOutRange"="خارج النطاق, الرجاء الإدخال مرة اخرى";
+"yRane"="نطاق";
+"yStylesa"=" القيادة بسرعة ثابتة";
+"yStylesb"=" الطرق في المناطق الحضرية (تكرار زيادة التسارع والتباطؤ)";
+"yStylesc"="قيادة عرض بهلواني";
+"yCalculate"="مجموع المسافات";
+
+
+"CFBundleDisplayName"="ناينبوت";
+
+//20150320
+
+"Thanks"="إقرار";
+"pleaseWait"="الرجاء الانتظار ...";
+"nb_speedSetting"="إعدادات السرعة";
+
+
+
+//20150309
+"no_network"="دون اكتشاف أي موقع متوفر!";
+//20150304
+"nb_perInfo"="معلومات شخصية";
+
+//20150127
+"nb_l"="قاس";
+"nb_r"="طري";
+"NB_Rank_WEEK"="قائمة تصنيف لأسبوع";
+"NB_Rank_WEEK_"="قائمة التصنيف الأسبوعية";
+
+//20150112
+"one_breakled"="مفتاح ضوء الفرامل";
+
+
+//20141215
+"setting_addcode"="رمز إضافي:";
+
+"SetBluetoothName"="قم بإعداد اسم البلوتوث";
+"Input8Number"="الرجاء إدخال 8 أحرف";
+"BluetoothNameError"="الرجاء إدخال 8 أحرف أو أرقام";
+//20141211
+"LowTSPonefoot"="خفف سرعة القيادة باستخدام قدم واحدة";
+
+//20141128Update
+"nickname"="اسم العائلة:";
+"p_inputGender"="الرجاء إدخال الجنس";
+"p_inputRealName"="الرجاء إدخال اسم العائلة";
+"up_result"="فشل تعديل المعلومات الشخصية";
+"l_mode_0"="ضوء الأجواء القريب";
+"one_konck"="أنقر على مفتاح التبديل";
+
+"takePhoto"="أخذ الصور";
+"select_from"="اختر من البوم الصور";
+"Individuality signature"="التوقيع الفردي:";
+"nb_Sex"="الجنس:";
+"nb_city"="مدينة الإقامة:";
+"nb_nohave"="غير متوفر";
+"nb_enterWeb"="الدخول للموقع الرسمي";
+"p_inputName"="الرجاء إدخال التوقيع الفردي";
+
+"l_iName"="طول التوقيع الفردي محدود ";
+//log in
+"txtHello"="مرحبا";
+"txtPleaseLogin"="الرجاء تسجيل الدخول";
+
+"nb_login"="تسجيل الدخول";
+"nb_Regist"="التسجيل";
+"nb_ZX"="تسجيل الخروج";
+
+
+//Register
+"txtFieldBlank"="لا يجب أن يكون فارغاً";
+
+//bbs
+"OpenSafari"="جولات التنزه";
+//control
+"max_speed"="السرعة القصوى";
+
+//rank
+"NB_Rank"="قائمة الترتيب العام";
+"NO_Rank"="التصنيف غير متوفر";
+"NORank_conn"="التصنيف غير متوفر(الرجاء الاتصال بالمركبة)";
+"NO_CONN"="ليس هناك تجاوب لطلب الاتصال بالموقع";
+
+//register
+"user_name"="اسم المستخدم";
+"user_pwd"="كلمة المرور";
+"user_Tpwd"="تأكيد كلمة المرور";
+"user_email"="صندوق البريد";
+
+"nameLength"="طول اسم المستخدم هو من 3-15";
+"pwdLength"="طول كلمة المرور هو من 6-18";
+"pwdCheck"="كلمة المرور يجب أن تحوي أحرفاً وأرقاماً";
+"pwd_nopass"="كلمة المرور المؤكدة غير مطابقة";
+
+"user_no"="اسم المستخدم يحوي أحرفاً غير مسموح بها";
+"sorry_register"="عذراً, لا يمكنك تسجيل عنوان آي بي الخاص بك في غضون عدة ساعات";
+"user_nameRegister"="تم تسجيل اسم المستخدم!";
+"email_"="تم تسجيل البريد الالكتروني!";
+
+//login
+"user_login"="تسجيل الدخول";
+"user_nameorpwd"="اسم المستخدم أو كلمة المرور غير صحيحين!";
+//More
+"perCenter"="مركز محور الشخص";
+"Check_Update"="تفقد التحديث";
+"current_newVerson"="النسخة الحالية هي الاحدث!";
+
+
+
+//oneLight color
+"l_mode_1"="النيزك الملون";
+"l_mode_2"="صبي يلتقي فتاة";
+"l_mode_3"="عمر الزهور";
+"l_mode_4"="التنفس الحيوي";
+"l_mode_5"="تمضي السنين سريعاً";
+"l_mode_6"="النيزك الملون";
+"l_mode_7"="التنفس الزاهي";
+
+"ride_mode"="ركوب الدراجة الحسي";
+"atmosphere_mode"="وضعية إضاءة الأجواء";
+"r_1"=" Iاللون ";
+"r_2"=" IIاللون ";
+"r_3"=" IIIاللون ";
+"r_4"=" IVاللون ";
+
+//One cycling mode
+"O_NormalMode"="الوضع العادي";
+"O_SoftMode"="تصميم ناعم";
+"O_SportMode"="الوضع الرياضي";
+
+//Update information
+"AM"="صباحا";
+"PM"="مساء";
+"Last Updated"="التحديث الأخير:";
+"Release to refresh"="أطلقها للتحديث";
+"Pull down to refresh"="اسحبها للأسفل للتحديث";
+"Loading"="جاري التحميل ...";
+
+"NineBotUpdateSuccess"="تم تحديث البرامج الثابتة بنجاح, الرجاء إعادة توصيل الناينبوت.";
+"UpdateErrorCtrl"="فشل تحديث التحكم الرئيسي للبرامج الثابتة, الرجاء المحاولة ثانية!";
+"UpdateErrorAHRS"=" فشل تحديث البرامج الثابتة لـ , الرجاء المحاولة ثانية";
+"UpdateErrorDrive"="فشل تحديث البرامج الثابتة للقيادة, الرجاء إعادة المحاولة";
+"UpdateErrorOne"=" فشل تحديث البرامج الثابتة, الرجاء إعادة المحاولة";
+"Warning"="تحذير";
+"UpdateTitle"="تحديث البرامج الثابتة للسيارة";
+"NineBotVersion"="نسخة البرامج الثابتة الحالية للمركبة";
+"latestVersion"="أحدث نسخة من البرامج الثابتة للمركبة";
+"FirmwareUpdate"="تحديث البرامج الثابتة";
+"Lock"="قفل";
+"ErrorCodeChartHeader"="وصف رمز خاطئ";
+"46"="46 أو أعلى";
+"Input7Number"="الرجاء إدخال 7 أرقام";
+"Input6Number"=" الرجاء إدخال 6 أرقام ";
+//AlertView
+"NotConnectedTips"="عذراً, الناينبوت غير موصولة, الرجاء إعادة توصيلها! ";
+"UpdateDes"="هناك نسخة جديدة للتحديث, هل ترغب بالتحديث أم لا؟";
+"Update"="تحديث";
+"Sure"="أكيد";
+"RemoveHandleFirst"=" الرجاء إزالة المقود";
+"GetOffFirst"=" الرجاء إدخال وضع الاستعداد أو المساعدة";
+"UpdateFirst"="الرجاء تحديث البرامج الثابتة أولاً ";
+"speed curve";
+"ScaleCodeError"=" عذرا، شكل تسلسل النطاق المدخل من قبلك خاطئ, الرجاء إدخال تسلسل النطاق الذي تم يتشكل من 7 أرقام.";
+"BluetoothCodeError"=" عذراً، رمز المطابقة المدخل من قبلك غير صحيح’ الرجاء إدخال 6 أرقام";
+
+"serialNumberCodeError"="شكل الرقم التسلسلي غير صحيح!";
+"MailboxError"="عذراً, صندوق البريد المدخل من قبلك غير صحيح, الرجاء إعادة إدخاله";
+"PostureSensorTips"=" الرجاء الحفاظ على السيارة في حالة راحة مطلقة في عملية معايرة أجهزة الاستشعار لمدة 3 ثوان، وعند بداية ونهاية المعايرة، و المركبة تصدر صوتاً مثل 'ديدي'، فهل تريد الاستمرار؟";
+"LockFirst"="الرجاء قفل السيارة أولاً!";
+"StopFirst"=" الرجاء إيقاف السيارة أولاً!";
+
+"StandOffTips"="الرجاء الدخول في الوضع غير الدائم أولاً";
+"RebootTips"="أكد إعادة تشغيل ناينبوت";
+"ShutDownTips"="أكد إغلاق ناينبوت";
+
+"PairCodeRebootTips"="بعد إعداد رمز الاقتران, سوف يأخذ دوره بعد إعادة تشغيل الناينبوت مرة أخرى";
+"nb_changeBat"=" رجاء كن حذراً! إذا كان الإعداد لا يتفق مع نوع البطارية للاستخدام الفعلي، فإنه سوف يؤثر على كمية الكهرباء المكشوفة بدقة بالسيارة، وحتى أنه يؤثر على السلامة! هل تريد تأكيد تبديل نوع البطارية؟";
+
+
+"CauseOfError"="الأسباب التي قد تسبب:";
+"SolutionSuggestion"="حلول مقابلة:";
+
+
+
+//"DeviceList"="قائمة الجهاز";
+//"Refresh"="تحديث";
+//MenuViewController
+
+"DashBoard"=" لوحة أجهزة القياس";
+"DetailInfo"="معلومات مفصلة";
+"BlueToothTeleControl"="جهاز تحكم بلوتوث";
+"Settings"="Settings";
+
+//NinebotInfoViewController Level 1
+
+"BasicInfo"="معلومات أساسية";
+"Electricity"="معلومات كمية الكهرباء" ;
+"Speed&Mileage"="السرعة والكيلومتراج";
+"Runtime"="مدة التسيير";
+"Temperature"="الحرارة";
+"Voltage&Current"="الجهد والتيار";
+"Posture"="الحالة";
+"Check&Update"="تفقد وتحديث البرامج الثابتة";
+"About"="حول";
+"Tips"="نصائح";
+
+"ErrorCodeChart"="جدول رموز إنذار الأخطاء";
+"Back"="عودة";
+
+//BasicInfo
+"SerialNumber"="رقم تسلسلي";
+"BluetoothPairingCode"="رمز اقتران البلوتوث";
+"FirmwareVersion"="نسخة البرامج الثابتة";
+"ErrorCode"="رمز خطأ";
+"AlarmCode"="رمز إنذار";
+"WorkMode"="نمط عمل التيار";
+"FootSwitchStatus"="حالة مفتاح الوقوف";
+"HandleAngle"="زاوية المقود";
+
+"StandbyMode"="وضعية الاستعداد";
+"AssistantMode"="وضعية المساعدة";
+"FootMode"="وضعية الوقوف";
+"LockMode"="وضعية القفل";
+"RemoteMode"="وضعية التحكم عن بعد";
+
+//Electricity
+"VehicleBatteryLevel"="كمية كهرباء المركبة";
+"BatteryALevel"="كمية كهرباء البطارية1";
+"BatteryBLevel"="كمية كهرباء البطالرية2";
+
+//Speed&Mileage
+"EstimatedRemainingMileage"="تقدير المسافة المتبقية";
+"CurrentSpeed"="السرعة الحالية للمركبة";
+"LeftWheelSpeed"="السرعة الحالية للعجلة اليسرى";
+"RightWheelSpeed"="السرعة الحالية للعجلة اليمنى";
+"NormalModeValue"="سرعة الحقن في الوضع العادي";
+"SpeedLimitModeValue"=" سرعة الحقن في وضع الحقن ";
+"OdometerOfRiding"="إجمالي مسافة السير";
+"OdometerOfAssistanting"="إجمالي مسافة المساعدة";
+"OdometerOfRemoting"="إجمالي المسافة بالتحكم عن بعد";
+"TripDistanceOfRiding"="مسافة السير لمرة واحدة";
+"TripDistanceOfAssistanting"="مسافة السير بالمساعدة لمرة واحدة";
+"TripDistanceOfRemoting"="مسافة السير بالتحكم عن بعد لمرة واحدة";
+
+
+
+//Runtime
+"TotalRunningTime"="إجمالي مدة التشغيل";
+"TotalRidingTime"="إجمالي مدة المسير";
+"TotalAssistantingTime"="إجمالي مدة المساعدة";
+"TotalRemotingTime"="إجمالي مدة التحكم عن بعد";
+"CurrentRunningTime"="مدة التشغيل لمرة واحدة";
+"CurrentRidingTime"="مدة المسير لمرة واحدة";
+"CurrentAssistantingTime"="مدة المساعدة لمرة واحدة";
+"CurrentRemotingTime"="مدة التحكم عن بعد لمرة واحدة";
+
+//Temperature
+"VehicleTemperature"="درجة حرارة جسم المركبة";
+"BatteryATemperature"=" حرارة البطارية1";
+"BatteryBTemperature"="حرارة البطارية2";
+
+
+//Voltage&Current
+"VehicleInfo"="معلومات المركبة";
+"DriverVoltage"="الجهد عند القيادة";
+"BatteryAVoltage"="جهد البطارية 1";
+"BatteryBVoltage"="جهد البطارية 2";
+"SystemCurrent"="التيار الإجمالي للنظام";
+
+"SystemA"=" Iالنظام ";
+"SystemB"=" IIالنظام ";
+"11V"="جهد 11 فولت";
+"12V"="جهد 12 فولت";
+"5V"="جهد 5 فولت";
+"Motor1 Current"="التيار الإجمالي للمحرك 1";
+"Motor2 Current"="التيار الإجمالي للمحرك 2";
+"Motor1 Phase Current"="التيار المرحلي للمحرك 1";
+"Motor2 Phase Current"=" التيار المرحلي للمحرك 2";
+
+//Posture
+"Pitch Angle"="زاوية المحور الأمامي الحالية";
+"RollAngle"="زاوية المحور الجانبي الحالية";
+"PitchAngleRate"="السرعة الموافقة لزاوية المحور الأمامي الحالية";
+"RollAngleRate"="السرعة الموافقة لزاوية المحور الجانبي الحالية";
+
+//one
+"BackAngle"="الزاوية الخلفية الحالية للارتفاع";
+"pwmOutput"=" الحاليةPWM قيمة";
+
+//About
+"Version"="نسخة:";
+
+//updateFW
+"UpdateFWTip"="البرنامج الثابت الحالي للمركبة هو الأحدث!";
+"DashBoardNeedUpdate"="البرنامج الثابت للجهاز بحاجة لإلى تحديث!";
+"DriveNeedUpdate"="برنامج القيادة بحاجة لتحديث!";
+"AHRSNeedUpdate"=" بحاجة لتحديث! AHRS برنامج ";
+"MasterNeedUpdate"="البرنامج الثابت الرئيسي بحاجة لتحديث!";
+
+"TeleCtrl Max Forward Speed"="سرعة الانطلاق للأمام القصوى في وضع التحكم عن بعد";
+"TeleCtrl Max Roll Speed"="السرعة القصوى في توجيه السيارة في وضع التحكم عن بعد";
+"TeleCtrl Max Acce Speed"="شدة التسارع القصوى في وضع التحكم عن بعد";
+
+"LightsSettings"="إعدادات إنارة المركبة";
+
+"ForwardLED"="الإنارة الأمامية";
+"ForwardLEDMode"="وضعية الإنارة الأمامية";
+"ForwardLEDSwitchingCycle"="مدة تبديل الإنارة الأمامية";
+"ForwardLEDAutoBrightness"="سطوع أوتوماتيكي";
+
+"Brightness"="قيمة السطوع";
+"Always"="على هذه الوضعية عادة";
+"BreathingMode"="وضعية التنفس";
+"BlinkingMode"="وضعية الومض";
+"LeftScrollingMode"="وضعية الضوء الأيسر";
+"RightScrollingMode"="وضعية الضوء الأيسر";
+"BothwayScrollingMode"="وضعية الإضاءة الثنائية الاتجاه";
+
+
+
+"HandleLED"="إنارة المقبض";
+"HandleLEDMode"="وضعية إنارة المقبض";
+"HandleLEDSwitchingCycle"="مدة التبديل لإنارة المقبض";
+"HandleLEDAutoBrightness"="المعايرة الأوتوماتيكية لسطوع إنارة المقبض";
+
+"DirtboardLED"="الضوء الخلفي";
+"DirtboardLEDMode"="وضعية الضوء الخلفي";
+"DirtboardLEDSwitchingCycle"="مدة التبديل لإنارة الضوء الخلفي";
+"DirtboardLEDAutoBrightness"="المعايرة الأوتوماتيكية لسطوع إنارة الضوء الخلفي";
+
+"SoundSetting"="إعدادات الصوت والإنذار";
+
+"ONOFFMusic"="صوت بدء التشغيل والإغلاق";
+"TipSound"="صوت التلميحات";
+"Alarm"="إعدادات الإنذار";
+
+"Mode"="وضعية";
+"DefaultMode"="الوضعية الافتراضية";
+"ScaleMode"="وضعية القياس";
+"ScaleSequence"="تتابع القياس";
+"Volume"="مدى حجم";
+"BackAlarm"="الإنذار الخلفي السريع جداً";
+
+//Steering sensitivity settings
+"AttitudeSensor"="حساس الاتجاه";
+"AttitudeSensorCalibration"="معايرة حساس الاتجاه";
+"Steeringsensitivity"="حساسية القيادة";
+"SteeringsensitivityAutoBrightness"="المعايرة الأوتوماتيكية لحساسية القيادة";
+"SteeringsensitivityValue"="مدى حساسية";
+
+"OtherSettings"="إعدادات اخرى";
+
+"RebootNinebot"="إعادة تشغيل ناينبوت";
+"ShutdownNinebot"="إغلاق ناينبوت";
+
+"FreeMode"="فتح الوضعية الحرة";
+
+"SetBluetoothPairingCode"="قم بإعداد رمز اقتران البلوتوث";
+"UpdateSerialNumber"="تعديل الرقم التسلسلي";
+"nb_useLargeBattery"="استخدام بطارية ذات استطاعة عالية";
+"nb_getoff"="الدخول بحالة الاستعداد بعد النزول";
+
+"Cancel"="إلغاء";
+"Save"="حفظ";
+//"setting_Authenticationcodes"="رمز التوثيق";
+"setting_newcode"="الرجاء إدخال رمز التفعيل";
+
+"TargetNumber"=" الرقم التسلسلي المستهدف:";
+"TargetNumberError"="الرقم التسلسلي المستهدف خاطئ";
+"SeriNum"="الرقم التسلسلي الحالي";
+"PasswordError"="إدخال رمز التفعيل غير صحيح";
+"Password"="رمز التفعيل:";
+//"setting_eg"="على سبيل المثال:";
+
+"Km_Miles"=" إعدادات النظام المتري";
+"km"="النظام المتري";
+"miles"="النظام باللغة الإنكليزية";
+
+"s_down_pull"="اسحب للتحديث";
+"s_refresh"="خفف للتحديث فوراً";
+"s_refreshing"="في طور تحديث البيانات";
+"s_loadMore"="اضغط لتحميل أكثر";
+"s_loadingMore"="في طور تحميل بيانات أكثر";
+"s_loadOver"="تم استكمال تحميل الكل";
+"s_last_time"="آخر تحديث";
+"s_have_no"="لا سجلات";
+"s_today"="اليوم";
+
+"ErrCodeDesc1_8"="حساس المحرك أو السائق غير طبيعي";
+"ErrCodeDesc9_12"="أنبوب مفتاح الطاقة العالية معطوب";
+"ErrCodeDesc13_19"="أعطال أخرى في محرك المركبة";
+"ErrCodeDesc20_29"="حساس ميول المركبة غير طبيعي";
+"ErrCodeDesc30_34"="الاتصالات الداخلية للمركبة غير طبيعية";
+"ErrCodeDesc35"="دارة مبادلة البطارية غير طبيعية";
+"ErrCodeDesc36"="مخرج البطارية 1 غير طبيعي";
+"ErrCodeDesc37"="مخرج البطارية 2 غير طبيعي";
+"ErrCodeDesc38"="حرارة البطارية 1 غير طبيعية";
+"ErrCodeDesc39"="حرارة البطارية 2 غير طبيعية";
+"ErrCodeDesc40"="حساس دواسة جسم الإنسان غير طبيعي";
+"ErrCodeDesc41_42"=" تيار الجهد المنخفض الخارج 12 فولت أو 5 فولت داخل جسم المركبة غير طبيعي";
+"ErrCodeDesc43"="الشاحن غير طبيعي";
+"ErrCodeDesc44"="حجز لاختبار التسليم";
+"ErrCodeDesc45"=" زاوية الانخفاض للسيارة كبيرة جدا في عملية القيادة";
+"ErrCodeDesc46"="رمز خطأ غير محدد";
+
+
+"ErrCodeCause1_8"=" أولا/ضربة عنيفة. ثانيا/حساس المحرك متضرر بسبب عطل كهربائي في العناصر الداخلية. ثالثا/ كشف غير طبيعي أثناء بدء تشغيل الفحص الذاتي";
+"ErrCodeCause9_12"="عموماً, قفزة قوية بسبب ضربة عنيفة, يدور الإطار بسرعة عالية عالقاً بجسم غريب أو توتر عالي, التيار الفوق العالي بسبب الحمل الزائد لمدة طويلة, أو حرارة الجو الفوق العالية قد تتسبب بعطل في ترانزيستور الآلة. عموماً, حالة ' الإطار مقفل بإحكام' تظهر مرافقة لهذه المشكلة’ مثال, إنه من الصعب سحب ناينبوت";
+"ErrCodeCause13_19"=" عموما, الأسباب هي أن ترانزيستور مفتاح الطاقة غير طبيعي, أو بسبب فشل تحديث البرنامج الثابت لمحرك الآلة.";
+"ErrCodeCause20_29"=" أولا/ جسم الناينبوت ضرب بقوة مما سبب بتغيير مكان أو تعطيل حساس الميول. ثانيا/ مكونات وأجزاء حساس الميول تفككت. ثالثا/ التداخل الكهروميغناطيسي يتسبب في جعل حساس ميول السيارة يعطي إشارات غير طبيعية. رابعا/ كشف غير طبيعي عارض خلال بدء تشغيل الفحص الذاتي ";
+"ErrCodeCause30_34"=" أولاً/ انحلال 6 براغي بين الوجه العلوي والسفلي للمقبض سببت الاتصال السيئ. ثانياً/ انحلال الكابل الداخلي واتصاله بجسم السيارة مسبباً الاتصال السيئ. ثالثاً/ مكونات وأجزاء التوصيل الداخلي لجسم السيارة تفككت.  ";
+"ErrCodeCause35"="دارة مبادلة الحماية الداعمة للبطارية الداخلية للمركبة غير طبيعية";
+"ErrCodeCause36"="التفريغ الزائد, فصل البطارية 1 أو يظهر ماس بحماية الدارة";
+"ErrCodeCause37"=" التفريغ الزائد, فصل البطارية 2 أو يظهر ماس بحماية الدارة ";
+"ErrCodeCause38"=" أولا/ حرارة عالية غير طبيعية تولدت في البطارية 1 بسبب ماس بالدارة. ثانيا/ تعطل حساس الحرارة في البطارية الداخلية. ثالثا/ حرارة الجو مرتفعة جداً أو منخفضة جداً ";
+"ErrCodeCause39"=" أولا/ حرارة عالية غير طبيعية تولدت في البطارية 2 بسبب ماس بالدارة. ثانيا/ تعطل حساس الحرارة في البطارية الداخلية. ثالثا/ حرارة الجو مرتفعة جداً أو منخفضة جدا ";
+"ErrCodeCause40"=" أولا/ دواسة جسم الإنسان غير مقبولة. ثانيا/ التحويل في لوح الدواسة ينتج عنه أن حساس الدواسة لا يعمل.  ";
+"ErrCodeCause41_42"=" أولا/ حمل مزود طاقة مأخذ USBللمقبض ثقيل أو يوجد ماس بالدارة (فوق 5 فولت/ 1.5 أمبير). ثانيا/ ماس بدارة مخرج الطاقة الداخلي 12 فولت أو 5 فولت. ثالثا/ دارة الطاقة معطلة. ";
+"ErrCodeCause43"="مخرج الشاحن غير طبيعي, هو غير قادر على شحن ناينبوت بشكل طبيعي";
+"ErrCodeCause44"="الحجز لاختبار التسليم";
+"ErrCodeCause45"=" زاوية الميل الجانبية أو الأمامية كبيرة جداً عند قيادة ناينبوت. سيظهر الخطأ عموماً عندما يقع الراكب عن طريق الخطأ أو عندما تقع المركبة بسبب فقدان التوازن. ";
+"ErrCodeCause46"=" حجز رمز خطأ غير مستخدم. ولم يتم تحديد نوع الخطأ بعد";
+"ErrCodeSug1_8"=" محاولة إعادة التشغيل, أذا بقي الخطأ موجوداً الرجاء الاتصال بالبائع أو بمركز صيانة ناينبوت: قد يطلب إليك توصيل جسم سيارة ناينبوت إلى بائعك من أجل الإصلاح. البريد الالكتروني (صيني- انكليزي): service@ninebot.com   ";
+"ErrCodeSug9_12"=" ليس بإمكان المستخدمين معالجة الخطأ بأنفسهم. الرجاء الاتصال ببائعك أو بمركز صيانة ناينبوت: قد يطلب إليك توصيل جسم سيارة ناينبوت إلى بائعك من أجل الإصلاح. البريد الالكتروني (صيني- انكليزي):service@ninebot.com";
+"ErrCodeSug13_19"="Attempt حاول إعادة تشغيل الآلة مجدداً. إذا كانت المشكلة لم تحل بعد, الرجاء الاتصال ببائعك أو بمركز صيانة ناينبوت: قد يطلب إليك توصيل جسم سيارة ناينبوت إلى بائعك من أجل الإصلاح. البريد الالكتروني (صيني- انكليزي):service@ninebot.com.";
+"ErrCodeSug20_29"="Attempt حاول إعادة تشغيل الآلة مجدداً. إذا كانت المشكلة لم تحل بعد, الرجاء الاتصال ببائعك أو بمركز صيانة ناينبوت: قد يطلب إليك توصيل جسم سيارة ناينبوت إلى بائعك من أجل الإصلاح. البريد الالكتروني (صيني- انكليزي):service@ninebot.com.";
+"ErrCodeSug30_34"=" أولا/ تأكد من أن الجزء العلوي من المقبض مثبت في مكانه (إشارة إلى 2.3.2 في دليل المستخدم). هذا الخطأ سوف يحصل عندما يكون المقبض موضوعاً بجسم السيارة في مكان خاطئ. ثانيا/ تأكد أن البراغي الست ( مثلاً من أن البراغي مشدودة عند تركيب سيارتك الجديدة) التي تصل الجانب العلوي بالسفلي للمقبض مثبتة بشكل قوي: هز المقبض برفق لتتأكد من أنه ثابت. انحلال البراغي قد يؤدي لاتصال سيئ مما يتسبب بالأعطال.";
+"ErrCodeSug35"=" حاول إعادة التشغيل لثلاث مرات وتأكد إذا ما كان الخطأ قد اختفى. إذا كانت المشكلة لم تحل بعد, الرجاء الاتصال ببائعك أو بمركز صيانة ناينبوت: قد يطلب إليك توصيل جسم سيارة ناينبوت إلى بائعك من أجل الإصلاح. البريد الالكتروني (صيني- انكليزي):service@ninebot.com ";
+
+"ErrCodeSug36"="اشحن السيارة لمدة عشر دقائق باستخدام الشاحن, إذا لم يتم حل المشكلة, قم بنزع عبوة البطارية وأعدها ثانية, حاول الشحن مرة أخرى, إذا كانت المشكلة لم تحل بعد, الرجاء الاتصال ببائعك أو بمركز صيانة ناينبوت: قد يطلب إليك توصيل جسم سيارة ناينبوت إلى بائعك من أجل الإصلاح. البريد الالكتروني (صيني- انكليزي):service@ninebot.com";
+
+
+"ErrCodeSug37"="اشحن السيارة لمدة عشر دقائق باستخدام الشاحن, إذا لم يتم حل المشكلة, قم بنزع عبوة البطارية وأعدها ثانية, حاول الشحن مرة أخرى, إذا كان الخطأ ما يزال موجوداً, الرجاء الاتصال ببائعك أو بمركز صيانة ناينبوت: قد يطلب إليك توصيل جسم سيارة ناينبوت إلى بائعك من أجل الإصلاح. البريد الالكتروني (صيني- انكليزي):service@ninebot.com";
+
+"ErrCodeSug38"=" أولا/ إذا كان نوع الخطأ يظهر عند استخدام ناينبوت بعد توضيبها في درجة عشرة مئوية تحت الصفر, قد يتولد إنذار بالحرارة المنخفضة بسبب حرارة الجو المنخفضة المحيطة. الرجاء ترك ناينبوت في درجة حرارة غرفة لمدة ثمان ساعات على الأقل, بعدها حاول مجدداً. ثانيا/ المس حافظة البطارية بيدك, إذا كانت ساخنة فتوقف عن استعمالها مباشرة وحاول إعادة التشغيل بعد ترك ناينبوت في جو بدرجة حرارة غرفة لمدة أربع ساعات على الأقل. ثالثا/ إذا كان الخطأ لا يزال موجوداً, الرجاء التوقف عن استعمال ناينبوت فوراً والاتصال ببائعك أو بمركز صيانة ناينبوت: قد يطلب إليك توصيل جسم سيارة ناينبوت إلى بائعك من أجل الإصلاح. البريد الالكتروني (صيني- انكليزي):service@ninebot.com  ";
+"ErrCodeSug39"=" أولا/ إذا كان نوع الخطأ يظهر عند استخدام ناينبوت بعد توضيبها في درجة عشرة مئوية تحت الصفر, قد يتولد إنذار بالحرارة المنخفضة بسبب حرارة الجو المنخفضة المحيطة. الرجاء ترك ناينبوت في درجة حرارة غرفة لمدة ثمان ساعات على الأقل, بعدها حاول مجدداً. ثانيا/ المس حافظة البطارية بيدك, إذا كانت ساخنة فتوقف عن استعمالها مباشرة وحاول إعادة التشغيل بعد ترك ناينبوت في جو بدرجة حرارة غرفة لمدة أربع ساعات على الأقل. ثالثا/ إذا كان الخطأ لا يزال موجوداً, الرجاء التوقف عن استعمال ناينبوت فوراً والاتصال ببائعك أو بمركز صيانة ناينبوت: قد يطلب إليك توصيل جسم سيارة ناينبوت إلى بائعك من أجل الإصلاح. البريد الالكتروني (صيني- انكليزي):service@ninebot.com  ";
+"ErrCodeSug40"=" أولا/ تأكد من أن لوح الدواسة ليس محشوراً أو مضغوطاً عند بدء التشغيل. ثانيا/ تأكد من أن لوح الدواسة يمكن له التوازن بشكل طبيعي عندما لا تكون الأرجل عليه. ثالثا/ إذا كانت المشكلة غير قابلة للحل بعد, الرجاء الاتصال ببائعك أو بمركز صيانة ناينبوت: قد يطلب إليك توصيل جسم سيارة ناينبوت إلى بائعك من أجل الإصلاح. البريد الالكتروني (صيني- انكليزي):service@ninebot.com ";
+"ErrCodeSug41_42"=" تأكد من أن تبدد الطاقة المحيطي الواصل للسيارة هو أقل من 8 واط (5 فولت/ 1.5 امبير). ثانيا/ في حال عدم وجود طاقة محيطية متصلة, قم بفصل المقبض نهائياً عن جسم السيارة واعد التشغيل. في حال تم التشغيل بشكل طبيعي بعد فصل المقبض فهذا يعني أن هنالك ماساً في الدارة داخل المقبض. في هذا الظرف, قد يطلب إليك توصيل الجزء العلوي والسفلي من المقبض إلى بائعك من اجل الصيانة. في حال بقي الخطأ بعد فصل المقبض, هذا يعني أن الخطأ موجود في جسم سيارة ناينبوت وقد يطلب إليك توصيل الجسم إلى بائعك من أجل الصيانة.
+البريد الالكتروني (صيني- انكليزي): service@ninebot.com";
+"ErrCodeSug43"=" أولا/ الرجاء إزالة الشاحن من مأخذ الكهرباء ومن ناينبوت ومن ثم إعادة التوصيل. إذا كان الخطأ لا يزال موجوداً فقد يكون هناك خطأ ما بالشاحن, وعندها تحتاج لتوصيل الشاحن إلى بائعك للصيانة أو أن تطلب دفع الفرق للحصول على شاحن جديد. ثانيا/ في حال ما زال الخطأ موجوداً أثناء الشحن باستخدام الشاحن الجديد, هذا يشير أن هنالك خطأ ما في جسم السيارة. الرجاء توصيل جسم سيارة ناينبوت إلى بائعك للصيانة
+البريد الالكتروني (صيني- انكليزي): service@ninebot.com";
+"ErrCodeSug44"=" بشكل طبيعي, لن يظهر الخطأ. في حال ظهر الخطأ, الرجاء توصيل جسم سيارة ناينبوت إلى بائعك للصيانة
+البريد الالكتروني (صيني- انكليزي): service@ninebot.com";
+"ErrCodeSug45"= " عموماً, قد يختفي الخطأ تلقائياً بعد إعادة التشغيل. في حال بقي الخطأ موجوداً بعد إعادة التشغيل, الرجاء توصيل جسم سيارة ناينبوت إلى بائعك للصيانة
+البريد الالكتروني (صيني- انكليزي): service@ninebot.com ";
+"ErrCodeSug46"=" في الوقت الحالي, احتفظ برقم الخطأ غير المستخدم. الرجاء إعادة التشغيل مرتين أو ثلاث واكتشاف فيما لو اختفى الخطأ. في حال بقي رقم الخطأ ظاهراً فربما هنالك ما هو خطأ في لوحة آلة ناينبوت. الرجاء توصيل جسم سيارة ناينبوت إلى بائعك للصيانة. ";
+
+
+//markII
+"nb_robot_newhand_completion_tip_markII"="Beginner tutorial has been completed, and this vehicle will be limited to 12km/h before 1 km has been finished.";
+
+"nb_robot_driving_instruction_tip_markII"="Pleaseread the beginners tutorial, it will guide you how to ride this vehicle and enjoy your safety rides.";
+"nb_robot_driving_instruction_exercise_tip_markII"="Please finish the 5 minutes video about how to control the vehicle.";
+
+"nb_robot_newhand_step1_markII"="Using Ninebot One";
+"nb_robot_newhand_step2_markII"="Position Adjustment";
+"nb_robot_newhand_step3_markII"="Vehicle-Control Practice";
+"nb_robot_newhand_step4_markII"="Sliding Practice";
+
+"nb_robot_settings_handler_mode_switch_markII"="Switch of lift mode";
+"nb_robot_settings_handler_mode_tips_markII"="When lift mode is on, wheel will not spin rapidly. When lift mode is off, wheel will spin rapidly once vehicle is lifted up. ";
+"nb_robot_settings_handler_settings_markII"="Handle bar setting";
+"nb_robot_settings_handler_calibration_markII"="Handle bar calibration";
+"nb_robot_settings_handler_calibration_start_markII"="Vehicle should be locked before handle bar calibration, please confirm if it is ok to lock the vehicle.";
+"nb_robot_settings_handler_calibration_up_markII"="1/2 Please lift your up vehicle before pressing \"Sure\", otherwise the lift function will not be working.";
+"nb_robot_settings_handler_calibration_down_markII"="2/2 Please lift your vehicle down before pressing \"Sure\", otherwise the lift function will not be not working.";
+"nb_robot_settings_handler_calibration_complete_markII"="Handle bar calibration completed.";
+"nb_robot_activate_success_tip_markII"="This vehicle has been initialized, please read user manual carefully, if not your vehicle will be in limited mode of 7km/h.";
+"nb_robot_unactivate_tips_markII"="Your vehicle is a new vehicle, please initialize your vehicle according to the guideline page, or your vehicle cannot be used.";
+
+"nb_robot_driving_instruction_next"="Next";
+"nb_robot_driving_instruction_prev"="Previous";
+
+
+
+
+

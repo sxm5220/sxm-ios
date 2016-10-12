@@ -1,0 +1,1367 @@
+/* 
+  Localizable.strings
+  Ninebot
+
+  Created by 宋晓明 on 16/8/16.
+  Copyright © 2016年 sxm. All rights reserved.
+*/
+
+//levy-2016-8-8
+"nb_online_pay_result_go_order"="查看订单";
+"nb_online_pay_result_go_home"="返回首页";
+"nb_online_pay_mode"="支付方式：";
+"nb_online_order_fee"="付款总额：";
+"nb_online_order_num"="订单编号：";
+"nb_online_pay_result_title"="支付结果";
+"nb_online_confirm_pay"="确认支付";
+"nb_online_order_pay"="订单支付";
+"nb_online_pay_install_wechat"="对不起，请先安装微信app，再进行微信支付";
+//sxm-20160805
+"s_assistance_mode"="Enter Assi mode by click pedal";
+//ln-2016-8-3
+"nb_nfans_language_apply"="Apply to whole N fan club";
+//sxm-2016-8-1
+"s_vehicleSetting"="车辆设置";
+"s_cruise"="自动定速巡航";
+"s_cruise_info"="启用自动定速巡航功能后，骑行中保持油门位置不变5秒以上，听到滴声长响后，可松开油门，车辆会保持当前速度继续行驶。捏下刹把或再次按下油门，定速巡航取消。";
+"s_controlMode"="油门模式";
+"s_speedControl"="速度模式";
+"s_torqueControl"="转矩模式";
+"s_energyRecovery"="能量回收强度设置";
+"s_energyRecovery1"="强";
+"s_energyRecovery2"="中";
+"s_energyRecovery3"="弱";
+//ln 2016-7-28
+"nb_nfans_send_edit"="Confirm to quit edit?";
+"nb_nfans_rule_title"="NFans Club Regulations";
+"nb_search_tip_forbit"="Forbidden  %@  to post in N fans club？";
+"nb_search_tip_noforbit"="Release  %@  to post in N fans club?";
+
+//sxm-20160728
+"s_not_filled"="Unbound";
+"s_complete_email"="revise email";
+"s_input_newEmail"="Input new email account";
+"s_newEmail_information"="Ninebot will send verification message to your email, please check.";
+"s_emailCode_fail"="Verification code error or out of time";
+"s_emailCode_sendFail"="fail to send verification code";
+
+//mgl-20160727
+"backgroundRunSwitch"="Switch of background run reminder";
+"backgroundRunSwitchTip"="After switch turned off, if there are any abnormal ridding behaviors, app will not give a notice when app is run background.";
+"settings_other_bt_name_restart"= "Require to restart the vehicle after bluetooth name modified! please restart your vehicle!";
+
+//levy-20160727
+"nb_robot_active_statement_title"="Statement";
+"nb_robot_active_statement_content"="Please enter your email address so you can retrieve your password if you forget it.  Ninebot by Segway will also send you service updates or notifications via email.  Ninebot by Segway will not share your email address with other companies.";
+
+//sxm-20160707
+"s_upgradeUserNameTip"="Note：The user  is used for login, only allowed to modified  once, please be careful to fill in.";
+"s_transMode"="Shipping mode";
+"s_transModeTip"="Once this function is on, you have to press the turn on/off button for several seconds to turn on unit, which can make sure unit will not be turned on automatically when turn on/off button pressed by error or incident during delivery.";
+//mgl-20160614
+"m_TeachTip_speed"="The beginner teaching has not completed at this vehicle, the speed limit cannot be modified. Do you want to complete?";
+//sxm-20160603
+"s_backfast_alarm"="Warning when going back too quickly.";
+"s_parameter_nil"="Specification is null.";
+"s_openLocal"="Are you sure to turn on current location to use this function? (Settings-Privacy-Location Service-Ninebot)";
+"m_draw_success"="领取成功";
+"m_Goods_not_Enough"="暂时缺货";
+"m_winning_Record"="中奖记录";
+"s_driverTemp"="Temperature of driver";
+//mgl-2016-6-1
+"m_lottery_rule"="抽奖规则";
+"m_had_get"="已领取";
+"m_everytime_Need"="每次仅需";
+"m_interjection"="呢~";
+//mgl-2016-5-23
+"m_integralShop"="积分商城";
+"m_N_MoneyShop"="N币商城";
+"m_exchangeArea"="兑换专区";
+"m_NMoney"="N币";
+"m_ConvertReord"="兑换记录";
+"m_GoodsDetailed"="商品详情";
+"m_surplus"="剩余";
+"m_Piece"="件";
+"m_marketPrice"="市场价";
+"m_unitary"="元";
+"m_immediateExchange"="立即兑换";
+"m_N_Notenough"="N币不足";
+"m_goodsNmae"="商品名称";
+"m_goodsAbout"="商品简介";
+"m_exchangeProcess"="兑换流程";
+"m_attentionMatter"="注意事项";
+"m_defaultSwitch"="设为默认";
+"m_pleaseInputStreetOrHouseNumber"="路或街道地址，门牌号";
+"m_addressList"="地址列表";
+"m_hadSet_defaul"="设为默认";
+
+//2016-5-19
+"l_no_search_result"="No data found";
+
+//sxm-20160527
+"s_local_rank"="Local Ranking";
+"s_currentlocal"="Current location :";
+//sxm-20160518
+//"s_bleConn_fail"="连接密码不正确，请重新输入连接密码！";
+
+//sxm-20160516
+"s_orig_pwdFail"="Original password is incorrect!";
+//sxm-20160513
+"s_limitSpeed_Intro_tip"="You vehicle will automatically adjust the speed limit value according to battery capacity, temperature, load and driving habits. When the pointer arrives at the red dashed part, it indicates you have exceeded the speed limit, and the vehicle will gradually lean back and limit speed. Please drive carefully.";
+"s_remainderRange_tip"="The remaining mileage is the rated value, which is associated with temperature, tire pressure, and driver’s weight. Please take the actual situation as the criterion.";
+//2016-5-11
+"l_nfans_forbit_title"="Banned from posting";
+"s_limitSpeedMode_Tips"="Enable speed limit mode?";
+"l_fans_forbit_cancle"="Ban cancelled";
+"l_fans_no_forbit"="Ban lifted";
+"l_search_user_list"="List of users";
+"l_search_dynamic_list"="List of dynamics";
+"l_search_forbit_list"="List of bans";
+"l_search_more"="View more";
+"l_search_totle"="Total";
+"l_search_page"="pages";
+"l_search"="Search";
+"m_goto_Activation"="Activate";
+"s_medalList"="Medal list";
+"m_my_Npoints"="My N coins";
+"m_Npoints_Details"="N coins in details";
+"m_integral_Rule"="Point rules";
+"m_Npoints_Rule"="N coin rules";
+"m_MyGrade"="My grade";
+"m_Grade_Detaile"="Grade in details";
+"m_Grade_Name"="Grade name";
+"m_points"="Point";
+"m_Update_NeedPoints"="Points for upgrading";
+"m_All_Points"="Total points";
+"m_Attendance"="Signed in";
+"s_userLevel"="Level";
+"Input1_15"="Please input 1-15 characters or digits";
+"s_rideTip"="Drive carefully!";
+//mini warning
+"s_mini_warning_1"="Battery is too low. Please recharge!";
+"s_mini_warning_2"="Vehicle body temperature is too high!";
+"s_mini_warning_3"="Vehicle body temperature is too low!";
+"s_mini_warning_4"="Battery temperature is too high!";
+"s_mini_warning_5"="Battery temperature is too low!";
+"s_mini_warning_6"="Reverse speed is too fast. Please drive carefully!";
+"s_mini_warning_7"="Motor is stalling. Please drive carefully!";
+"s_mini_warning_8"="Vehicle is tumbling accidentally. Please drive carefully!";
+"s_mini_warning_9"="Vehicle is in lock mode!";
+"s_mini_warning_10"="You are over the speed limit. Please drive carefully!";
+"s_mini_warning_11"="You have been over the speed limit excessively. Please drive carefully.";
+"s_mini_warning_12"="The battery voltage is too high. Please don’t drive down a slope or slam the brakes on and avoid energy recycle that leads to over-charge of the battery!";
+"s_mini_warning_13"="The motor is close to being overload. Please slow down immediately!";
+"s_mini_warning_14"="The output power of your vehicle is too high. Please slow down immediately!";
+"s_mini_warning_15"="The motor torque is too large. Please drive carefully!";
+"s_mini_warning_16"="You are speeding up too fast. Please drive carefully!";
+"s_mini_warning_17"="Battery voltage is low, please be careful when riding.";
+"s_mini_warning_18"="Foot sensor is tilting back because of high speed, vehicle will be slow down.";
+"s_average_power_consumption"="Average power consumption";
+
+"s_limit_speed"="Max speed";
+"s_markII_error_1"="Fault of motor sensor or motor is not connected.";
+"s_markII_error_2"="Failure of motor A current.";
+"s_markII_error_3"=" Failure of motor B current";
+"s_markII_error_4"=" Failure of motor C current.";
+"s_markII_error_6"="Vehicle S/N is the initial S/N";
+"s_markII_error_10"="Battery #1: abnormal communication.";
+"s_markII_error_11"="Battery #2: abnormal communication.";
+"s_markII_error_12"="Failure of gyroscope initialization";
+"s_markII_error_13"="Failure of gyroscope calibration";
+"s_markII_error_14"="Battery #1: abnormal output.";
+"s_markII_error_15"="Battery #2: abnormal output.";
+"s_markII_error_16"="Battery #1: abnormal temperature.";
+"s_markII_error_17"="Battery #2: abnormal temperature.";
+"s_markII_error_24"="Error of general voltage.";
+"s_markII_error_25"="Error of voltage upgrade";
+"s_markII_error_26"="Error of system clock";
+"s_markII_error_27"="Error of current calibration.";
+"s_markII_error_28"="Battery #1: abnormal power supply";
+"s_markII_error_29"="Battery #2: abnormal power supply ";
+"s_markII_error_30"="Temperature sensor open circuit. ";
+"s_markII_error_31"="Temperature sensor is short circuit.";
+"s_markII_error_32"="Battery 1 password incorrect.";
+"s_markII_error_33"="Battery 2 password incorrect.";
+"s_markII_error_34"="Battery cell of battery 1 is in big differential pressure.";
+"s_markII_error_35"="Battery cell of battery 2 is in big differential pressure.";
+"s_markII_error_36"="Battery 1 comes into testing model.";
+"s_markII_error_37"="Battery 2 comes into testing model.";
+"s_error_code_desc_default"="Undefined error.";
+"s_ikonw"="Well noted.";
+
+"s_dashboard_tip"="Dashboard reminder";
+"s_hightSpeed_tip"="Red dashed line indicates over-speed, please slow down when overpassed this line.";
+
+"s_batterChangeTip"="Battery change reminder";
+"s_oneBatterTip"="Dear client, one battery only is detected, and please note that: \n\n1) mileage will be ";
+"s_oneBatterySpeedValue"="\n2) max speed is ";
+"s_batterUpgradeTip"="Battery upgrade reminder";
+"s_doubleBatterTip"="Congratulations. Battery upgrade successful! After upgrade, \n\n1) mileage will be ";
+//l-3-30
+"PhoneLogin"="Register";
+"TargetSNInputError"="The two target Serial no. is not consistent with each other, please input again!";
+"Target_identification_sn"="Confirm the target serial no.:";
+"setting_other_sn_warnning_invalid_location"="Location info get failure!";
+"s_carrySwitch"="Switch of auto shut off once vehicle lifted up";
+"s_battery1"="Battery1";
+"s_battery2"="Battery2";
+"speed_limit_active"="The vehicle has not been activated, the speed limit cannot be modified";
+//l-2-18
+"l-active-Congratulations"="Congratulations!";
+"nb_nfans_language_title"="Please select a language";
+"s_nplace_title"="N Fans Club";
+"nb_nfans_message_unread"="Unread Message";
+//ln-2-1
+"l-map-clear_location_fail"="Fail to clear my location";
+"l_map_location_error"="Locating error, please turn on location service.";
+"l_calculator_remian_mil"="The remaining mileage is theoretical reference value provided under the special testing conditions. The actual mileage may differ due to different temperature, terrain, speed, rider\'s weight, riding habits and frequency of use and other factors.";
+//ln-1-30
+"activate_title"="Activate";
+"activate_ing"="Activating...";
+"nfans-chat-new"="Say something";
+
+//ln-1-29
+"map_nearby_change_google"="Change to Google Map";
+"map_nearby_change_baidu" = "Change to Baidu Map";
+//ln-1-8
+"s_noMoreMessage"="No more message";
+"ySystemMsg"="System message";
+"l_nfans_photo_fail"="Save failed";
+"l_nfans_photo_success"="Save to album success";
+"t_sure_togo"="Check";
+"l_nfans_picture_fail"="Image loading failed";
+//ln-1-7
+"t_not_login"="Your did not login in, please login in first.";
+"l_user_herderImgView_success"="Head portrait update succeeds";
+"l_user_headerImgView_fail"="Head portrait update fails";
+"l_nfans_copy"="Copy";
+//sxm-1-8
+"s_mileage_check"="The mileage stored in the cloud server is longer than this vehicle's mileage, are you sure to synchronize the mileage?";
+"s_no_permissions"="You do not grant the after-sales permission, so this operation cannot be done!";
+"s_sysmile_fail"="Fail to get mileage, so the mileage cannot be synchronized!";
+"s_sysfail"="Fail to synchronize the mileage, please try again!";
+//sxm-1-4
+"s_sysnmileage"="Synchronous mileage";
+"s_sysSuccess"="Synchronized success!";
+"s_tip"="Auto-check notice";
+"s_snError"="The serial no. of vehicle's controller is error, please contact after-sales for service.";
+
+//ln-12-30
+"l_nfans_stick_success"="Modify successfully";
+"l_nfans_stick_fail"="Modification fails";
+"l_nfans_manger"="Admin";
+//sxm-12-28
+"s_ninebotInstruction"="MINI Instruction";
+//ln-12-28
+"l_map_friend_preBtn"="Previous";
+"l_map_friend_nextBtn"="Next";
+"l_map_getUp_Success"="Singal location upload successed";
+"l_map_getUp_fail"="Singal location upload failed";
+"l_nfans_stick"="Top";
+"l_nfans_no_stick"="Cancelled set top";
+
+//1225
+"l_map_friend_justnow"="Just now";
+"l_map_friend_minute"="min ago";
+"l_map_friend_hour"="hr ago";
+//1224
+"t_sixin_message"="Private message";
+"t_sixin_emptyall"="Are you sure to clear all messages?";
+//1222
+"l_map_no_result"="No riders been found in 50 km.";
+"l_map_clear_mylocation"="Clear my location successfully";
+"l_map_friend_fail"="Fail to find vehicle nearby, please try again!";
+//1214
+"t_push_notification"="Push Notification";
+"NB_connect_Exception"="Network request exception";
+"find_map_friends"="Rider Nearby";
+"find_nine_club"="Community";
+"find_friend_tip"="To use the vehicle nearby feature, it's required to upload your location. Once confirmed, your location will be uploaded automatically and seen by others. Of course, you can clear it also. Upload location?";
+"find_friend_quit"="Clear location info and exit";
+
+//1209
+"s_restore_factory"="Restore to factory settings";
+"s_restore_factory_tip"="Are you sure reset all settings?";
+//1207
+"s_softAndHard"="Automatic suspension sensitivity";
+"m_sorfthard_tip"="Adjust suspension sensitivity to reduce vibrations that occur while you are riding";
+"s_sorfthard_value"="Suspension sensitivity";
+"s_blance"="Balance of assisstant mode setting";
+"s_blance_point"="Balance assistance mode";
+"s_blance_intr"="Adjust the balance assistance mode if your vehicle is moving when you are not riding it.";
+
+"n_fans_manage"="Administrate";
+"n_fans_essence"="Set as recommended";
+"n_fans_noessence"="Cancel recommended";
+
+"s_open_camera"="Enable Ninebot to open Camera: Setting-Privacy-Camera-Ninebot";
+
+"n_fans_essence_success"="Set Recommended successfully";
+"n_fans_essence_fail"="Fail to set as recommended";
+"n_fans_noessence_success"="Successfully Cancelled recommended";
+"n_fans_noessence_fail"="Failed to cancel recommended";
+"n_fans_dynamic_delete"="This information has been deleted!";
+
+//1204
+"s_allow_shutdown"="Power off if locked";
+"s_no_alarm"="No alarm if locked";
+"s_please_upfirm"="Please update firmware first!";
+//1203
+"n_personal"="Personal Profile";
+//1120
+"n_message_comment_clear"="Are you sure to clear comment list?";
+"n_message_praise_clear"="Are you sure to clear all liked list?";
+"n_userInfor_fail"="Failed to get user info.";
+
+//1126
+"s_black_upload_success"="Data upload successfully, our after-sales engineer will handle this shortly!";
+"s_blackbox"="Reading blackbox data";
+"s_quest"="Problem description: input problem description less than 500 digits.";
+"s_blackbox_lock"="Need to lock the vehicle before reading black box data, lock vehicle?";
+"s_blackbox_unlock"="Finished reading black box data, Unlock vehicle?";
+"s_blackBox_item"="From, Time, Black Code, Addition Inf\n";
+
+"error_code_control"="Controller";
+"error_code_ahrs"="AHRS";
+"error_code_driver"="Driver";
+"error_code_tip"="Input problem description!";
+"error_code_file"="Data";
+"s_fail_profile_upload"="Upload file failed!";
+"s_blackbox_fail"="Failed to get blackbox data, please try again!";
+"s_q_error"="Describe problem in less than 500 words.";
+"s_firm_instro"="Firmware verison description";
+"s_read_outtime"="Reading timeout";
+"s_b1"="No error!";
+"s_b2"="extended address over the limit";
+"s_b3"="Vehicle does not lock";
+//1117
+"s_qq_copy"="Are you copy group no and open QQ?";
+"s_qq"="QQ Group";
+"s_q_a"="Answers to FAQ";
+"s_app_intro"="Your phone has not installed this app, so you cannot login..";
+
+
+//Mini Error
+"s_error_5"="12V voltage error, please check control board.";
+"s_error_6"="5V voltage error, please check control board.";
+"s_error_7"="3.3V voltage error, please check control board.";
+"s_error_9_28_29"="CPU start error, please check control board.";
+"s_error_11_13"="Left motor sensor error, please check control board.";
+"s_error_14_16"="Right motor sensor error, please check control board.";
+"s_error_17"="Firmware of battery is not availiable now, please update battery firmware.";
+"s_error_18"="Left foot sensor error, please check foot sensor or foot pedal switch cable.";
+"s_error_19"="Right foot sensor error, please check foot sensor or foot pedal switch cable.";
+"s_error_21"="Knee control turning sensor error, please check knee control sensor or the connecting cable. ";
+"s_error_22"="Gravity sendor error.";
+"s_error_23"="Batter connection error, please check the battery connection.";
+"s_error_24"="Battery password error, please change the correct battery.";
+"s_error_26"="Drive voltage error, please check control board and battery voltage.";
+"s_error_27"="Cannot power off.";
+"s_error_31"="Left motor drive sensor error, please check control board.";
+"s_error_32"="Right motor drive sensor error, please check control board.";
+"s_error_33"="Over angle protection.";
+"s_error_34"="Firmware downloading error, please upgrade firmware.";
+"s_error_35"="Gyroscope error, please check control board.";
+"s_error_36_38"="Left motor sensor error, please check motor cable or change motor.";
+"s_error_39_41"="Right motor sensor error, please check motor cable or change motor.";
+"s_error_51"="Battery temperature error, please make sure the temperature is around -10℃~50℃.";
+"s_error_52"="Error of battery cell's voltage, please contact after-sales service.";
+"s_error_53"="The battery's serial number is illegal.";
+
+//1112
+"s_loginTitle"="Other account login:";
+
+"n_fans_clear_fail"="Connection timeout, clear message failed";
+"n_fans_praise_fail"="Connection timeout, Like failed";
+"n_fans_delete_fail"="Connection timeout,delete message maybe failed";
+"n_fans_send_fail"="Connection timeout,comment maybe failed";
+"n_fans_comment_success"="Successfully comment!";
+"n_fans_comment_fail"="Comment fails!";
+//1110
+"s_conn_tip"="The Bluetooth password has not been set. Would you like to set it now?";
+//1105
+"s_no_changeSN"="Current Serial No.is not the manufacture serial no, so this cannot be revised!";
+"lPutEmailNum"="Input email";
+
+//1111
+"n_nfans_uploading"="Uploading";
+//1108
+"n_detail_limited"="You cannot reply to yourself!";
+"n_message_clear_succeed"="Clear success";
+//1107
+"n_upload_images_most"="Choose 9 pictures at most";
+"n_message_front"="You have";
+"n_message_behine"="unread messages...";
+
+//1105
+"n_fans_upload_sussece"="Published successfully!";
+
+//1102
+"n_fans_check_all"="Check all";
+
+//1101
+"n_fans_praise_sussece"="Successfully liked!";
+"n_fans_delete_success"="Successfully deletes your trends!";
+
+//1104
+"s_userName_no"="Username cannot contains Space.";
+"s_pwd_fail"="Input 6-20 password,can not enter the Chinese characters.";
+"s_userName_len"="The length of userName cannot be more than 20";
+
+//1102
+"s_pwd_reset_success"="Reset successfully!";
+"s_code_fail"="Request failed, Please try again.";
+"s_email_and_iphone"="phone no. and your";
+"s_registerFail"="Registeration Failed!";
+"s_chenge_fail"="Revision failed!";
+"s_new_pwd"="New passowrd";
+"s_regist_pwd"="Reset password";
+"s_code_find"="Verification code has been sent to your";
+"s_phone_find"="mobible phone, please check";
+"s_email_find"="mail box, please check";
+"s_user_notFound"="Username dose not exist!";
+"s_find_pwd"="Forget password";
+"s_success_state"="Succeed!";
+"s_email_code"="Verification has been sent to your mailbox";
+"s_email_code_fail"="Email to get verification code failed!";
+
+//1026
+"n_message_title"="My messages";
+"s_search_state"="Could not locate any vehicles. Verify that the vehicle is turned on（Bluetooth icon on the vehicle should be flashing).";
+"s_setVehicle_password"="Set the vehicle password";
+"s_writeBlepwdFail"="Password written failure!";
+"s_inputSixPwd"="Please input 6-digit password";
+"s_blecodFail"="Connecting password failure!";
+"s_keyboard_hid"="hide";
+"s_keyboard_del"="Delete";
+"s_jiaShiZhiNan"="Guide for Driving";
+"s_newJiaoXue"="Tutorial";
+"connect_Code"="connect password";
+//1021
+"s_BMSFirmwareVersion"="BMS Firmware Version";
+//1020
+"s_bmsIntro"="The total charge capacity of the battery to achieve the design capacity of the battery is recorded as a cycle number.\nBattery charge lasts more than 1 minutes is recorded charge times.";
+"lamp_power_switch"="The lamp power switch";
+//1019
+"s_jiaoxue"="Tutorial";
+"s_up_"="Lift";
+"s_down_"="Put Down Gently";
+"s_isNewhand_out"="Confirm exit tutorial";
+"s_rid"="For your safety driving, please read the driver's Guide";
+"j_tip_newPople_success"="Thank you for reading the Guide for Safe Driving! You must read the User Manual and follow the New Rider Tutorial in this App before your first ride.";
+"s_idcard_number"="User\'s ID card is needed to complete insurance info.";
+"s_agreen"="Agree";
+//1018
+"s_stateblance"="Keep steady";
+"s_turnLeft"="Left";
+"s_turnRight"="Right";
+
+//1016
+"settings_sensor_tips_no_activate"="Your vehicle has not been activated, adjust sensitivity canbe done after activation finished. Do you want to activate the vehicle?";
+"settings_sensor_tips_no_teached"="You have not finished begineers learning, adjust sensitivity canbe done after begineers learning been fulfilled. Do you want to complete beginner learning?";
+"settings_sensor_tips_no_grade_white"="For your safety consideration, vehicle cannot be set sensitivity within mileage 1 km. Please set sensitivity after riding more than 1 km.";
+"s_capacity"="Remaining Battery Capacity";
+"s_fwdownloading"="Firmware downloading...";
+"s_putdownfirst"="Put down vehicle first";
+//1015
+"w_mineFun"="Mine";
+"w_goodFun"="Top Posts";
+"s_speed_tip"="When limited-speed mode is active, this is the top speed that the vehicle can reach.";
+"s_speed_behind"="As vehicle reaches the maximum set speed, it will gradually tilt the rider back in order to center mass to ensure safety and avoid over-acceleration.";
+"m_sen_tip"="If vehicle starts moving when powered on, you can try to resolve this problem by calibrating balance sensor.";
+"n_message_commment"="Commented";
+"n_message_praise" = "Liked";
+//1016
+"s_filedown_fail"="Upgrade failed, please try again!";
+//1015
+"s_normarl" = "Normal";
+"s_anomaly" = "Abnormal";
+//1014
+"s_isConnecting"="Device connecting...";
+//1013
+"r_verification_success"="Verification code send successfully";
+
+//1009
+"s_map_serviece"="Map Service";
+"s_highSpeedModel"="High speed mode";
+//1008
+"s_mode_1"="Monochrome breath";
+"s_mode_2"="Full-color breath";
+"s_mode_3"="Two dragons play with a ball";
+"s_mode_4"="Full-color vector";
+"s_mode_5"="Single-color meteor";
+"s_mode_6"="Colorful meteor";
+"s_mode_7"="Alarm lamp mode 1";
+"s_mode_8"="Alarm lamp mode 2";
+"s_mode_9"="Alarm lamp mode 3";
+"s_forward_LED"="Headlight";
+"s_check_updateF"="New firmware is discovered. Please upgrade for the latest version!";
+
+//0930
+"s_canshu"="Parameter is wrong.";
+"s_idcardfail"="ID number is wrong.";
+"s_actFail"="Communication with the scooter fails!";
+"lRegisterFail03"="Sorry，the username is less than 3 characters. Please enter a longer one.";
+"lRegisterFail04"="Sorry, the username is more than 20 characters. Please enter a shorter one.";
+"lRegisterFail05"="The username has been registered. ";
+"lRegisterFail06"="Sorry, the username already exists. Please login and activate it.";
+
+//0929
+"s_sensorTip"="We need to lock the vehicle to calibrate the gyroscope balance sensors. Please step off the vehicle now.";
+//0928
+"s_upCar"="Get on";
+"s_downCar"="Please get off";
+"w_jiHuozhuyi"="Note: Fill in mobile number or/and email address";
+//0926
+"s_activeSuccess"="You have completed the New Rider Tutorial. Your unit will be speed limited for the first 0.6 miles (1 km).";
+//0923
+"s_teach"="Your tutorial is not finished. Please complete it for your and others’ safety.";
+"w_zhinan_step1"="Get on Carefully";
+"w_zhinan_step2"="Turning";
+"w_zhinan_step3"="Practice riding forward and stopping";
+"w_zhinan_step4"="Get off Carefully";
+"w_zhinan_step5"="Practice Lifting the vehicle";
+"w_balance"="Please maintain balance";
+"s_medal"="Medal";
+"w_xuzhang"="Medal";
+"w_weizhangren"="Unoccupied";
+"s_standOn"="Occupied";
+//0920
+"j_idcard" = "ID number";
+"j_phone"  = "Phone";
+"j_mail"   = "Email address";
+"j_next"   = "Next step";
+"j_guid"   = "Guide for Safe Driving";
+"j_real_name"="Name";
+"j_btn_subimit"     = "Submit";
+"j_reminder_title"  = "Prompts";
+"j_reminder_oppose" = "Insist in refusal";
+"j_reminder_accept" = "Accept insurance";
+"j_insurance_title" = "Terms of Insurance Policy";
+"j_insurance_accept"="I accept free accident insurance.";
+"j_insurance_title_list" = "Terms of Personal Accident Insurance ";
+
+"j_tip_success"="Activation Successful! You must review the Guide for Safe Driving. Your vehicle  will remain in speed limiting mode for 0.6 miles (1 km).";
+"j_tip_insurance_success"="Congratulations on your successful activation. Please continue \"Tutorial\"，otherwise the scooter will remain under safe speed-limiting mode of 7km/h. Note： Your policy information is submitted. Please check your SMS for feedback in time.";
+
+"j_tip_insurance_repeat"="You already receive the personal accident insurance provided by Ninebot, with insurance no. XXXX. Repeated receiving is not allowed.";
+
+
+"j_tip_name_nil"="Real name can not be empty!";
+"j_tip_sex_worng"="Gender can not be empty!";
+"j_tip_idcard_worng"="ID number can not be empty!";
+"j_tip_mail_worng"="Email address can not be empty!";
+"j_tip_name_worng"="Name can not be empty!";
+"j_tip_contine"="Continue to activate";
+"j_tip_complete"="Congratulations on completion of tutorial";
+//0919
+"s_singelTime"="Current Ride Time";
+//0917
+"InputOrNumber"="Please input letters or numbers";
+//0912
+"update_tip_updating_ctrl"="Begin to update controller\'s firmware!";
+"update_tip_updating_driv"="Begin to update driver\'s firmware!";
+"update_tip_updating_ahrs"="Begin to update AHRS\'s firmware!";
+"update_tip_updating_dash"="Begin to update dashboard\'s firmware!";
+"update_tip_updating_ble"="Begin to update BLE\'s firmware!";
+"update_tip_updating_bms"="Begin to update BMS\'s firmware!";
+
+"update_tip_updating_bms_success"="Firmware upgrade success! Since the battery module firmware upgrade, the vehicle will automatically shut down, and then you manually power the vehicle connector!";
+"s_updateSuccess"="The firmware update is successful!";
+"s_is_up2"="A newer version of firmware is available, do you want to update?";
+//0909
+"s_progress"="Completed";
+//0901
+"ShareType" = "share";
+"ShareType_1" = "Sina Weibo";
+"ShareType_2" = "Tencent Weibo";
+"ShareType_5" = "Douban";
+"ShareType_6" = "QZone";
+"ShareType_7" = "Renren";
+"ShareType_8" = "Kaixin";
+"ShareType_9" = "Pengyou";
+"ShareType_10" = "Facebook";
+"ShareType_11" = "Twitter";
+"ShareType_12" = "Evernote";
+"ShareType_13" = "Foursquare";
+"ShareType_14" = "Google+";
+"ShareType_15" = "Instagram";
+"ShareType_16" = "LinkedIn";
+"ShareType_17" = "Tumblr";
+"ShareType_18" = "Mail";
+"ShareType_19" = "SMS";
+"ShareType_20" = "Print";
+"ShareType_21" = "Copy";
+"ShareType_22" = "Wechat contacts";
+"ShareType_23" = "Wechat moments";
+"ShareType_24" = "QQ";
+"ShareType_25" = "Instapaper";
+"ShareType_26" = "Pocket";
+"ShareType_27" = "YouDao Notes";
+"ShareType_28" = "Soho Kan";
+"ShareType_30" = "Pinterest";
+"ShareType_34" = "Flickr";
+"ShareType_35" = "Dropbox";
+"ShareType_36" = "VKontakte";
+"ShareType_37" = "Wechat Favorites";
+"ShareType_38" = "Yixin Contacts";
+"ShareType_39" = "Yixin moments";
+"ShareType_41" = "Mingdao";
+"ShareType_42" = "Line";
+"ShareType_43" = "WhatsApp";
+"ShareType_44" = "KakaoTalk";
+"ShareType_45" = "KakaoStory";
+
+// 08-24
+"certification_release"="Release";
+"certification_verification"="Verification Code:";
+"certification_verify_tip"="Verification code has sent you mobile phone or email, please check in time.";
+"certification_release_submit"="Release";
+"certification_invalid_sn"="Serial No. is empty";
+
+"certification_prompt_release_success"="Release is successful!";
+"certification_error_release_failed"="Release fails!";
+"certification_params_valid"="Correctly fill in one of the mobile phone and email";
+"list_single_mileage"="Mileage(Current ride)";
+
+// 0817
+"s_togq"="Login information is outdated, you need to login again.";
+"s_zg"="You have liked!";
+"s_Succcess"="share successful!";
+"s_Fail"="share fail!";
+"s_haslogin"="Login information is outdated, you need to login again.";
+"lModifyUserName"="Modify Ninebot Username";
+"s_modifyPwd"="Set Ninebot Login Password";
+"lComplete"="Perfect Ninebot Account";
+"activate_guide_warn"="This vehicle is not activated. Please follow the activation procedure.";
+"accout_skip"="skip";
+
+//0813
+"s_electricity"="Battery Information";
+"s_percentage"="Remaining Battery Percentage";
+"s_batterystatus"="Battery Status";
+"s_voltage"="Voltage";
+"s_current"="Current";
+"s_power"="Power";
+"s_b1t"="Battery Temperature";
+"s_cri"="Cycling Period";
+"s_btimes"="Times Charged";
+"s_pro"="Manufacturer";
+"s_protime"="Production Date";
+"s_actime"="Activation date";
+"s_bnumber"="Battery Serial No.";
+"s_cap"="Total Capacity";
+"s_b_voltage"="Voltage of Battery Cell";
+"info_device_battery_mini_status_1" = "Excellent";
+"info_device_battery_mini_status_2"="Fine";
+"info_device_battery_mini_status_3"="Medium";
+"info_device_battery_mini_status_4"="Bad";
+"info_device_battery_mini_cell"="Battery Cell";
+// 08-13
+"lSetUserNameTip"="Please complete username, and set up the password. After setting finished, this username and password can login App. Notice: username can only be revised once, and be cautious to your email since it will be used to find password.";
+
+// 08-12
+"s_ridfeel"="Riding Feeling Setting";
+"lVerAlready"="Serial No. has been verified already!";
+"lVerNumFalse"="Incorrect Serial No";
+"lVerFail"="Verify failed. Please try again!";
+
+
+//20150811
+"s_connBLE"="Bluetooth is disconnected!";
+"lBugFeedFail"="Feedback or screenshots cannot be null at the same time";
+"lFeedbackSortFail"="Classification list requesting failure, please try again later";
+
+"s_innerVerson"="Alpha testing V";
+"lBugFeedback"="Question feedback";
+"lBugDescrption"="Descrption";
+"lBugPicture"="Images";
+"lBugKindSelect"="question type";
+"lBugKind"="Category";
+"lFeedbackFinish"="Your question has been successfully feedback.Thank you for your participation and we will deal with it as soon as possible!";
+
+//2015 8.3
+"nb_RidSetting"="Riding Settings";
+"lActiveMachinFirst" = "The function can’t be used until the vehicle authenticated by you";
+"lSaveImg"= "Save to the photo album";
+"yAlertTime"="Please select purchasing time";
+"s_totalrun"="Total\nMileage";
+"s_warning"="Detect a new version of firmware, whether to upgrade?";
+//2015 8.1
+"yNewyet"="The current version has been the latest!";
+"yOldyet"="New version is available, whether or not to update?";
+"yGodown"="To update";
+
+//20150730
+"lUserNameNoNill"="Username shall not be empty!";
+"lUserPwdNoNill"="The password shall not be empty!";
+"lLogin"="Login";
+"lMobileLogin"="Mobile phone number for register/login";
+"lXiaoMiLogin"="Log in with MIUI account";
+"lLoding"="Logging in ...";
+"lUserStateLogin"="The user has already logged in";
+"lUserNoActive"="Your account is not activated, please activate it firstly";
+"lUserLoginAgain"=" Login fails, please try again!";
+"lUserPwdFail"="The password is incorrect, please try again";
+"lPutUserName"="Please input username";
+"s_inPutUserName"="Username/Email";
+"lPutPwd"="Please input account password";
+"lUserRegister"="Register account";
+"lPutPhoneNum"="Input your phone number";
+"lPutCountPwd"="Input your verification code";
+"lGetAuthCode"="Get code";
+"lAuthCode"="Verification";
+"lPostCode"="A text message will be sent to you to activate your account, and the fee is charged by the operator";
+"lPutRightPhoneCode"="Please input correct phone number!";
+"lGetAuthCodeFail"="Getting verification code fails; please send it again";
+"lGetAuthCodelimit"="You can get not more than 5 pieces of verification code every day!";
+"lAuthCodeNoNill"="Verification code shall not be empty!";
+"lAuthCodeFail"="Verification code is incorrect!";
+"lPostLater"="Resend";
+"lAuthFail"="Verification fails!";
+"lSaveAction"="Save";
+"lNoNilNick"="Nickname shall not be empty!";
+"lNoNilSign"="Signature shall not be empty!";
+"lDoneAction"="Finish";
+"lNickName"="Username:";
+"lOldPwd"="Original";
+"lNewPwd"="Password:";
+"lNewPwd2"="Confirm:";
+"lEmailAdd"="Mailbox:";
+"lNoEqulPwd"="Twice passwords are inconsistent";
+"lOldPwdNil"="The original password shall not be empty!";
+"lModifyDone"="Modification succeeds!";
+"lPwdLessSix"="Password less than 6 digits is not allowed!";
+"lNoRightUserName"="Username shall not include’_’";
+"lNoNilEmail"="The mailbox shall not be empty!";
+"lFinishZiLiao"="Succeed in completing the data!";
+"lUersNameExit"="The username has been registered; please user other names!";
+"lEmailExit"="The mailbox has been registered!";
+"lHeaderimg"="Head portrait";
+"lUsername"="Name";
+"lGender"="Gender";
+"lBithDay"="Date of birth";
+"lSig"="Signature";
+"lOwerAuth"="Owner authentication";
+"noAuthenticationWarning"="*You have no certified Ninebot balance vehicle";
+"lModifyPwd"="Modify password";
+"lUserSetting"="Individual settings";
+"lLogout"="Logout";
+"lSetSig"="Set signature";
+"lFinishUserInfo"="Complete the data";
+"lMan"="Male";
+"lWoman"="Female";
+"lLogoutSure"="Are you sure to logout the current account?";
+
+"lMachinVer"="Owner authentication";
+"lLinkMachinFirst"="Please firstly connect the vehicle!";
+"lvertify"="Authentication";
+"lAuthed"="You have authenticated Ninebot series balance vehicle:";
+"lAuth_"="*You have been authenticated";
+"l_machins"="Ninebot series of balance vehicle:";
+"lmachinNum"="Ninebot No.:";
+"lLinkFirst"="Connect the vehicle firstly!";
+"lPhoneNum"="Phone:";
+"lReply"="Reply";
+
+"s_searchDevice"="Search for device";
+"s_reSearch"="Search again";
+
+"s_searching"="Searching the device";
+
+"s_nofound"="Not find any devices";
+"s_pconn"="Please connect the device";
+"s_services"="Service";
+"s_find"="Find";
+"s_nplace"="N Fans";
+"s_M_rank"="Ranking";
+"s_my"="My";
+"s_sin"="Already signed in";
+"s_mil_km"="Unit Settings";
+"s_device_setting"="Device settings";
+"s_deviceInfo"="Device information";
+"s_setting"="Software settings";
+"s_more"="More";
+"s_outtimer"="Network request timeout！";
+"s_active"="Activate";
+"s_goon"="Still can continue to drive";
+"s_all_run"="Have been driving";
+"s_singlerun"="Max Speed (Current ride)";
+"s_avgspeed"="Average Speed";
+"s_limte_speed"="Speed limit";
+"s_canrun"="Remaining \n Mileage";
+"s_n"="North";
+"s_dn"="Northeast";
+"s_d"="East";
+"s_ds"="Southeast";
+"s_s"="South";
+"s_xs"="Southwest";
+"s_x"="West";
+"s_sn"="Northwest";
+"s_updateing"="The firmware is being upgraded; please wait...";
+"s_is_up"="Detect a new version of firmware, whether to upgrade? \n Notes: The vehicle will be automatically locked before updating!";
+"s_speed"="Speed";
+"s_power_"="battery remaining";
+"s_mil"="Residual mileage";
+"s_tmp"="Vehicle Temp.";
+"s_update_ok"="Submit";
+"s_j1"="Dear Users, vehicle is initialized failed, please try again.";
+"s_j2"="Activation succeeds";
+"s_j3"="Has been activated!";
+"s_j4"="The required item shall be empty";
+"s_j5"="The phone format is incorrect";
+"s_j6"="Mailbox format is incorrect!";
+"s_i_a"="Phone/mailbox";
+"s_pcheck"="Please check that whether the phone number or mailbox number is correct";
+"s_safe_vdio"="Safe video";
+
+"s_infor"="Details";
+"s_send"="Send";
+"s_pl"="Review";
+"s_z"="Praise";
+"s_no_content"="The content shall not be empty";
+"s_delete"="Are you sure to delete the Review?";
+"s_loading"="Loading";
+"s_loading_"="Loading…";
+"s_haveno"="No more data";
+"s_newshare"="New share";
+"s_over"="Finish";
+"s_publish"="Release";
+"s_chose"="Select";
+
+
+"nb_carSpeed"="Speed Settings";
+"nb_carLight"="Lights Settings";
+"nb_carSound"="Sound and alarm";
+"nb_carSense"="Sensor Settings";
+"nb_carUpdate"="Firmware Update";
+"nb_carOtherSeting"="Other Settings";
+
+//NBAboutVC
+"pleaseWait"="Please wait";
+"nb_speedSetting"="Speed settings";
+//About
+"yNewIntr"="Features";
+"Thanks"="Special thanks";
+"yUpdate"="Version upgrade";
+"yGuanwang"="Visit the official website";
+"yBanquan"="Ninebot (Beijing) Technology Co., Ltd. All rights reserved";
+"yNaen"="Ninebot";
+"yIntroa"="1.A new interface, more convenient application experience";
+"yIntrob"="2.Fast login, enjoy more convenient fun";
+"yIntroc"="3.Fresh experience of cool vehicle control";
+"yIntrod"="4.Switch sceneries as you wish";
+"yIntroe"="5.Add N fan to get the latest trends real-time sharing";
+"yIntrof"="6.More services, there are ways to solve various problems";
+"yAttria"="Deep blue color with more modern science and technology";
+"yAttrib"="Support login with account of No. 9 Community, MIUI account, or phone account fast login";
+"yAttriC"="You can switch control background to real scene";
+"yAttrid"="Newly adding functions of product repair, mileage calculator, network of maintenance";
+"y_no"="Exclude fully charged times";
+"y_have"="Include fully charged times";
+
+//Introduction and guide view
+"yGo"="Start to experience";
+//NBServieceVC
+//@fault information;@maintenance network;@mileage calculater;@products repairs"
+"Nb_probInf"="Fault information";
+"Nb_serviecePlace"="Maintenance network";
+"Nb_calculator"="Mileage calculator";
+"Nb_probCommit"="Product repairs";
+"Nb_service"="Service";
+//NBProbCommitVC.m Submit for maintenance
+"NB_address"="Contact address";
+"NB_mobile"="Phone";
+"NB_cellPhone"="Telephone";
+"NB_byTime"="Invoice time";
+"NB_byWay"="Purchase channels";
+"NB_sn"="Series No.";
+"NB_errorCode"="Fault code";
+"NB_probText"="Fault description";
+"NB_commitAlert"="Honorific Ninebot user, we have successfully received your problems, and our after-sales personnel will contact you in first time. Please wait patiently.";
+"NB_connectFail"="Network request failed";
+"yCommit"="Submit";
+"yYear"="Year";
+"yMonth"="Month";
+"yDay"="Day";
+//NBProbCommitCell
+"nb_placehold"="Please input the contents";
+//NBCalculatorCalculator
+"NB_modelNumber"="Model";
+"NB_calcuVolume"="Battery volume";
+"NB_height"="Weight";
+"NB_capture"="Air Temperature";
+"NB_driveStyle"="Driving style";
+"NB_battryUse"="Times fully charged";
+"nb_calculateFail"="The machine information is not complete; please complete your machine information";
+"yPleawrite"="Please fill in";
+"yCi"="Times";
+"yOutRange"="Beyond the scope; please input it again";
+"yRane"="Scope";
+"yStylesa"="Driving at a constant speed";
+"yStylesb"="Urban road (frequent speed acceleration and deceleration)";
+"yStylesc"="Stunt show driving";
+"yCalculate"="Mileage calculates";
+
+
+"CFBundleDisplayName"="Ninebot";
+
+//20150320
+
+"Thanks"="Acknowledgment";
+"pleaseWait"="Please wait…";
+"nb_speedSetting"="Speed settings";
+
+
+
+//20150309
+"no_network"="There is no available network";
+//20150304
+"nb_perInfo"="Personal information";
+
+//20150127
+"nb_l"="Hard";
+"nb_r"="Soft";
+"NB_Rank_WEEK"="Weekly";
+"NB_Rank_WEEK_"="Ranking list of the Week";
+
+//20150112
+"one_breakled"="Brake lights";
+
+
+//20141215
+"setting_addcode"="Additional code:";
+
+"SetBluetoothName"="Set the vehicle name";
+"Input8Number"="Please input 8 characters";
+"BluetoothNameError"="Please input 8 letters or numbers";
+//20141211
+"LowTSPonefoot"="Lower steering speed with one foot";
+
+//20141128Update
+"nickname"="Nickname:";
+"p_inputGender"="Please input gender";
+"p_inputRealName"="Please input nickname";
+"up_result"="Changing the personal information fails!";
+"l_mode_0"="No lights";
+"one_konck"="Knock on the switch";
+
+"takePhoto"="Take photos";
+"select_from"="Select from the album";
+"Individuality signature"="Signature:";
+"nb_Sex"="Gender:";
+"nb_city"="Resident city:";
+"nb_nohave"="Not available";
+"nb_enterWeb"="Enter the official website";
+"p_inputName"="Please input individuality signature";
+
+"l_iName"="The length of individuality signature is limited";
+//log in
+"txtHello"="Hello";
+"txtPleaseLogin"="Please login";
+
+"nb_login"="Login";
+"nb_Regist"="Registration";
+"nb_ZX"="Logout";
+
+
+//Register
+"txtFieldBlank"="Shall not be empty";
+
+//bbs
+"OpenSafari"="Safari skims";
+//control
+"max_speed"="Maximum speed";
+
+//rank
+"NB_Rank"="Total";
+"NO_Rank"="Ranking unavailable";
+"NORank_conn"="Ranking unavailable (Please connect the vehicle)";
+"NO_CONN"="Network connection request no response!";
+
+//register
+"user_name"="Username";
+"user_pwd"="Password";
+"user_Tpwd"="Confirm password";
+"user_email"="E-mail";
+
+"nameLength"="The length of username is 3-15";
+"pwdLength"="The length of password is 6-20";
+"pwdCheck"="The password shall include letter and numeric character";
+"pwd_nopass"="Password confirmed mismatches.";
+
+"user_no"="The username includes illegal character!";
+"sorry_register"="Sorry, your IP address can’t be registered within several hours!";
+"user_nameRegister"="The username has been registered!";
+"email_"="The Email has been registered!";
+
+//login
+"user_login"="Login";
+"user_nameorpwd"="Username or password is incorrect!";
+//More
+"perCenter"="Person center";
+"Check_Update"="Check update";
+"current_newVerson"="The current version is the latest!";
+
+
+
+//oneLight color
+"l_mode_1"="Colorful meteor";
+"l_mode_2"="Boy meets girl";
+"l_mode_3"="Blossom age";
+"l_mode_4"="Dynamic breathing";
+"l_mode_5"="Years pass by quickly";
+"l_mode_6"="Colorful meteor";
+"l_mode_7"="Colorful breathing";
+
+"ride_mode"="Cycling somatosensory";
+"atmosphere_mode"="Light mode";
+"r_1"="Color I";
+"r_2"="Color II";
+"r_3"="Color III";
+"r_4"="Color IV";
+
+//One cycling mode
+"O_NormalMode"="Normal mode";
+"O_SoftMode"="Soft model";
+"O_SportMode"="Sport mode";
+
+//Update information
+"AM"="AM";
+"PM"="PM";
+"Last Updated"="The last update:";
+"Release to refresh"="Release to refresh";
+"Pull down to refresh"="Pull down to refresh…";
+"Loading"="Loading…";
+
+"NineBotUpdateSuccess"="The firmware update is successful, please reconnect the Ninebot!";
+"UpdateErrorCtrl"="Update of firmware of master control fails, please try again!";
+"UpdateErrorAHRS"="Update of firmware of AHRS fails, please try again!";
+"UpdateErrorDrive"="Update of drive firmware fails, please try again!";
+"UpdateErrorOne"="Update of firmware fails, please try again!";
+"Warning"="Warning";
+"UpdateTitle"="Firmware Update";
+"NineBotVersion"="Current firmware version:";
+"latestVersion"="Latest version:";
+"FirmwareUpdate"="Firmware update";
+"Lock"="Lock";
+"ErrorCodeChartHeader"="Error code description";
+"46"="46 or above";
+"Input7Number"="Please input 7 numbers";
+"Input6Number"="Please input 6 numbers";
+//AlertView
+"NotConnectedTips"="Connect fail, please try again.";
+"UpdateDes"="A newer version is available, Do you want to update?";
+"Update"="Update";
+"Sure"="OK";
+"RemoveHandleFirst"="Please remove the handlebar";
+"GetOffFirst"="Please enter standby or assistance mode";
+"UpdateFirst"="Please firstly update the firmware";
+"speed curve";
+"ScaleCodeError"="Sorry, the scale sequence format which inputted by you is wrong; please input the scale sequence which was constituted by 7 numbers.";
+"BluetoothCodeError"="Sorry, the matching code inputted by you is incorrect; please input 6 numbers";
+
+"serialNumberCodeError"="The format of serial No. is incorrect!";
+"MailboxError"="Sorry, the mailbox inputted by you is incorrect; please input it again";
+"PostureSensorTips"="Do not move the vehicle.If the vehicle cannot stand on its own, support it with your hand. During calibration, the vehicle will beep twice.After 3 seconds, it will beep twice again.After the second set of beeps, the calibration is complete.";
+"LockFirst"="Please firstly lock the vehicle!";
+"StopFirst"="Please firstly stop the vehicle!";
+
+"StandOffTips"="Please firstly enter into non-standing mode";
+"RebootTips"="Confirm to restart vehicle";
+"ShutDownTips"="Confirm to close vehicle";
+
+"PairCodeRebootTips"="After setting the pairing code, it will take effect when restart the Ninebot again. ";
+"nb_changeBat"="Please be careful! If the setting is not in conformity with the battery type for actual use, it will affect the vehicle's electric quantity detection precision, even affect safety! Whether confirm to switch the type of battery? ";
+
+
+"CauseOfError"="Reasons that possibly cause:";
+"SolutionSuggestion"="Corresponding solutions:";
+
+//MenuViewController
+
+"DashBoard"="Instrument panel";
+"DetailInfo"="Detailed information";
+"BlueToothTeleControl"="Bluetooth remote control";
+"Settings"="Settings";
+
+//NinebotInfoViewController Level 1
+"BasicInfo"="Basic Information";
+"Electricity"="Battery Information" ;
+"Speed&Mileage"="Speed and Mileage";
+"Runtime"="Run time";
+"Temperature"="Temperature";
+"Voltage&Current"="Voltage and current";
+"Posture"="Posture";
+"Check&Update"="Check for firmware updates";
+"About"="About";
+"Tips"="Tips";
+
+"ErrorCodeChart"="Code table of fault alarm";
+"Back"="Back";
+
+//BasicInfo
+"SerialNumber"="Serial No.";
+"BluetoothPairingCode"="Bluetooth pairing code";
+"FirmwareVersion"="Firmware version";
+"ErrorCode"="Error code";
+"AlarmCode"="Alarm code";
+"WorkMode"="The current work mode";
+"FootSwitchStatus"="Standing switch status";
+"HandleAngle"="Handlebar angle";
+
+"StandbyMode"="Standby mode";
+"AssistantMode"="Assistance mode";
+"FootMode"="Standing mode";
+"LockMode"="Lock mode";
+"RemoteMode"="Remote control mode";
+
+//Electricity
+"VehicleBatteryLevel"="The vehicle electric quantity";
+"BatteryALevel"="Electric quantity of battery 1";
+"BatteryBLevel"="Electric quantity of battery 2";
+
+//Speed&Mileage
+"EstimatedRemainingMileage"="Remaining Mileage";
+"CurrentSpeed"="Current Vehicle Speed";
+"LeftWheelSpeed"="The current speed of left wheel";
+"RightWheelSpeed"="The current speed of right wheel";
+"NormalModeValue"="Lit-Speed of Normal Mode";
+"SpeedLimitModeValue"="Speed Limit";
+"OdometerOfRiding"="Mileage (Total)";
+"OdometerOfAssistanting"="Total assistance mileage";
+"OdometerOfRemoting"="Total remote control mileage";
+"TripDistanceOfRiding"="Mileage (Current ride)";
+"TripDistanceOfAssistanting"="A single assistance mileage";
+"TripDistanceOfRemoting"="A single remote control mileage";
+
+//Runtime
+"TotalRunningTime"="Total running time";
+"TotalRidingTime"="Total cycling time";
+"TotalAssistantingTime"="Total assistance time";
+"TotalRemotingTime"="Total remote control time";
+"CurrentRunningTime"="Single running time";
+"CurrentRidingTime"="single cycling time";
+"CurrentAssistantingTime"="single assistance time";
+"CurrentRemotingTime"="single remote control time";
+
+//Temperature
+"VehicleTemperature"="Vehicle Temp.";
+"BatteryATemperature"=" Battery 1 temperature";
+"BatteryBTemperature"="Battery 2 temperature";
+
+//Voltage&Current
+"VehicleInfo"="Vehicle information";
+"DriverVoltage"="Drive voltage";
+"BatteryAVoltage"="Battery 1 voltage";
+"BatteryBVoltage"="Battery 2 voltage";
+"SystemCurrent"="Total current of the system";
+
+"SystemA"="System I";
+"SystemB"="System II";
+"11V"="11 V voltage";
+"12V"="12 V voltage";
+"5V"="5 V voltage";
+"Motor1 Current"="Total current of motor 1";
+"Motor2 Current"="Total current of motor 2";
+"Motor1 Phase Current"="Phase current of motor 1";
+"Motor2 Phase Current"="Phase current of motor 2";
+
+//Posture
+"Pitch Angle"="The current pitching angle";
+"RollAngle"="The current roll angle";
+"PitchAngleRate"="The current pitching angle speed";
+"RollAngleRate"="The current roll angle speed";
+
+//one
+"BackAngle"="The current rear angle of elevation";
+"pwmOutput"="Current PWM value";
+
+//About
+"Version"="Version:";
+
+//updateFW
+"UpdateFWTip"="Your firmware is up to date.";
+"DashBoardNeedUpdate"="The instrument firmware needs to update!";
+"DriveNeedUpdate"="The drive firmware need to update!";
+"AHRSNeedUpdate"="The AHRS firmware need to update!";
+"MasterNeedUpdate"="The master firmware need to update!";
+
+"TeleCtrl Max Forward Speed"="The maximum forwarding speed under the remote control mode";
+"TeleCtrl Max Roll Speed"="The maximum steering speed under the remote control mode";
+"TeleCtrl Max Acce Speed"="The maximum accelerated speed under the remote control mode";
+
+"LightsSettings"="Settings of vehicle lights";
+
+"ForwardLED"="Forwarding light";
+"ForwardLEDMode"="Forwarding light mode";
+"ForwardLEDSwitchingCycle"="Switching period of forwarding light";
+"ForwardLEDAutoBrightness"="Auto Brightness";
+
+"Brightness"="Brightness value";
+"Always"="Normally on mode";
+"BreathingMode"="Breathing mode";
+"BlinkingMode"="Blinking mode";
+"LeftScrollingMode"="Left marquee mode";
+"RightScrollingMode"="Right marquee mode";
+"BothwayScrollingMode"="Bidirectional marquee mode";
+"OFF"="Off";
+
+
+"HandleLED"="Handle light";
+"HandleLEDMode"="Handle light mode";
+"HandleLEDSwitchingCycle"="Switch period of handle light";
+"HandleLEDAutoBrightness"="Handle light brightness automatically adjust";
+
+"DirtboardLED"="Dirtboard light";
+"DirtboardLEDMode"="Dirtboard light mode";
+"DirtboardLEDSwitchingCycle"="Switch period of dirtboard light";
+"DirtboardLEDAutoBrightness"="Dirtboard light brightness automatically adjust";
+
+"SoundSetting"="Sound and alarm settings";
+
+"ONOFFMusic"="Voice of startup and shutdown";
+"TipSound"="Tip sound";
+"Alarm"="Alarm settings";
+
+"Mode"="Mode";
+"DefaultMode"="Default mode";
+"ScaleMode"="Scale mode";
+"ScaleSequence"="Scale sequence";
+"Volume"="Volume";
+"BackAlarm"="Back too fast alarm";
+
+//Steering sensitivity settings
+"AttitudeSensor"="Calibrate balance sensor";
+"AttitudeSensorCalibration"="Calibrate balance sensor";
+"Steeringsensitivity"="Steering sensitivity";
+"SteeringsensitivityAutoBrightness"="Automatically adjust steering sensitivity";
+"SteeringsensitivityValue"="Sensitivity";
+
+"OtherSettings"="Other Settings";
+"RebootNinebot"="Restart vehicle";
+"ShutdownNinebot"="Close vehicle";
+
+"FreeMode"="Open free mode";
+
+"SetBluetoothPairingCode"="Set the Bluetooth pairing code";
+"UpdateSerialNumber"="Set the serial No.";
+"nb_useLargeBattery"="Using large-capacity battery";
+"nb_getoff"="Enter standby condition after you get off";
+
+"Cancel"="Cancel";
+"Save"="Save";
+
+"TargetNumber"="Target serial No.:";
+"TargetNumberError"="Target serial No. is incorrect";
+"SeriNum"="Current serial No.:";
+"PasswordError"="Input of verification code is incorrect!";
+"Password"="Verification code:";
+
+
+"Km_Miles"="Settings of metric system";
+"km"="Metric System";
+"miles"="Imperial System";
+
+"s_down_pull"="Pull down to refresh";
+"s_refresh"="Loosen to immediately refresh";
+"s_refreshing"="In the process of refresh data";
+"s_loadMore"="Click to load more";
+"s_loadingMore"="In process of loading more data";
+"s_loadOver"="Has been completed all loading";
+"s_last_time"="Last update";
+"s_have_no"="No records";
+"s_today"="Today";
+
+"ErrCodeDesc1_8"="Sensor of motor or driver is abnormal";
+"ErrCodeDesc9_12"="High-power switch tube of driver is damaged";
+"ErrCodeDesc13_19"="Other faults of motor driver of vehicle";
+"ErrCodeDesc20_29"="Attitude sensor of vehicle is abnormal";
+"ErrCodeDesc30_34"="Internal communication of vehicle is abnormal";
+"ErrCodeDesc35"="Commutation circuit of battery is abnormal";
+"ErrCodeDesc36"="Output of battery 1 is abnormal";
+"ErrCodeDesc37"="Output of battery 2 is abnormal";
+"ErrCodeDesc38"="Temperature of battery 1 is abnormal";
+"ErrCodeDesc39"="Temperature of battery 2 is abnormal";
+"ErrCodeDesc40"="Pedal sensor of human body is abnormal";
+"ErrCodeDesc41_42"="12VDC or 5VDC low voltage power output inside the vehicle body is abnormal";
+"ErrCodeDesc43"="Charger is abnormal";
+"ErrCodeDesc44"="Reservation of delivery test";
+"ErrCodeDesc45"="Dip angle of the vehicle is too large in the process of driving";
+"ErrCodeDesc46"="Undefined error code";
+
+
+"ErrCodeCause1_8"="1.Fierce strike \n2.Motor sensor is damaged due to electrical fault of inner elements \n3.Occasional abnormal detection during starting up self-inspection";
+"ErrCodeCause9_12"="Generally, velocity jump caused by fierce strike, revolving tyre at a high speed stuck by foreign object or overhigh voltage, overhigh current caused by long term overloading, or overhigh environment temperature may result in damage of driver MOSFET transistor. Generally, state of 'Tyre locked firmly' appears in accompany with the condition, i.e., it is difficult to drag Ninebot. ";
+"ErrCodeCause13_19"="Generally, reasons are power switch transistor is abnormal, or update of firmware of motor driver fails";
+"ErrCodeCause20_29"="1.vehicle body of Ninebot is fiercely struck, which results in dislocation or damage of attitude sensor \n2.Components and parts of attitude sensor break down \n3.Electromagnetic interference causes attitude sensor of the vehicle to give abnormal signals \n4.Occasional abnormal detection during starting up self-inspection";
+"ErrCodeCause30_34"="1.Looseness of 6 lock screws between upside and downside of handlebar causes bad contact \n2.Looseness of internal cable and contact of the vehicle body causes bad contact \n3.Components and parts related to internal communication of vehicle body break down";
+"ErrCodeCause35"="Hot backup protection commutation circuit of internal battery of the vehicle is abnormal";
+"ErrCodeCause36"="Over discharge, disconnection of battery 1 or short circuit protection appears";
+"ErrCodeCause37"="Over discharge, disconnection of battery 2 or short circuit protection appears";
+"ErrCodeCause38"="1.Abnormal high temperature is generated in battery 1 due to short circuit \n2.Damage of temperature sensor in battery interior \n3.Environment temperature is too high or too low";
+"ErrCodeCause39"="1. Abnormal high temperature is generated in battery 1 due to short circuit \n2.Damage of temperature sensor in battery interior \n3.Environment temperature is too high or too low";
+"ErrCodeCause40"="1.Pedal sensor of human body is invalid \n2.Transformation of pedal panel results in that pedal sensor fails to work";
+"ErrCodeCause41_42"="1.Power supply load of handlebar USB is too heavy or short circuit (over 5VDC/1.5A) \n2.Output short circuit of interior 12VDC power or 5 VDC power \n3.Power circuit is damaged";
+"ErrCodeCause43"="Charger output is abnormal, it is unable to charge Ninebot normally";
+"ErrCodeCause44"="Reservation of delivery test";
+"ErrCodeCause45"="Pitching angle or roll angle is too large when Ninebot is driving. The error will appear generally when galloping falls over accidentally or vehicle falls down due to losing balance";
+"ErrCodeCause46"="Reserve unused error code; error type has not been defined yet";
+
+
+"ErrCodeSug1_8"="Attempt to restart, if the error still exists, please contact your retailer or Ninebot service center; you may be asked to deliver vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug9_12"="Users cannot solve the fault by themselves. Please contact your retailer or Ninebot service center; you may be asked to deliver vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug13_19"="Attempt to restart the machine again. If the problem still can’t be settled, please contact with your retailer or Ninebot service center. You may be asked to deliver vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug20_29"="Attempt to restart the machine again. If the problem still can’t be settled, please contact with your retailer or Ninebot service center. You may be asked to deliver vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug30_34"="1.Ensure that downside of handlebar is inserted in place (refer to 2.3.2 of user’s manual). This error will occur if handlebar is inserted to vehicle body in a wrong place. \n2.Ensure 6 screws (i.e., the screws twisted when assemble is done to your new vehicle) connecting upside and downside of handlebar have been perfectly tightened; waggle the handlebar gently, to ensure the position does not loose. Looseness of the screws may results in bad contact, which causes the error";
+"ErrCodeSug35"="Attempt to restart twice-three times and observe whether the error disappears. If the error still exists, please contact your retailer or Ninebot service center; you may be asked to deliver vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug36"="Charge the vehicle body for 10 minutes with the charger, if the problem still cannot be solved, dismantle battery pack and remount, attempt to charge again, if the problem still cannot be solved, please contact your retailer or Ninebot service center; you may be asked to deliver your battery pack to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug37"="Charge the vehicle body for 10 minutes with the charger, if the problem still cannot be solved, dismantle battery pack and remount, attempt to charge again, if the error still exists, please contact your retailer or Ninebot service center; you may be asked to deliver your battery pack to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug38"="1. If the kind of error occurs when Ninebot was used after being disposed at the subzero ten Celsius degree, the low temperature alarm may be generated from the low environment temperature. Please put Ninebot in room temperature environment for at least eight hours, and then try again. \n2. Touch battery case with hand, if it is hot, please disuse immediately, and attempt to restart after placing Ninebot at room temperature for at least four hours. \n If the error still exists, please disuse Ninebot immediately and contact your retailer or Ninebot service center; you may be asked to deliver your battery pack to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug39"="1. If the kind of error occurs when Ninebot was used after being disposed at the subzero ten Celsius degree, the low temperature alarm may be generated from the low environment temperature. Please put Ninebot in room temperature environment for at least eight hours, and then try again. \n2. Touch battery case with hand, if it is hot, please disuse immediately, and attempt to restart after placing Ninebot at room temperature for at least 4 hours. \n If the error still exists, please disuse Ninebot immediately and contact your retailer or Ninebot service center; you may be asked to deliver your battery pack to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug40"="Ensure that pedal panel is not stamped or pressed when starting up is being done. \n2.Check whether pedal panel can bounce normally when feet are not on pedal panel. \n3.If it still cannot be solved, please contact your retailer or Ninebot service center; you may be asked to deliver vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug41_42"="1.Ensure that peripheral power dissipation connecting the vehicle is below 8W (5V/1.5A); \n2.In case no peripheral power is connected, disconnect the handlebar entirely from vehicle body and restart. In case starting is conducted normally after handlebar is disconnected, it indicates that there is short circuit phenomenon in circuit inside the handlebar. Under the circumstance, you may be asked to deliver upside and downside of the handlebar to your retailer for overhauling; In case the error still exists after the handlebar is disconnected, it indicates that faults exist in vehicle body of Ninebot, and you may be asked to deliver vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug43"="1.Please remove charger from AC socket and Ninebot, and replug. If the error still exists, maybe there is something wrong with the charger, and you need to deliver the charger to your retailer for overhauling or ask to exchange for a new charger. \n2.In case the error still exists when charging with the new charger, it indicates that something is wrong inside the vehicle body. Please deliver the vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug44"="Normally, the error will not occur. In case the error appears, please deliver the vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug45"= "Generally, the error may auto disappear after restarting. In case the error still exists after restarting, please deliver the vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+"ErrCodeSug46"="At present, reserve unused error No. Please restart twice-three times and observe whether the error disappears. In case the error No. still appears, maybe there is something wrong with your instrument panel of vehicle. Please deliver the vehicle body of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com";
+
+
+
+
+
+//重新整理，重点是命名，目前命名太乱，现在按照这种规则命名
+"m_second_readGuide"="You have completed 0.6 miles (1 km) of driving. For your safety please review the Guide for Driving again.";
+"m_alreadyRelease_limit"="The speed limit has been released. Please ride safely.";
+//mini激活完成时提示
+"s_do_over_mini"="You have completed the New Rider Tutorial. The vehicle will be speed limited for the first 0.6 miles (1 km).
+";
+
+//markII
+"nb_robot_newhand_completion_tip_markII"="You have completed the New Rider Tutorial. Your unit will be speed limited for the first 0.6 miles (1 km).";
+
+"nb_robot_driving_instruction_tip_markII"="Thank for reading the Guide for Safe Driving. You must read the user manual and follow the New Rider Tutorial in this app before your first ride.";
+"nb_robot_driving_instruction_exercise_tip_markII"="Please watch the 5 minute video on how to control the unit.";
+
+"nb_robot_newhand_step1_markII"="Using Ninebot One";
+"nb_robot_newhand_step2_markII"="Position Adjustment";
+"nb_robot_newhand_step3_markII"="Vehicle-Control Practice";
+"nb_robot_newhand_step4_markII"="Sliding Practice";
+
+"nb_robot_settings_handler_mode_switch_markII"="Switch of lift mode";
+"nb_robot_settings_handler_mode_tips_markII"="When lift mode is on, wheel will not spin rapidly. When lift mode is off, wheel will spin rapidly once vehicle is lifted up. ";
+"nb_robot_settings_handler_settings_markII"="Handle bar setting";
+"nb_robot_settings_handler_calibration_markII"="Handle bar calibration";
+"nb_robot_settings_handler_calibration_start_markII"="Vehicle should be locked before handle bar calibration, please confirm if it is ok to lock the vehicle.";
+"nb_robot_settings_handler_calibration_up_markII"="1/2 Please lift your up vehicle before pressing \"Sure\", otherwise the lift function will not be working.";
+"nb_robot_settings_handler_calibration_down_markII"="2/2 Please lift your vehicle down before pressing \"Sure\", otherwise the lift function will not be not working.";
+"nb_robot_settings_handler_calibration_complete_markII"="Handle bar calibration completed.";
+"nb_robot_activate_success_tip_markII"="Activation Successful! You must review the Guide for Safe Driving. Your unit will remain in speed limiting mode for 0.6 miles (1 km).";
+"nb_robot_unactivate_tips_markII"="Your unit is not activated.  Please follow the activation procedure.";
+"nb_robot_driving_instruction_next"="Next";
+"nb_robot_driving_instruction_prev"="Previous";
+
+//mini 激活相关
+"nb_robot_activate_network_error"="Dear Users, server is busy now, please try later.";
+"nb_robot_activate_xiaomi_tip"="Please note that this product can only be activated by mobile phone number of China Mainland, Hong Kong, Maco and Taiwan regions.";
+
